@@ -22,10 +22,10 @@
 ## 微信支付
 @@||payapp.weixin.qq.com^$important
 ## 夸克网盘
-@@||pan.quark.cn^$important
-@@||drive.quark.cn^$important
 @@||uop.quark.cn
 @@||uop.quark.cn^$important
+@@||api2-album.quark.cn
+@@||api2-album.quark.cn^$important
 ## 夸克首页
 @@||myquark.cn^$important
 ## 小米推送(mipush)
