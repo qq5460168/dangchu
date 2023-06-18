@@ -84,6 +84,70 @@
 @@||mcc1684939218000.lgecqrb.com^$important
 @@||mcc1684939331000.lgecqrb.com^$important
 @@||wb.amap.com^$important
+@@||app.huabao.360.cn^$important
+@@||lf9-mgsdk-sign.dailygn.com^$important
+@@||lf6-mgsdk-sign.dailygn.com^$important
+@@||360buyimg.com^$important
+@@||passport.360.cn^$important
+@@||mapi.m.jd.com^$important
+@@||m.jingxi.com^$important
+@@||jstatic.3.cn^$important
+@@||www.google-analytics.com^$important
+@@||clients6.google.com^$important
+@@||clients4.google.com^$important
+@@||clients2.google.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.googleadservices.com^$important
+@@||wm.makeding.com^$important
+@@||cpv2.mairuan.com^$important
+@@||edge.activity.windows.com^$important
+@@||o.actio.systems^$important
+@@||studcat.infra.systems^$important
+@@||www.crossoverchina.com^$important
+@@||c.duomai.com^$important
+@@||browser.events.data.msn.com^$important
+@@||mediation.adnxs.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||lf1-ttcdn-tos.pstatp.com^$important
+@@||mx.technolutions.net^$important
+@@||chrome-infra-packages.appspot.com^$important
+@@||cps.kaola.com^$important
+@@||s.click.taobao.com^$important
+@@||acs.m.taobao.com^$important
+@@||s.click.tmall.com^$important
+@@||www1.appcleanermac.com^$important
+@@||widget.mibbit.com^$important
+@@||ad.doubleclick.net^$important
+@@||cros-updates-serving.appspot.com^$important
+@@||ptmi.gitv.tv^$important
+@@||puui.qpic.cn^$important
+@@||ingest.sentry.io^$important
+@@||zm.sm-tc.cn^$important
+@@||ctrip.com^$important
+@@||ms.vipstatic.com^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||aweme.snssdk.com^$important
+@@||ggpht.com^$important
+@@||pan.quark.cn^$important
+@@||t.co^$important
+@@||scs.openspeech.cn^$important
+@@||www.ntdtv.com^$important
+@@||jump.luna.58.com^$important
+@@||pingjs.qq.com^$important
+@@||aegis.qq.com^$important
+@@||oth.eve.mdt.qq.com^$important
+@@||sdk.e.qq.com^$important
+@@||ii.gdt.qq.com^$important
+@@||mdt.qq.com^$important
+@@||pgdt.gtimg.cn^$important
+@@||dldir3.qq.com^$important
+@@||gdt.qq.com^$important
+@@||gdtimg.com^$important
+@@||ios.bugly.qq.com^$important
+@@||tangram.e.qq.com^$important
+@@||appsupport.qq.com^$important
+@@||hao123.com^$important
+
 
 
 
@@ -104,9 +168,19 @@
 @@||t16img.yangkeduo.com^$important
 @@||commimg.pddpic.com^$important
 @@||mobile.yangkeduo.com^$important
+@@||browser.360.cn^$important
+@@||cn-cd-dx-2.natfrp.cloud^$important
+@@||alps.51y5.net^$important
+@@||im-x.jd.com^$important
 
-
-
+#美团推送(大众点评)
+@@||dpmtpush.dianping.com^$important
+#阿里推送(未知用途)
+@@||mpush-api.aliyun.com^$important
+#夸克
+@@||quark.cn^$important
+#涉及部分UC系登陆、扫码验证等
+@@||uc.cn^$important
 ##阿里云盘网络验证码
 @@||acs.m.taobao.com^$important
 ##夸克网盘扫码登陆
@@ -355,21 +429,29 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
+
 127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 tw13b093.sandai.net
 127.0.0.1 sousuo.xm.sjzhushou.com
+
 127.0.0.1 staging.admin.e.mi.com
+
 127.0.0.1 security.browser.miui.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 tracking.miui.com
+
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 info.sec.miui.com
+
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 cdn.abc.eamobile.com
 127.0.0.1 union.dbba.cn
+
+
+
 #cm-ksmobile
 127.0.0.1 ads.dh.duba.com
 #cm-wps
@@ -395,6 +477,7 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 ic.ksosoft.com
 127.0.0.1 pc.uf.ksosoft.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
+
 127.0.0.1 img.gou.wpscdn.cn
 127.0.0.1 news.op.wpscdn.cn
 127.0.0.1 news.docer.com
@@ -421,4 +504,5 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 www.jbaobao.com
 127.0.0.1 www.maibanu.com
 127.0.0.1 www.duba.com
+
 
