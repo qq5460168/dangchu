@@ -1,4 +1,4 @@
-
+﻿
 ||ad.us.sinaimg.cn^$important
 
 ||ad.12306.cn^$important
@@ -69539,10 +69539,7 @@
 
 ||bs.twlxxl.cn^$important
 
-||zijieapi.com^$important
 
-# Ads in Video apps
-# > iqiyi & pps
 ||a.ckm.iqiyi.com^$important
 
 DOMAIN-KEYWORD,112wan^$important
