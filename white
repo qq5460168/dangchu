@@ -153,6 +153,12 @@
 @@||passport.360.cn^$important
 @@||app.home.360.cn^$important
 @@||q3.jia.360.cn^$important
+@@||videocloud.cn-hangzhou.log.aliyuncs.com^$important
+@@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
+@@||games.mobileapi.hupu.com^$important
+@@||collect.hupu.com^$important
+@@||bbs.mobileapi.hupu.com^$important
+
 
 
 
