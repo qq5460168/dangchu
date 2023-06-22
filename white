@@ -226,6 +226,18 @@
 @@||msg.douyu.com^$important
 @@||bjfesdk.douyucdn.cn^$important
 @@||gift.douyucdn.cn^$important
+#系统判断联网
+!苹果
+@@||captive.apple.com^$important
+！Windows
+@@||www.msftconnecttest.com^$important
+！华为
+@@||connectivitycheck.platform.hicloud.com^$important
+！vivo
+@@||wifi.vivo.com.cn^$important
+！小米
+@@||connect.rom.miui.com^$important
+
 
 !酷安
 @@||316.coolapk1s.com^$important
