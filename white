@@ -229,13 +229,13 @@
 #系统判断联网
 !苹果
 @@||captive.apple.com^$important
-！Windows
+!Windows
 @@||www.msftconnecttest.com^$important
-！华为
+!华为
 @@||connectivitycheck.platform.hicloud.com^$important
-！vivo
+!vivo
 @@||wifi.vivo.com.cn^$important
-！小米
+!小米
 @@||connect.rom.miui.com^$important
 
 
