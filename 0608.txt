@@ -188979,10 +188979,6 @@ GEOIP,CN,DIRECT
 
 ||pv.funshion.com^$important
 
-||stat.funshion.com^$important
-
-||stat.funshion.net^$important
-
 ||funstage.com^$important
 
 ||tracking.fupa.net^$important
