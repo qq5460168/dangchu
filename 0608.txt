@@ -147718,7 +147718,6 @@ DOMAIN,adashbc.ut.taobao.com^$important
 
 ||tianquan.gtimg.cn^$important
 
-||qzonestyle.gtimg.cn^$important
 
 ||vv.video.qq.com^$important
 
