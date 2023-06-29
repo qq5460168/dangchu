@@ -167,12 +167,6 @@
 @@||static.e.189.cn^$important
 @@||hermes.hupu.com^$important
 @@||hoopchina.com^$important
-@@||hoopchina.com^$important
-
-
-
-
-
 
 
 ##拼多多
@@ -249,7 +243,6 @@
 @@||wifi.vivo.com.cn^$important
 !小米
 @@||connect.rom.miui.com^$important
-
 
 !酷安
 @@||316.coolapk1s.com^$important
@@ -486,8 +479,6 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 cdn.abc.eamobile.com
 127.0.0.1 union.dbba.cn
 
-
-
 #cm-ksmobile
 127.0.0.1 ads.dh.duba.com
 #cm-wps
@@ -540,5 +531,3 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 www.jbaobao.com
 127.0.0.1 www.maibanu.com
 127.0.0.1 www.duba.com
-
-
