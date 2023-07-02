@@ -28956,7 +28956,6 @@
 
 ||ggx0001.com^$important
 
-||ggxwb.miguvideo.com^$important
 
 ||gh8s.top^$important
 
@@ -69532,7 +69531,6 @@
 
 ||1302045025.vod2.myqcloud.com^$important
 
-||miguvideo.com^$important
 
 ||17usoft.com,DIRECT
 ||yyliveb.baidu.com^$important
@@ -95811,7 +95809,6 @@ DOMAIN-KEYWORD,bngpt^$important
 
 ||ggweb.net^$important
 
-||ggxwb.miguvideo.com^$important
 
 ||gh8s.top^$important
 
@@ -199771,16 +199768,6 @@ GEOIP,CN,DIRECT
 ||mightyspiders.com^$important
 
 ||tr.offerte.migliorifornitori.it^$important
-
-||crystalapp.miguvideo.com^$important
-
-||v.miguvideo.com^$important
-
-||ggx01.miguvideo.com^$important
-
-||ggx02.miguvideo.com^$important
-
-||ggx10.miguvideo.com^$important
 
 ||a8clk.miidas.jp^$important
 
