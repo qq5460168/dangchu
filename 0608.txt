@@ -1,8 +1,10 @@
 ﻿
 ||ad.us.sinaimg.cn^$important
 
+#待反馈是否误杀
 ||ad.12306.cn^$important
 
+#百度（可能有多余项）
 ||eclick.baidu.com^$important
 
 ||entry.baidu.com^$important
