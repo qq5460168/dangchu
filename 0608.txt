@@ -139562,8 +139562,6 @@ DOMAIN-KEYWORD,analysis^$important
 
 ||gtmucs.cn^$important
 
-||gu.qlogo.cn^$important
-
 ||guang.lesports.com^$important
 
 ||guangzhuiyuan.com^$important
@@ -143846,11 +143844,7 @@ DOMAIN-KEYWORD,analysis^$important
 
 ||pxl.connexity.net^$important
 
-||py.qlogo.cn^$important
-
 ||py.wikigifth.com^$important
-
-||py2.qlogo.cn^$important
 
 ||pyerc.com^$important
 
@@ -147703,8 +147697,6 @@ DOMAIN,adashbc.ut.taobao.com^$important
 ||snssdk.com^$important
 
 ||adsmind.ugdtimg.com^$important
-
-||qlogo.cn^$important
 
 ||log.umsns.com^$important
 
