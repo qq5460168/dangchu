@@ -36,7 +36,6 @@
 ||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
 ||pglstatp-toutiao.com^
 ||dig.bdurl.net^
-||p*-ad-sign.byteimg.com^
 ||i.snssdk.com^$important
 ||i-lq.snssdk.com^$important
 ||zijieapi.com^
