@@ -173,6 +173,12 @@
 @@||www.kdocs.cn^$important
 @@||qn.cache.wpscdn.cn^$important
 @@||account.wps.cn^$important
+@@||v9-x.toutiaovod.com^$important
+@@||p9-sign.toutiaoimg.com^$important
+@@||p26-sign.toutiaoimg.com^$important
+@@||p6-ad-sign.byteimg.com^$important
+@@||p6-shortvideo-sign.toutiaoimg.com^$important
+
 
 
 
