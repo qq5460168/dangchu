@@ -178,6 +178,9 @@
 @@||p26-sign.toutiaoimg.com^$important
 @@||p6-ad-sign.byteimg.com^$important
 @@||p6-shortvideo-sign.toutiaoimg.com^$important
+@@||volcengine-cache-weboffice.wpscdn.cn^$important
+@@||volcengine-kdocs-cache.wpscdn.cn^$important
+
 
 
 
