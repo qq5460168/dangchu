@@ -35,26 +35,11 @@
 ||dig.zjurl.cn^
 ||ad.zijieapi.com^
 ||mssdk.volces.com^
-||ads5-normal-lq.zijieapi.com^
-||ads3-normal-lq.zijieapi.com^
-||ads3-normal-lq.zijieapi.com^
-||ads5-normal-lq.zijieapi.com^
-||saveu5-normal-lf.zijieapi.com^
-||p9-ad-sign.byteimg.com^
-||p6-ad-sign.byteimg.com^
-||p6-ad.byteimg.com^
-||p3-ad-sign.byteimg.com^
-/snssdk.*/
-/pangolin-sdk.*/
-/pglstatp-toutiao.*/
-||dig.zjurl.cn^
-||ad.zijieapi.com^
-||mssdk.volces.com^
 ||apps.bytesfield.com^
 ||ads5-normal-lq.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
-||ads3-normal-lq.zijieapi.com^
-||ads5-normal-lq.zijieapi.com^
+||ads3-normal-lf.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
 ||saveu5-normal-lf.zijieapi.com^
 ||p9-ad-sign.byteimg.com^
 ||p6-ad-sign.byteimg.com^
@@ -70,7 +55,6 @@
 ||sf1-ttcdn-tos.pstatp.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||lf9-app-pkg-sign.bytesmanager.com^
-
 
 ##作业精灵
 ||101.206.201.229:80^
