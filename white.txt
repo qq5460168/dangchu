@@ -181,7 +181,7 @@
 @@||volcengine-cache-weboffice.wpscdn.cn^$important
 @@||volcengine-kdocs-cache.wpscdn.cn^$important
 @@||p6.douyinpic.com^$important
-
+@@||i.gtimg.cn^$important
 
 
 
