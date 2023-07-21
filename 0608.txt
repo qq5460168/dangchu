@@ -147703,7 +147703,6 @@ DOMAIN,adashbc.ut.taobao.com^$important
 ||haohuo.jinritemai.com^$important
 
 
-
 ||gxh.vip.qq.com^$important
 
 
@@ -147715,9 +147714,6 @@ DOMAIN,adashbc.ut.taobao.com^$important
 ||qqtuan.qq.com^$important
 
 ||w.gamecenter.qq.com^$important
-
-
-||i.gtimg.cn^$important
 
 
 ||imc.abchina.com^$important
