@@ -182,6 +182,8 @@
 @@||volcengine-kdocs-cache.wpscdn.cn^$important
 @@||p6.douyinpic.com^$important
 @@||i.gtimg.cn^$important
+@@||xiaoshuo.wtzw.com^$important
+@@||castatic.fengkongcloud.com^$important
 
 
 
