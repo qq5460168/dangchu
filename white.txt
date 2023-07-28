@@ -187,6 +187,7 @@
 @@||lf9-open-ma-pkg-sign.bytemastatic.com^$important
 @@||play-fe.googleapis.com^$important
 @@||c.pc.qq.com^$important
+@@||content-autofill.googleapis.com^$important
 
 
 
