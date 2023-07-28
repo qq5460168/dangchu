@@ -184,6 +184,10 @@
 @@||i.gtimg.cn^$important
 @@||xiaoshuo.wtzw.com^$important
 @@||castatic.fengkongcloud.com^$important
+@@||lf9-open-ma-pkg-sign.bytemastatic.com^$important
+@@||play-fe.googleapis.com^$important
+@@||c.pc.qq.com^$important
+
 
 
 
