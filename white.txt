@@ -188,6 +188,9 @@
 @@||play-fe.googleapis.com^$important
 @@||c.pc.qq.com^$important
 @@||content-autofill.googleapis.com^$important
+@@||ssl.gstatic.com^$important
+@@||www.gstatic.com^$important
+
 
 
 
