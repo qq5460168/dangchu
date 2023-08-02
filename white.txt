@@ -190,6 +190,11 @@
 @@||content-autofill.googleapis.com^$important
 @@||ssl.gstatic.com^$important
 @@||www.gstatic.com^$important
+@@||upage.imtt.qq.com^$important
+@@||zhwnlapi.etouch.cn^$important
+@@||ww12.lanzous.com^$important
+@@||ww1.lanzous.com^$important
+@@||connect.intl.rom.miui.com^$important
 
 
 
