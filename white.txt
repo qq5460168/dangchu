@@ -1,5 +1,4 @@
 ## 放行
-@@||taobao.com^$important
 @@||tmall.com^$important
 @@||jd.com^important
 @@||flyme.cn^$important
@@ -232,7 +231,6 @@
 #夸克
 @@||quark.cn^$important
 #涉及部分UC系登陆、扫码验证等
-@@||uc.cn^$important
 ##阿里云盘网络验证码
 @@||acs.m.taobao.com^$important
 ##夸克网盘扫码登陆
