@@ -194,6 +194,11 @@
 @@||ww12.lanzous.com^$important
 @@||ww1.lanzous.com^$important
 @@||connect.intl.rom.miui.com^$important
+@@||ap6.ssl.msdk.qq.com^$important
+@@||www.alidns.com^$important
+@@||play.googleapis.com^$important
+@@||nsclick.baidu.com^$important
+@@||da.mmarket.com^$important
 
 
 ##拼多多
