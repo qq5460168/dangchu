@@ -199,6 +199,11 @@
 @@||play.googleapis.com^$important
 @@||nsclick.baidu.com^$important
 @@||da.mmarket.com^$important
+@@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
+@@||177e.wodenongtian.com^$important
+@@||177f.wodenongtian.com^$important
+@@||wodenongtian.com^$important
+
 
 
 ##拼多多
