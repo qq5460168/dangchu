@@ -203,6 +203,8 @@
 @@||177e.wodenongtian.com^$important
 @@||177f.wodenongtian.com^$important
 @@||wodenongtian.com^$important
+@@||m.ykimg.com^$important
+@@||v2.get.sogou.com^$important
 
 
 
