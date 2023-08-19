@@ -147648,7 +147648,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 
 ||tvax1.sinaimg.cn^
 
-||img.alicdn.com^
 
 ||198.18.0.25/32^
 
