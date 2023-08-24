@@ -147774,7 +147774,6 @@ DOMAIN,adashbc.ut.taobao.com^
 
 ||api-access.pangolin-sdk-toutiao.com^
 
-||tnc3-alisc1.zijieapi.com^
 
 ||sf3-fe-tos.pglstatp-toutiao.com^
 
