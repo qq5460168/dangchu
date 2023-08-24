@@ -205,7 +205,8 @@
 @@||wodenongtian.com^$important
 @@||m.ykimg.com^$important
 @@||v2.get.sogou.com^$important
-
+@@||p3-sign.toutiaoimg.com^$important
+@@||mmstat.com^$important
 
 
 ##拼多多
