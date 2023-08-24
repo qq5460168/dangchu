@@ -147651,7 +147651,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 
 ||198.18.0.25/32^
 
-
 ||eco.taobao.com^
 
 ||nbsdk-baichuan.taobao.com^
@@ -147661,8 +147660,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 ||h-adashx.ut.ele.me^
 
 ||jinritemai.com^
-
-
 
 ||umeng.com^
 
@@ -147687,8 +147684,6 @@ DOMAIN,adashbc.ut.taobao.com^
 ||pangolin-sdk-toutiao.com^
 
 ||ctobsnssdk.com^
-
-||pinduoduo.com^
 
 ||snssdk.com^
 
