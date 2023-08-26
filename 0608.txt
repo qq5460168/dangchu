@@ -10410,7 +10410,6 @@ DOMAIN-KEYWORD,bngpt^
 ||wnys1.com^
 ||wo19.top^
 ||woaijiba.com^
-||wodeshougong.com^
 ||woerkedwith.top^
 ||wohuamanhua.com^
 ||wojiabaoye.com^
@@ -14191,7 +14190,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 ||k.us.sinaimg.cn^
 ||tqt.weibo.cn^
 ||down.apps.sina.cn^
-||union-click.jd.com^
 ||tieba-ares.cdn.bcebos.com^
 ||https://h5.gdt.qq.com/xjviewer/nemo/^
 ||xj.gtimg.cn^
