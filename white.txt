@@ -302,4 +302,73 @@
 @@||lf3-cdn-tos.bytegoofy.com^$important
 @@||lf6-cdn-tos.bytegoofy.com^$important
 @@||lf1-cdn-tos.bytegoofy.com^$important
+! 抖音直播购物
+@@||haohuo.jinritemai.com^ 
+@@||tnc11-bjlgy.zijieapi.com^
+@@||tnc3-alisc1.zijieapi.com^
+
+! 今日头条相关
+@@||snssdk.com^
+@@||p3-sign.toutiaoimg.com^
+@@||mcs.snssdk.com^
+
+# 小米主题无法打开，小米推送失效
+@@||data.mistat.xiaomi.com^$important
+# 淘宝
+@@||h-adashx.ut.taobao.com^$important
+@@||m.intl.taobao.com^$important
+# 微信红包
+@@||as.weixin.qq.com^$important
+# 淘宝相关
+@@||eco.taobao.com^$important
+@@||audid-api.taobao.com^$important
+@@||audid-api.taobao.com^$important
+@@||amdcopen.m.taobao.com^$important
+# 头条搜索
+@@||is.snssdk.com^$important
+# 小米主题无法打开，小米推送失效
+@@||data.mistat.xiaomi.com^$important
+@@||sdkconfig.ad.xiaomi.com^$important
+# 知乎
+@@||appcloud2.zhihu.com^$important
+@@||sugar.zhihu.com^$important
+# 修复小米健康无法打开手表公交卡的问题
+@@||cnbj1.fds.api.xiaomi.com^$important
+@@||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||api.vip.miui.com^$important
+
+#葫芦侠
+@@||huluxia.com^$important
+#bing
+@@||bing.com^$important
+@@||bing.net^$important
+#网易
+@@||netease.com^$important
+#网易图片
+@@||v6-nimg.ws.126.net^
+#@@||gdfp.gifshow.com^$important
+@@||kwimgs.com^$important
+#腾讯视频图片
+@@||puui.qpic.cn^$important
+#快手
+@@||kwimgs.com^$important
+@@||gdfp.gifshow.com^$important
+#网易
+@@||netease.com^$important
+#抖音直播
+@@||douyincdn.com^$important
+||suggestion.baidu.com^$important
+#dns
+||236ba16f-7989-71de-e510-1cad33923355.cnnic.rip^$important
+#同程旅行
+@@||40017.cn^$important
+@@||hotel.17u.cn^$important
+@@||wx.17u.cn^$important
+#腾讯地图
+@@||map.qq.com^$important
+#高德地图微信
+@@||wb.amap.com^$important
+#广电
+@@||dwz.cn^$important
+@@||10099.com.cn^$important
 
