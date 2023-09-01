@@ -28,6 +28,26 @@
 ||buildingdoodlesquare.com^
 ||colonistnobilityheroic.com^
 
+! 某些系统日志log上传
+||tailscale.io^
+! Apache Tomcat api
+||api.open.adsaide.cn^
+||adisaid.cn^
+ ! 某些其他
+||yunconfig.com^
+!思必驰 
+||log.aispeech.com^
+!新浪微博跳转及恶意诈骗广告
+||shorturl.biz.weibo.cn^
+||wcqfzzn.top^
+||/sinaurl?u=^
+||lingdong.biz.weibo.com^
+||leyad.cn^
+||golona.ink^
+||wcuiqyu.cn^
+||ningbojisheng.cn^
+||t.cn^
+
 #字节系 AD API SDK 屏蔽
 /snssdk.*/
 /pangolin-sdk.*/
