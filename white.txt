@@ -210,6 +210,12 @@
 @@||ap.6wz.co^$important
 @@||tnc3-alisc1.zijieapi.com^$important
 @@||union-click.jd.com^$important
+@@||push1.91cloud.net^$important
+@@||pull2.91cloud.net^$important
+@@||umengacs.m.taobao.com^$important
+@@||video3.pddpic.com^$important
+@@||video2.pddpic.com^$important
+@@||log1.cmpassport.com^$important
 
 
 
