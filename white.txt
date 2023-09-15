@@ -19,8 +19,6 @@
 @@||rs.xmeye.net^$important
 @@||rs.xmeye.net
 @@||act.vip.iqiyi.com^$importan
-@@||dc.sigmob.cn^$important
-@@||adservice.sigmob.cn^$important
 @@||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
 @@||httpdns.bcelive.com^$important
 @@||wwo.wps.cn^$important
