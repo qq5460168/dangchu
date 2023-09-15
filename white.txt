@@ -223,6 +223,10 @@
 @@||video2.pddpic.com^$important
 @@||log1.cmpassport.com^$important
 @@||static.qiyi.com^$important
+@@||app.market.xiaomi.com^$important
+@@||sofire.baidu.com^$important
+@@||ecmb.bdimg.com^$important
+@@||sp1.baidu.com^$important
 
 
 
