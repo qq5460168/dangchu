@@ -4,6 +4,9 @@
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
+||tr.byteurl.cn^$important
+||dsp-x.jd.com.gslb.qianxun.com^$important
+
 
 ##Xiaomi 小米
 ||s.miwifi.com^
