@@ -225,6 +225,9 @@
 @@||sofire.baidu.com^$important
 @@||ecmb.bdimg.com^$important
 @@||sp1.baidu.com^$important
+@@||mobile.ximalaya.com^$important
+@@||share.myfreecams.com^$important
+@@||d.toutiao.com^$important
 
 
 
