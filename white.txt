@@ -324,6 +324,24 @@
 @@||p3-sign.toutiaoimg.com^
 @@||mcs.snssdk.com^
 
+#中国移动
+@@||config.cmpassport.com^$important
+@@||www.cmpassport.com^$important
+@@||wap.cmpassport.com^$important
+@@||onekey1.cmpassport.com^$important
+@@||log1.cmpassport.com^$important
+@@||smsks1.cmpassport.com^$important
+@@||verify.cmpassport.com^$important
+
+#中国联通
+@@||opencloud.wostore.cn^$important
+@@||auth.wosms.cn^$important
+@@||id.mail.wo.cn^$important
+@@||mdn.open.wo.cn^$important
+@@||hmrz.wo.cn^$important
+@@||nishub1.10010.com^$important
+@@||enrichgw.10010.com^$important
+
 # 小米主题无法打开，小米推送失效
 @@||data.mistat.xiaomi.com^$important
 # 淘宝
