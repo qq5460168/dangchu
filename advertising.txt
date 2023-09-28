@@ -3367,7 +3367,6 @@
 127.0.0.1 gitlab-w3.devops.net.core.corp-core-csr21raw.int-511.windows.net.zooplus.com
 127.0.0.1 ads.trafficaces.com
 127.0.0.1 www.traffichaus.com
-127.0.0.1 p1.music.126.net
 127.0.0.1 ads.cosimacom.de
 127.0.0.1 ads.visionads.de
 127.0.0.1 px-conf.perimeterx.net
@@ -19146,7 +19145,6 @@
 127.0.0.1 theunwired.us.intellitxt.com
 127.0.0.1 track-west.mobileadtrading.com
 127.0.0.1 controller-legacy-windows.originsvcgateway.tester-partner-prod.net.zooplus.com
-127.0.0.1 p6.music.126.net
 127.0.0.1 proxy-test.partner-prod.net.zooplus.com
 127.0.0.1 us03.lockview.cn
 127.0.0.1 www4.at.debianbase.de
@@ -19816,7 +19814,6 @@
 127.0.0.1 dixonsrt.hb-api.omtrdc.net
 127.0.0.1 ads.host.sk
 127.0.0.1 www.clicksor.net
-127.0.0.1 d1.music.126.net
 127.0.0.1 results-today.com
 127.0.0.1 www.odbierzdarmowedoladowanie.wordpress.com
 127.0.0.1 www.bus-offer.com
@@ -21322,7 +21319,6 @@
 127.0.0.1 automotive.us.intellitxt.com
 127.0.0.1 click-west.acuityplatform.com
 127.0.0.1 eventownik.pl
-127.0.0.1 p4.music.126.net
 127.0.0.1 www.eloterija.si
 127.0.0.1 leaitworldprod.112.2o7.net
 127.0.0.1 sofia.ai
@@ -27363,7 +27359,6 @@
 127.0.0.1 www.montecarlocasino.com
 127.0.0.1 msnonecare.112.2o7.net
 127.0.0.1 www.exitforcash.com
-127.0.0.1 p5.music.126.net
 127.0.0.1 bill.ccbill.com
 127.0.0.1 payperplay.voice2page.com
 127.0.0.1 chilliads.fuse-ad.com
@@ -33379,7 +33374,6 @@
 127.0.0.1 www.geekbook.pl
 127.0.0.1 games.superappbox.com
 127.0.0.1 vote4me.de
-127.0.0.1 p2.music.126.net
 127.0.0.1 1782.engine.mobileapptracking.com
 127.0.0.1 ad.joinaxxess.com
 127.0.0.1 motleyfool-d.openx.net
@@ -39390,7 +39384,6 @@
 127.0.0.1 counter.yakbucks.com
 127.0.0.1 banners.anunciweb.pt
 127.0.0.1 pcbutts1.software.informer.com
-127.0.0.1 p3.music.126.net
 127.0.0.1 guyscards.com
 127.0.0.1 69ba-95af-a923-8c02.reporo.net
 127.0.0.1 appupdate.sj.91.com
