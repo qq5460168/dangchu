@@ -230,6 +230,9 @@
 @@||d.toutiao.com^$important
 @@||loc.map.baidu.com^$important
 @@||mixer.sina.cn^$important
+@@||s.img.mix.sina.com.cn^$important
+@@||simg.sinajs.cn^$important
+@@||interest.mix.sina.com.cn^$important
 
 
 
