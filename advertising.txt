@@ -34857,7 +34857,6 @@
 127.0.0.1 trafficcdn.liveuniversenetwork.com
 127.0.0.1 up.nytimes.com
 127.0.0.1 captcha-smart.top
-127.0.0.1 k.sinaimg.cn
 127.0.0.1 w.hbalx.cn
 127.0.0.1 as1.mistupid.com
 127.0.0.1 cdn.castoola.com
