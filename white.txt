@@ -228,6 +228,8 @@
 @@||mobile.ximalaya.com^$important
 @@||share.myfreecams.com^$important
 @@||d.toutiao.com^$important
+@@||loc.map.baidu.com^$important
+@@||mixer.sina.cn^$important
 
 
 
