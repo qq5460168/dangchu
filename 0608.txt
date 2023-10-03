@@ -9300,7 +9300,6 @@ DOMAIN-KEYWORD,analysis^
 ||dou777.com^
 ||doubleclick.tv002.com^
 ||doudao.cn^
-||down.360safe.com^
 ||down.diannaodian.com^
 ||down.laomaotao.net^
 ||down.winads.cn^
