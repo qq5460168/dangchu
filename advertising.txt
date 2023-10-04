@@ -8652,7 +8652,6 @@
 127.0.0.1 hagebakken.no
 127.0.0.1 engage14112tlnts.deltadna.net
 127.0.0.1 www.najlepszewrozby.pl
-127.0.0.1 miwifi.com
 127.0.0.1 mikopi.com
 127.0.0.1 migpay.com
 127.0.0.1 mizvan.com
