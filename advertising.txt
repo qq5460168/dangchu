@@ -8242,7 +8242,6 @@
 127.0.0.1 thebuzz.today
 127.0.0.1 openx.gamereactor.dk
 127.0.0.1 classic-rest-api.prod.adtech.de
-127.0.0.1 cmonitor.iqiyi.com
 127.0.0.1 espnsportsbook.com
 127.0.0.1 espnsportszone.com
 127.0.0.1 gotosportsbook.com
@@ -12038,7 +12037,6 @@
 127.0.0.1 error.mobpartner.mobi
 127.0.0.1 gou.51gpt.com
 127.0.0.1 games.mobpartner.mobi
-127.0.0.1 tower.douyucdn.cn
 127.0.0.1 www.leadbolt.com
 127.0.0.1 www.mojekumpele.blogspot.com
 127.0.0.1 latin3.directtrack.com
@@ -15819,7 +15817,6 @@
 127.0.0.1 eng.localytics.com
 127.0.0.1 image3.static.adflex.vn
 127.0.0.1 theu.net
-127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 www.serwisinformacyjny.x9.eu
 127.0.0.1 adsby.breezeads.com
 127.0.0.1 trinitymirror.112.2o7.net
