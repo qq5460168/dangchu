@@ -13409,7 +13409,6 @@
 127.0.0.1 dobrykredyt.co.pl
 127.0.0.1 reklamy.sfd.pl
 127.0.0.1 bank-196.ads.mp.mydas.mobi
-127.0.0.1 img-ys011.didistatic.com
 127.0.0.1 ads.teenport.com
 127.0.0.1 meta.streamcloud.eu
 127.0.0.1 www.easyhitcounters.com
