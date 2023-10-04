@@ -3565,7 +3565,6 @@
 ||meilleurpronostic.fr^
 ||mfp.deliver.ifeng.com^
 ||pbmp.ali213.net^
-||tanx.com^
 ||thegatewaypundit.com^
 ||thelibertydaily.com^
 ||tj.ali213.net^
@@ -11270,8 +11269,7 @@ DOMAIN,adashbc.ut.taobao.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||open3.bmob.cn^
 ||a87a81dc7389ce8d1872d8d3a5de6633.rdt.tfogc.com^
-||utoken.umeng.com^
-p3-be-pack-sign.pglstatp-toutiao.com^
+||p3-be-pack-sign.pglstatp-toutiao.com^
 ||img14.360buyimg.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||image.coolapk.com,DIRECT
@@ -22978,7 +22976,6 @@ GEOIP,CN,DIRECT
 ||qdxrhg.com^
 ||dwtrack.qidian.com^
 ||audit.qiuwen.wiki^
-||qiyukf.com^
 ||ad.browser.qq.com^
 ||quantum-advertising.com^
 ||rejnrb.quelle.ch^
