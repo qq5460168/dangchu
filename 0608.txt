@@ -2906,7 +2906,6 @@
 ||staithecrinion.com^
 ||stambashimmy.com^
 ||stat.dyna.ultraweb.hu^
-||stat.xiaomi.com^
 ||static.fmpub.net^
 ||static.kameleoon.com^
 ||statisticsdemandeddeficit.com^
@@ -2944,7 +2943,6 @@
 ||sullensregimes.com^
 ||sultingcoem.com^
 ||supanchor.co^
-||superbdolly.com^
 ||supply.colossusssp.com^
 ||supportivedistrustuldistrustulmaturity.com^
 ||surftraditioncommonplace.com^
@@ -7286,7 +7284,6 @@ DOMAIN-KEYWORD,bngpt^
 ||titudy.com^
 ||tivdeesaloyhx.com^
 ||tiwom.com^
-||tjqonline.cn^
 ||tjxafmo.cn^
 ||tjys88.com^
 ||tkngckh.cn^
@@ -8706,7 +8703,6 @@ DOMAIN-KEYWORD,analysis^
 ||amps.yoyi.com.cn^
 ||amz.steamprices.com^
 ||an.wikigifth.com^
-||android.rqd.qq.com^
 ||anioscp.com^
 ||ann5.net^
 ||anreson.net^
@@ -8802,7 +8798,6 @@ DOMAIN-KEYWORD,analysis^
 ||b.livesport.eu^
 ||b.localpages.com^
 ||b.nvrentao8.com^
-||b.qchannel03.cn^
 ||b.scorecardresearch.com^
 ||b.thefile.me^
 ||b.xcafe.com^
@@ -8931,7 +8926,6 @@ DOMAIN-KEYWORD,analysis^
 ||c.rexuebi.com^
 ||c.shunlige.com^
 ||c.v4dwkcv.com^
-||c.wkanx.com^
 ||c.wrating.com^
 ||c.zgnm.cc^
 ||c.zlongad.com^
@@ -9752,7 +9746,6 @@ DOMAIN-KEYWORD,analysis^
 ||inskin.vo.llnwd.net^
 ||inte.theta.sogoucdn.com^
 ||interaction.bayimob.com^
-||ios-dc.51y5.net^
 ||ip2.pxene.com^
 ||ipic.staticsdo.com^
 ||iqiyi.irs01.com^
@@ -10370,7 +10363,6 @@ DOMAIN-KEYWORD,analysis^
 ||push.126.net^
 ||push.air-matters.com^
 ||push.wapx.cn^
-||push-dc.51y5.net^
 ||pv.alert.autohome.com.cn^
 ||pv.ra.icast.cn^
 ||pvdata.ku6.com^
@@ -10691,7 +10683,6 @@ DOMAIN-KEYWORD,analysis^
 ||sscefsol.com.cn^
 ||ssdaili.com^
 ||ssjy168.com^
-||ssl.google-analytics.com^
 ||ssl.ymapp.com^
 ||ssl-cdn.media.innity.net^
 ||sso-cas.gridsumdissector.com^
@@ -11233,7 +11224,6 @@ DOMAIN-KEYWORD,analysis^
 ||api.tdp.u7u9.com^
 DOMAIN-KEYWORD,podcast,PROXY
 ||183.253.254.196/32^
-||minigame.gtimg.cn^
 ||pcm-img.zhls.qq.com^
 ||ag.jjcdnt.com^
 ||error.taobao.com^
@@ -11259,8 +11249,6 @@ DOMAIN,adashbc.ut.taobao.com^
 ||snssdk.com^
 ||haohuo.jinritemai.com^
 ||gxh.vip.qq.com^
-||tianquan.gtimg.cn^
-||vv.video.qq.com^
 ||qqtuan.qq.com^
 ||w.gamecenter.qq.com^
 ||imc.abchina.com^
@@ -11278,7 +11266,6 @@ DOMAIN,adashbc.ut.taobao.com^
 ||publisher-config.unityads.unity.cn^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
 ||sdk.tianmu.mobi^
-||sf3-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||open3.bmob.cn^
@@ -22158,7 +22145,6 @@ GEOIP,CN,DIRECT
 ||buzzzoo.net^
 ||img.bwin.be^
 ||img.bwin.it^
-||p6-ad-sign.byteimg.com^
 ||stipple.cachefly.net^
 ||track.cafu.com^
 ||sadbmetrics.canal-literatura.com^
@@ -23123,7 +23109,6 @@ GEOIP,CN,DIRECT
 ||socialproof.it^
 ||socialrest.com^
 ||socialtools.fm^
-||input.shouji.sogou.com^
 ||tracker.tv.sohu.com^
 ||s.somos-arts.org^
 ||stats.songbox.rocks^
