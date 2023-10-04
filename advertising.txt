@@ -35344,7 +35344,6 @@
 127.0.0.1 www.intellisuggest.com
 127.0.0.1 www.dodostats.com
 127.0.0.1 faithfull.kdm.pl
-127.0.0.1 drive.google.com.it-barcelona.com
 127.0.0.1 creativeteam.it
 127.0.0.1 media.origin.doublepimp.com
 127.0.0.1 log.loveota.net
@@ -42384,7 +42383,6 @@
 127.0.0.1 webanalyser.net
 127.0.0.1 genetree.112.2o7.net
 127.0.0.1 motorsport-total.de.intellitxt.com
-127.0.0.1 bat.r.msn.com
 127.0.0.1 www.obkzrcclean2.az.pl
 127.0.0.1 blitzadbg.hit.gemius.pl
 127.0.0.1 betpromo247.com
@@ -48272,7 +48270,6 @@
 127.0.0.1 view.atdmt.com.38352.9304.302br.net
 127.0.0.1 view.atdmt.com.38358.9304.302br.net
 127.0.0.1 view.atdmt.com.38340.9304.302br.net
-127.0.0.1 adult-banner-ads.com
 127.0.0.1 view.atdmt.com.72989.9541.302br.net
 127.0.0.1 view.atdmt.com.72986.9541.302br.net
 127.0.0.1 view.atdmt.com.72987.9541.302br.net
@@ -48360,7 +48357,6 @@
 127.0.0.1 ad.doubleclick.net.23294.9075.302br.net
 127.0.0.1 ad.doubleclick.net.21794.9075.302br.net
 127.0.0.1 ad-emea.doubleclick.net.69632.9574.302br.net
-127.0.0.1 analytics.radiatemedia.com
 127.0.0.1 view.atdmt.com.26123.9201.302br.net
 127.0.0.1 view.atdmt.com.26128.9201.302br.net
 127.0.0.1 ad.doubleclick.net.74978.9336.302br.net
@@ -48677,7 +48673,6 @@
 127.0.0.1 view.atdmt.com.77592.9661.302br.net
 127.0.0.1 view.atdmt.com.77594.9661.302br.net
 127.0.0.1 www.xtrafic.ro
-127.0.0.1 ad.userporn.com
 127.0.0.1 ad.doubleclick.net.36385.9279.302br.net
 127.0.0.1 bs.serving-sys.com.47082.9349.302br.net
 127.0.0.1 bs.serving-sys.com.20382.9120.302br.net
@@ -48696,7 +48691,6 @@
 127.0.0.1 ad.doubleclick.net.66623.9513.302br.net
 127.0.0.1 view.atdmt.com.46921.9304.302br.net
 127.0.0.1 view.atdmt.com.46903.9304.302br.net
-127.0.0.1 adsk2.co
 127.0.0.1 ad.doubleclick.net.13642.9053.302br.net
 127.0.0.1 ad.doubleclick.net.56957.9401.302br.net
 127.0.0.1 ad.doubleclick.net.60557.9436.302br.net
@@ -48852,7 +48846,6 @@
 127.0.0.1 ad.doubleclick.net.23934.9166.302br.net
 127.0.0.1 ad.doubleclick.net.25434.9185.302br.net
 127.0.0.1 ad-emea.doubleclick.net.78065.9503.302br.net
-127.0.0.1 ads.allvatar.com
 127.0.0.1 ad.doubleclick.net.73203.9616.302br.net
 127.0.0.1 stats.technopia.it
 127.0.0.1 ad.doubleclick.net.44299.9336.302br.net
@@ -48956,7 +48949,6 @@
 127.0.0.1 view.atdmt.com.51872.9377.302br.net
 127.0.0.1 view.atdmt.com.51876.9377.302br.net
 127.0.0.1 view.atdmt.com.51888.9377.302br.net
-127.0.0.1 ad.maist.jp
 127.0.0.1 cdn.eyewonder.com.21897.9068.302br.net
 127.0.0.1 ad.doubleclick.net.21715.9075.302br.net
 127.0.0.1 ad.doubleclick.net.10515.9027.302br.net
@@ -49360,7 +49352,6 @@
 127.0.0.1 ad.doubleclick.net.56263.9393.302br.net
 127.0.0.1 ad.doubleclick.net.58763.9318.302br.net
 127.0.0.1 ad.doubleclick.net.58363.9318.302br.net
-127.0.0.1 www.adult-banner-ads.com
 127.0.0.1 www.ad.doubleclick.net.73285.9423.302br.net
 127.0.0.1 ad.doubleclick.net.17394.9085.302br.net
 127.0.0.1 ad.doubleclick.net.18294.9085.302br.net
@@ -49862,7 +49853,6 @@
 127.0.0.1 view.atdmt.com.63429.9488.302br.net
 127.0.0.1 view.atdmt.com.71382.9489.302br.net
 127.0.0.1 view.atdmt.com.71385.9489.302br.net
-127.0.0.1 ad.jamster.com
 127.0.0.1 bs.serving-sys.com.49313.9352.302br.net
 127.0.0.1 bs.serving-sys.com.36613.9244.302br.net
 127.0.0.1 bs.serving-sys.com.10013.9024.302br.net
@@ -50671,7 +50661,6 @@
 127.0.0.1 ad.doubleclick.net.73153.9617.302br.net
 127.0.0.1 ad.doubleclick.net.73553.9619.302br.net
 127.0.0.1 ad.doubleclick.net.80653.9685.302br.net
-127.0.0.1 ad.premiumonlinemedia.com
 127.0.0.1 ad.doubleclick.net.14277.9064.302br.net
 127.0.0.1 cdn.eyewonder.com.22804.9068.302br.net
 127.0.0.1 cdn.eyewonder.com.22794.9068.302br.net
@@ -52226,7 +52215,6 @@
 127.0.0.1 view.atdmt.com.24507.9179.302br.net
 127.0.0.1 spc.cegeihmgcfefpedefemeogbe.iban.telemetryverification.net.47544.9351.302br.net
 127.0.0.1 ad.doubleclick.net.42187.9318.302br.net
-127.0.0.1 banner.img.co.za
 127.0.0.1 dtf.goyavelab.com
 127.0.0.1 bs.serving-sys.com.36531.9244.302br.net
 127.0.0.1 bs.serving-sys.com.71531.9356.302br.net
@@ -52999,7 +52987,6 @@
 127.0.0.1 ad.doubleclick.net.65391.9499.302br.net
 127.0.0.1 ad.doubleclick.net.64891.9496.302br.net
 127.0.0.1 view.atdmt.com.24537.9180.302br.net.25157.9185.302br.net
-127.0.0.1 ads.newtention.net
 127.0.0.1 ad.doubleclick.net.31021.9240.302br.net
 127.0.0.1 ad.doubleclick.net.32321.9239.302br.net
 127.0.0.1 ad.doubleclick.net.33821.9250.302br.net
@@ -54408,7 +54395,6 @@
 127.0.0.1 bs.serving-sys.com.1826.9021.302br.net
 127.0.0.1 ad.doubleclick.net.44929.9339.302br.net
 127.0.0.1 ad.doubleclick.net.43329.9330.302br.net
-127.0.0.1 on-mobi.com
 127.0.0.1 ad.doubleclick.net.59561.9318.302br.net
 127.0.0.1 ad.doubleclick.net.58961.9318.302br.net
 127.0.0.1 ad.doubleclick.net.59961.9318.302br.net
@@ -56245,7 +56231,6 @@
 127.0.0.1 ad.doubleclick.net.25432.9185.302br.net
 127.0.0.1 ad.doubleclick.net.25732.9190.302br.net
 127.0.0.1 ad.doubleclick.net.24332.9115.302br.net
-127.0.0.1 admaster.com.cn
 127.0.0.1 ad.doubleclick.net.34420.9225.302br.net
 127.0.0.1 ad.doubleclick.net.60520.9279.302br.net
 127.0.0.1 ad.doubleclick.net.36920.9252.302br.net
@@ -56290,7 +56275,6 @@
 127.0.0.1 ad.doubleclick.net.60555.9436.302br.net
 127.0.0.1 ad.doubleclick.net.70755.9499.302br.net
 127.0.0.1 spoods.rce.veeseo.com
-127.0.0.1 ad.looktraffic.com
 127.0.0.1 view.atdmt.com.41258.9306.302br.net
 127.0.0.1 ad.doubleclick.net.10100.9025.302br.net
 127.0.0.1 aducash.com
@@ -57541,7 +57525,6 @@
 127.0.0.1 creativeby1.unicast.com.17580.9103.302br.net
 127.0.0.1 creativeby1.unicast.com.17582.9103.302br.net
 127.0.0.1 creativeby1.unicast.com.17578.9103.302br.net
-127.0.0.1 ad.firstadsolution.com
 127.0.0.1 ad.doubleclick.net.47234.9350.302br.net
 127.0.0.1 ad.doubleclick.net.80434.9515.302br.net
 127.0.0.1 ad.doubleclick.net.41634.9317.302br.net
@@ -57910,7 +57893,6 @@
 127.0.0.1 ad.doubleclick.net.56380.9078.302br.net
 127.0.0.1 ad.doubleclick.net.11980.9037.302br.net
 127.0.0.1 ad.doubleclick.net.16580.9003.302br.net
-127.0.0.1 ads.img.co.za
 127.0.0.1 ad-emea.doubleclick.net.23242.9162.302br.net
 127.0.0.1 ad-emea.doubleclick.net.23237.9162.302br.net
 127.0.0.1 ad-emea.doubleclick.net.23233.9162.302br.net
@@ -61124,7 +61106,6 @@
 127.0.0.1 ad.doubleclick.net.48728.9318.302br.net
 127.0.0.1 ad.doubleclick.net.41628.9317.302br.net
 127.0.0.1 view.atdmt.com.27297.9202.302br.net
-127.0.0.1 ad2.linxcz.cz
 127.0.0.1 ad.doubleclick.net.43568.9303.302br.net
 127.0.0.1 ad.doubleclick.net.51168.9318.302br.net
 127.0.0.1 ad.doubleclick.net.73568.9619.302br.net
