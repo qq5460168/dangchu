@@ -6,6 +6,17 @@
 ||youtube.com/get_midroll_
 ||tr.byteurl.cn^$important
 ||dsp-x.jd.com.gslb.qianxun.com^$important
+||input.shouji.sogou.com^
+||sf3-fe-tos.pglstatp-toutiao.com^
+||ssl.google-analytics.com^
+||minigame.gtimg.cn^
+||vv.video.qq.com^
+||tianquan.gtimg.cn^
+||c.wkanx.com^
+||push-dc.51y5.net^
+||ios-dc.51y5.net^
+||android.rqd.qq.com^
+||b.qchannel03.cn^
 
 
 ##Xiaomi 小米
@@ -328,3 +339,7 @@ tcp://
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 
+#hosts
+127.0.0.1 access1.tpns.tencent.com
+127.0.0.1 vweixinthumb.tc.qq.com
+127.0.0.1 api.g.micloud.xiaomi.net
