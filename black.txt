@@ -17,6 +17,11 @@
 ||ios-dc.51y5.net^
 ||android.rqd.qq.com^
 ||b.qchannel03.cn^
+||tanx.com^
+||qiyukf.com^
+||utoken.umeng.com^
+||pangolin-sdk-toutiao*.com^
+||report.tencentmusic.com
 
 
 ##Xiaomi 小米
@@ -343,3 +348,6 @@ tcp://
 127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 api.g.micloud.xiaomi.net
+127.0.0.1 tower.douyucdn.cn
+127.0.0.1 cmonitor.iqiyi.com
+127.0.0.1 jupiter.sys.miui.com
