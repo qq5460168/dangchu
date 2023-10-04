@@ -13628,7 +13628,6 @@
 127.0.0.1 www.eccobet.com
 127.0.0.1 www.lyconet.com
 127.0.0.1 betcatalinasports.com
-127.0.0.1 api.g.micloud.xiaomi.net
 127.0.0.1 www.plytanagrillapl.com
 127.0.0.1 adintop.go2cloud.org
 127.0.0.1 www-shard07-jm.justclick.ru
@@ -37575,7 +37574,6 @@
 127.0.0.1 funkyevents.pl
 127.0.0.1 hydrocodone.shengen.ru
 127.0.0.1 sp.zalo.me
-127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 ads.onlineguiden.com
 127.0.0.1 bank-25.ads.mp.mydas.mobi
 127.0.0.1 bank-45.ads.mp.mydas.mobi
@@ -46268,7 +46266,6 @@
 127.0.0.1 track.msadcenter.toj.com
 127.0.0.1 track.msadcenter.tux.com
 127.0.0.1 yad1.yad2.co.il
-127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 serving.pixsense.net
 127.0.0.1 godoycrus.com
 127.0.0.1 msninviteprod.112.2o7.net
