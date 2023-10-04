@@ -36404,7 +36404,6 @@
 127.0.0.1 infoc.sjk.ijinshan.com
 127.0.0.1 kanok.co.th
 127.0.0.1 www.proficredit.pl
-127.0.0.1 url8807.global.passport.xiaomi.com
 127.0.0.1 neorsoft.xost.ru
 127.0.0.1 test1.lmsoft.cz
 127.0.0.1 ads.move.adsonar.com
@@ -46392,7 +46391,6 @@
 127.0.0.1 adbonus.com
 127.0.0.1 adprofs.com
 127.0.0.1 wpxn.com
-127.0.0.1 go.mi.edu
 127.0.0.1 www.xy7track.com
 127.0.0.1 ads.habbohotel.it
 127.0.0.1 ads.uppsala.com
