@@ -24,7 +24,12 @@
 ||utoken.umeng.com^
 ||pangolin-sdk-toutiao*.com^
 ||report.tencentmusic.com
-
+||im64.jpush.cn^
+||tieba-ares.cdn.bcebos.com^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||devs.data.mob.com^
+||hectorstatic.baidu.com^
+||ping.pinyin.sogou.com^
 
 ##Xiaomi 小米
 ||s.miwifi.com^
@@ -353,3 +358,4 @@ tcp://
 127.0.0.1 tower.douyucdn.cn
 127.0.0.1 cmonitor.iqiyi.com
 127.0.0.1 jupiter.sys.miui.com
+127.0.0.1 ossgw.alicdn.com
