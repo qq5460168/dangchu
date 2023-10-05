@@ -7046,7 +7046,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 ||k.us.sinaimg.cn^
 ||tqt.weibo.cn^
 ||down.apps.sina.cn^
-||tieba-ares.cdn.bcebos.com^
 ||https://h5.gdt.qq.com/xjviewer/nemo/^
 ||xj.gtimg.cn^
 ||ebiz.cdn-static.abchina.com^
@@ -7058,7 +7057,6 @@ DOMAIN-KEYWORD,podcast,PROXY
 DOMAIN,adashbc.ut.taobao.com^
 ||bayescom.com^
 ||bayescom.cn^
-||hectorstatic.baidu.com^
 ||mpush-api.aliyun.com^
 ||snssdk.com^
 ||haohuo.jinritemai.com^
@@ -7075,7 +7073,6 @@ DOMAIN,adashbc.ut.taobao.com^
 ||ocsp.pki.goog,PROXY
 ||ssp-sdk-api.jiguang.cn^
 ||360buyimg.com^
-||p26-be-pack-sign.pglstatp-toutiao.com^
 ||publisher-config.unityads.unity.cn^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
 ||sdk.tianmu.mobi^
