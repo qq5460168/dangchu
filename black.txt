@@ -30,6 +30,19 @@
 ||hectorstatic.baidu.com^
 ||ping.pinyin.sogou.com^
 
+##不良网站
+||xbzb8.cc^$important
+||www.xbzb8.cc^$important
+||www.xbfxs6.com^$important
+||737qq.pw^$important
+||www.737qq.pw^$important
+||m.zhibo8.com^$important
+||www.azhibo.com^$important
+||azhibo.com^$important
+||now.3g.cn^$important
+||xfzb2.cc^$important
+||www.xfzb2.cc^$important
+
 ##Xiaomi 小米
 ||s.miwifi.com^
 ||tjqonline.cn^
