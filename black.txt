@@ -19,7 +19,6 @@
 ||ios-dc.51y5.net^
 ||android.rqd.qq.com^
 ||b.qchannel03.cn^
-||tanx.com^
 ||qiyukf.com^
 ||utoken.umeng.com^
 ||pangolin-sdk-toutiao*.com^
