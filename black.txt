@@ -42,6 +42,13 @@
 ||now.3g.cn^$important
 ||xfzb2.cc^$important
 ||www.xfzb2.cc^$important
+||noi107.com^$important
+||tquzifwb.com^$important
+||2cm.fullstack.vip^$important
+||d5vegqovvvewn.cloudfront.net^$important
+||wsjctpfp.com^$important
+||2cm.fullstack.vip^$client='192.168.3.123'
+||fr5uptmx.com^$important
 
 ##Xiaomi 小米
 ||s.miwifi.com^
@@ -371,3 +378,6 @@ tcp://
 127.0.0.1 cmonitor.iqiyi.com
 127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 ossgw.alicdn.com
+127.0.0.1 iphonesubmissions.apple.com
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 auth.api.gitv.tv
