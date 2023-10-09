@@ -15612,7 +15612,6 @@
 127.0.0.1 acookie.taobao.com
 127.0.0.1 ad354m.adk2.co
 127.0.0.1 gamingrealms.go2cloud.org
-127.0.0.1 fonts.googleapis.com
 127.0.0.1 go.octobird.com
 127.0.0.1 cdn.popo.wan.ijinshan.com
 127.0.0.1 www.powerofads.com
@@ -25173,7 +25172,6 @@
 127.0.0.1 stats.smartbucks.com
 127.0.0.1 echo.teasernet.com
 127.0.0.1 greatmedic.com
-127.0.0.1 iphonesubmissions.apple.com
 127.0.0.1 ads.buscouniversidad.com
 127.0.0.1 www.mobclix.com
 127.0.0.1 stats.zone-telechargement.click
