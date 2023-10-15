@@ -43464,3 +43464,21 @@
 127.0.0.1 ad.doubleclick.net.79382.9678.302br.net
 127.0.0.1 ad.doubleclick.net.73182.9620.302br.net
 127.0.0.1 ad.doubleclick.net.80882.9682.302br.net
+
+127.0.0.1 ga.tiancity.cn
+#bate
+127.0.0.1 oss.cdn.aiclk.com
+127.0.0.1 upos-hz-mirrorakam.akamaized.net
+127.0.0.1 httpdns.bilivideo.com
+127.0.0.1 data.bilibili.com
+127.0.0.1 upos-sz-mirror08h.bilivideo.com
+127.0.0.1 dspsdk.pinduoduo.com
+127.0.0.1 xlog.jd.com
+127.0.0.1 jzapi.baidu.com
+127.0.0.1 jmy-pic.baidu.com
+127.0.0.1 ot-gdown.baidu.com
+127.0.0.1 dsp-x.jd.com
+127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
+127.0.0.1 upos-sz-mirror08c.bilivideo.com
+127.0.0.1 upos-sz-mirror08c.bilivideo.com.ctdns.cn
+127.0.0.1 upos-sz-mirrorcos.bilivideo.com
