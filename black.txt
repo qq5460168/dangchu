@@ -224,6 +224,70 @@ tcp://
 ||cdn.51img3.com^
 ||test.18bit.cn^
 
+#酷友APPea 分享
+||v3-novelapp.fqnovelvod.com^
+||116.169.11.31:443^
+||saveu5-normal-lq.zijieapi.com^
+||v6-novelapp.fqnovelvod.com^
+||p3-webcast.douyinpic.com^
+||tnc3-bjlgy.zijieapi.com^
+||p9-developer-sign.bytemaimg.com^
+||tnc11-bjlgy.zijieapi.com^
+||123.6.82.180:80^$important
+||tnc3-aliec2.zijieapi.com^
+/fqnovelvod.*/
+||p3-webcast-sign.douyinpic.com^
+||lf9-cdn-tos.bytegecko.com^
+||203.119.216.50:443^
+||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
+||zijieapi.com^
+appinn.com###latest-posts .latestPost:nth-child（-n+3）
+||vcs.zijieapi.com^
+||lf-cdn-tos.bytescm.com^
+||frontier-toutiao.snssdk.com^
+||mon11-misc-lq.fqnovel.com^
+/lf.fqnovel.*/
+||p9-novelfm-sign.novelfmpic.com^
+||p26.douyinpic.com^
+appinn.com###sidebar.wp-block-image, .size-full
+||tnc3-alisc1.zijieapi.com^
+||111.13.24.68:443^$important
+/ad-sign.*/
+||113.207.83.53:443^
+||ads5-normal-lq.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||112.194.65.102:80^$important
+||112.192.22.90:443^$important
+||ma5-normal-lq.zijieapi.com^
+||116.132.223.77:443^$important
+/bytegoofy.*/
+appinn.com##.featured-section
+||imapi2.snssdk.com^
+/byteorge.*/
+/mgsdk-sign.*/
+||polaris3-normal-lq.zijieapi.com^
+||116.169.11.27:443^
+||gecko5-lq.zijieapi.com^
+||feedback-c.zijieapi.com^
+||is-lq.snssdk.com^
+/zijieapi.*/
+/bytedance.*/
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||p3-novel.byteimg.com^
+||116.169.48.137:443^$important
+||p3-novelfm-sign.novelfmpic.com^
+||v9-be-pack.pglstatp-toutiao.com^
+||101.206.201.225:443^
+||ads3-normal-lq.zijieapi.com^
+||101.207.252.229:443^$important
+||p9-ad-sign.byteimg.com^
+||app.pyypl.io^
+||ahp10.site^
+||2023musk.net^
+||app.fashalot.com^
+||a.acvx.host^
+||app.thestaxapp.com^
+
 #屏蔽MIUI应用检测
 127.0.0.1 log.avlyun.sec.intl.miui.com
 127.0.0.1 update.avlyun.sec.miui.com
