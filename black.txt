@@ -1,5 +1,5 @@
 ! Title: 去广告规则，反馈🐧群请点击主页
-!Homepage:http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
+! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 ##个人拦截规则
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
@@ -22,7 +22,7 @@
 ||qiyukf.com^
 ||utoken.umeng.com^
 ||pangolin-sdk-toutiao*.com^
-||report.tencentmusic.com
+||report.tencentmusic.com^
 ||im64.jpush.cn^
 ||tieba-ares.cdn.bcebos.com^
 ||p26-be-pack-sign.pglstatp-toutiao.com^
@@ -30,7 +30,7 @@
 ||hectorstatic.baidu.com^
 ||ping.pinyin.sogou.com^
 
-##不良网站
+#不良网站
 ||xbzb8.cc^$important
 ||www.xbzb8.cc^$important
 ||www.xbfxs6.com^$important
@@ -72,6 +72,13 @@
 ||salutationcheerlessdemote.com^
 ||buildingdoodlesquare.com^
 ||colonistnobilityheroic.com^
+||dnet.mb.qq.com^$app=com.xtuone.android.syllabus
+||182.92.244.70^$app=com.xtuone.android.syllabus
+||api.bianxian.haodanku.com^$app=com.xtuone.android.syllabus
+||a.super.cn^$app=com.xtuone.android.syllabus
+||apis.dongtu.com^$app=com.xtuone.android.syllabus
+
+108.177.97.100 translate.googleapis.com
 
 ! 某些系统日志log上传
 ||tailscale.io^
@@ -185,11 +192,6 @@ tcp://
 ||cdn-ad.wtzw.com^
 ||a-qmad.qimao.com^
 ||mssdk.volces.com^
-
-#番茄
-
-
-
 
 ## 信息流及评论区广告
 ||s2s.adjust.cn^$important
