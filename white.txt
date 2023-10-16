@@ -236,6 +236,9 @@
 @@||update.360safe.com^$important
 @@||tracker.didistatic.com^$important
 @@||aeventlog.beacon.qq.com^$important
+@@||ecombdapi.com^$important
+@@||cainiao-bgx-log.cn-wulanchabu.log.aliyuncs.com^$important
+@@||apissl.ksapisrv.com^$important
 
 
 
