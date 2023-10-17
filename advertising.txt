@@ -43472,7 +43472,6 @@
 127.0.0.1 httpdns.bilivideo.com
 127.0.0.1 data.bilibili.com
 127.0.0.1 upos-sz-mirror08h.bilivideo.com
-127.0.0.1 dspsdk.pinduoduo.com
 127.0.0.1 xlog.jd.com
 127.0.0.1 jzapi.baidu.com
 127.0.0.1 jmy-pic.baidu.com
@@ -43481,4 +43480,3 @@
 127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
 127.0.0.1 upos-sz-mirror08c.bilivideo.com
 127.0.0.1 upos-sz-mirror08c.bilivideo.com.ctdns.cn
-127.0.0.1 upos-sz-mirrorcos.bilivideo.com
