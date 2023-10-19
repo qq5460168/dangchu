@@ -498,6 +498,12 @@ tcp://
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 tat.pandora.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 mishop.pandora.xiaomi.com
 
 #hosts
 127.0.0.1 access1.tpns.tencent.com
@@ -512,3 +518,4 @@ tcp://
 127.0.0.1 auth.api.gitv.tv
 127.0.0.1 dspsdk.pinduoduo.com
 127.0.0.1 upos-sz-mirrorcos.bilivideo.com
+127.0.0.1 s.w.org
