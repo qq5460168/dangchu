@@ -10270,7 +10270,6 @@
 127.0.0.1 30x.org
 127.0.0.1 ads.org
 127.0.0.1 c42.org
-127.0.0.1 s.w.org
 127.0.0.1 b.aklamio.com
 127.0.0.1 www.hitwebcounter.com
 127.0.0.1 www.zedoadnetwork.com
