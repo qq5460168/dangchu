@@ -239,6 +239,9 @@
 @@||ecombdapi.com^$important
 @@||cainiao-bgx-log.cn-wulanchabu.log.aliyuncs.com^$important
 @@||apissl.ksapisrv.com^$important
+@@||api.open.uc.cn^$important
+@@||member.aligames.com^$important
+@@||tpstelemetry.tencent.com^$important
 
 
 
