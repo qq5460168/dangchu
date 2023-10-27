@@ -242,6 +242,9 @@
 @@||api.open.uc.cn^$important
 @@||member.aligames.com^$important
 @@||tpstelemetry.tencent.com^$important
+@@||tv.2345.com^$important
+@@||accscdn.m.taobao.com^$important
+@@||push.m.youku.com^$important
 
 
 
