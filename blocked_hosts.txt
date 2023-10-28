@@ -45143,7 +45143,6 @@
 127.0.0.1 pnekru6pxrum-a.akamaihd.net
 127.0.0.1 pneral.com
 127.0.0.1 pnesemr.cn
-127.0.0.1 pnewsapp.tc.qq.com
 127.0.0.1 pnez8.rut6m.xyz
 127.0.0.1 pnhesw.jtb.co.jp
 127.0.0.1 pnhfc.com
