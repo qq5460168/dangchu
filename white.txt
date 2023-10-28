@@ -245,6 +245,10 @@
 @@||tv.2345.com^$important
 @@||accscdn.m.taobao.com^$important
 @@||push.m.youku.com^$important
+@@||drive.uc.cn^$important
+@@||inews.gtimg.com^$important
+@@||appimg.dbankcdn.com^$important
+@@||isee.weishi.qq.com^$important
 
 
 
