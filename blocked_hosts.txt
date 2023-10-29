@@ -9631,7 +9631,6 @@
 127.0.0.1 bd.hao224.com
 127.0.0.1 bd.haomagujia.com
 127.0.0.1 bd.hd.sohu.com
-127.0.0.1 bd.pull.yximgs.com
 127.0.0.1 bd.watu.cn
 127.0.0.1 bd.zhpxkl.cn
 127.0.0.1 bd1-china.6789.com
