@@ -89,7 +89,6 @@
 @@||mapi.m.jd.com^$important
 @@||m.jingxi.com^$important
 @@||jstatic.3.cn^$important
-@@||www.google-analytics.com^$important
 @@||clients6.google.com^$important
 @@||clients4.google.com^$important
 @@||clients2.google.com^$important
@@ -249,6 +248,7 @@
 @@||inews.gtimg.com^$important
 @@||appimg.dbankcdn.com^$important
 @@||isee.weishi.qq.com^$important
+@@||train.17u.cn^$important
 
 
 
