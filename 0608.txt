@@ -7039,7 +7039,6 @@ DOMAIN-KEYWORD,analysis^
 ||i.adyounger.com^
 DOMAIN-KEYWORD,podcast,PROXY
 ||183.253.254.196/32^
-||pcm-img.zhls.qq.com^
 ||ag.jjcdnt.com^
 ||error.taobao.com^
 ||only-447162-27-148-53-181.nstool.laiqukankan.com^
