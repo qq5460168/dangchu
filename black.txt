@@ -29,6 +29,7 @@
 ||devs.data.mob.com^
 ||hectorstatic.baidu.com^
 ||ping.pinyin.sogou.com^
+||pcm-img.zhls.qq.com^
 
 #不良网站
 ||xbzb8.cc^$important
@@ -723,3 +724,6 @@ tcp://
 127.0.0.1 crl4.digicert.com
 127.0.0.1 upos-sz-mirror08h.bilivideo.com
 127.0.0.1 minorshort.weixin.qq.com
+127.0.0.1 baikebcs.bdimg.com
+127.0.0.1 afdconf.baidu.com
+127.0.0.1 safebrowsing.googleapis.com
