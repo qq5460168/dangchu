@@ -132,7 +132,6 @@
 @@||pingjs.qq.com^$important
 @@||aegis.qq.com^$important
 @@||oth.eve.mdt.qq.com^$important
-@@||sdk.e.qq.com^$important
 @@||ii.gdt.qq.com^$important
 @@||mdt.qq.com^$important
 @@||pgdt.gtimg.cn^$important
@@ -142,7 +141,6 @@
 @@||ios.bugly.qq.com^$important
 @@||tangram.e.qq.com^$important
 @@||appsupport.qq.com^$important
-@@||hao123.com^$important
 @@||mapi.m.jd.com^$important
 @@||m.jingxi.com^$important
 @@||jstatic.3.cn^$important
