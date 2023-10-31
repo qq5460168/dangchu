@@ -139,7 +139,6 @@ tcp://
 ||api.map.baidu.com^$app=com.baidu.map.location
 ||appdist.360os.com^
 ||tobapplog.ctobsnssdk.com^
-||p5-pro.a.yximgs.com^
 ||tx-ad.a.yximgs.com^
 ||t-dsp.pinduoduo.com^
 ||v1-lm.adbkwai.com^
