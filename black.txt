@@ -720,7 +720,6 @@ tcp://
 127.0.0.1 s.w.org
 127.0.0.1 upos-sz-mirror08c.bilivideo.com
 127.0.0.1 bd.pull.yximgs.com
-127.0.0.1 game.weixin.qq.com
 127.0.0.1 crl4.digicert.com
 127.0.0.1 upos-sz-mirror08h.bilivideo.com
 127.0.0.1 minorshort.weixin.qq.com
