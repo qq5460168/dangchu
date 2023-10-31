@@ -24584,7 +24584,6 @@
 127.0.0.1 game.rising.cn
 127.0.0.1 game.subway.uu.cc
 127.0.0.1 game.weibo.com.cn
-127.0.0.1 game.weixin.qq.com
 127.0.0.1 game2.cn
 127.0.0.1 game3737.com
 127.0.0.1 game3896.com
