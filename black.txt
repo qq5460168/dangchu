@@ -13,7 +13,6 @@
 ||ssl.google-analytics.com^
 ||minigame.gtimg.cn^
 ||vv.video.qq.com^
-||tianquan.gtimg.cn^
 ||c.wkanx.com^
 ||push-dc.51y5.net^
 ||ios-dc.51y5.net^
