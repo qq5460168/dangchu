@@ -1,5 +1,7 @@
 ! Title: 去广告规则，反馈🐧群请点击主页
 ! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
+
+##部分规则来自DD大佬
 ##个人拦截规则
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
@@ -176,6 +178,26 @@
 ||cdn-ad.wtzw.com^
 ||a-qmad.qimao.com^
 ||mssdk.volces.com^
+
+#笔趣阁网页广告
+||hlryzsqo.icu^
+||scenery.hk^
+||xiedao.hk^
+||bcnsport.us^
+||ncbtsdea.xyz^
+||vjyaghdw.icu^
+#书旗
+||dsp-x.jd.com^
+||xlog.jd.com^
+||api.th.wanzjhb.com^
+||janapi.jd.com^
+||partner.uc.cn^
+||mos.m.taobao.com^
+||sdk-log.partner.sm.cn^
+||opehs.tanx.com^
+#OPPO
+||sms.ads.heytapmobi.com^
+||cl-data.ads.heytapmobi.com^
 
 ## 信息流及评论区广告
 ||s2s.adjust.cn^$important
