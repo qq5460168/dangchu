@@ -60,8 +60,6 @@
 ||stat.xiaomi.com^
 
 ##自定义
-/googleads.$~script,domain=~googleads.github.io
-/pagead/lvz?
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
@@ -82,7 +80,6 @@
 
 ! 某些系统日志log上传
 ||tailscale.io^
-! Apache Tomcat api
 ||api.open.adsaide.cn^
 ||adisaid.cn^
  ! 某些其他
@@ -92,18 +89,14 @@
 !新浪微博跳转及恶意诈骗广告
 ||shorturl.biz.weibo.cn^
 ||wcqfzzn.top^
-||/sinaurl?u=^
 ||lingdong.biz.weibo.com^
 ||leyad.cn^
 ||golona.ink^
 ||wcuiqyu.cn^
 ||ningbojisheng.cn^
-||t.cn^
+
 
 #字节系 AD API SDK 屏蔽
-/snssdk.*/
-/pangolin-sdk.*/
-/pglstatp-toutiao.*/
 ||dig.zjurl.cn^
 ||ad.zijieapi.com^
 ||mssdk.volces.com^
@@ -129,9 +122,6 @@
 ||lf9-app-pkg-sign.bytesmanager.com^
 
 ##作业精灵
-||101.206.201.229:80^
-tcp://101.206.241.228:80
-tcp://
 ||open.e.kuaishou.cn^
 ||ali-ad.a.yximgs.com^
 ||comp.360os.com^
@@ -145,8 +135,6 @@ tcp://
 ||toblog.ctobsnssdk.com^
 ||tnc3-aliec2.zijieapi.com^
 ||toblog.ctobsnssdk.com^$app=com.pcncn.jj
-||117.174.147.220:80^
-||112.19.198.91:80^
 
 ##虎扑广告
 ||hermes-server.hupu.com^
@@ -160,7 +148,6 @@ tcp://
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||open.toutiao.com^
 ||goblin.hupu.com^
-||games.mobileapi.hupu.com/1/8.0.14/bplapi/device/v1/frontendofflinepkg/up gradeListByCodes?pkgCode=&pkgVersion=0&cid=132236015$app=com.hupu.games
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
@@ -177,8 +164,7 @@ tcp://
 ||open.kuaishouzt.com^$third-party,app=com.kmxs.reader
 ||lf-cdn-tos.bytescm.com^$third-party,app=com.kmxs.reader
 ||119.29.29.29^$app=com.kmxs.reader
-||auni.telecome.cn/a/mdna/report?v=1.0&t=m&p=74D0EA2A0C54C3F489A9130BA98A7AE3$third-party,app=com.kmxs.reader
-||119.29.29.29/d?clientip=1&dn=tx-proxy.pull.yximgs.com$third-party,app=com.kmxs.reader
+
 #得间
 ||aiclk.com^
 ||smad.ms.zhangyue.net^
@@ -226,7 +212,6 @@ tcp://
 
 #酷友APPea 分享
 ||v3-novelapp.fqnovelvod.com^
-||116.169.11.31:443^
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||v6-novelapp.fqnovelvod.com^
@@ -236,11 +221,9 @@ tcp://
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||p9-developer-sign.bytemaimg.com^
 ||tnc11-bjlgy.zijieapi.com^
-||123.6.82.180:80^important
 ||tnc3-aliec2.zijieapi.com^
 ||p3-webcast-sign.douyinpic.com^
 ||lf9-cdn-tos.bytegecko.com^
-||203.119.216.50:443^
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^important
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||dig.bdurl.net^
@@ -253,19 +236,13 @@ tcp://
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||tnc3-alisc1.zijieapi.com^
-||111.13.24.68:443^important
-||113.207.83.53:443^
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com^
-||112.194.65.102:80^important
-||112.192.22.90:443^important
 ||ma5-normal-lq.zijieapi.com^
-||116.132.223.77:443^important
 ||api-access.pangolin-sdk-toutiao.com^
 ||imapi2.snssdk.com^
 ||polaris3-normal-lq.zijieapi.com^
 ||v6-be-pack.pglstatp-toutiao.com^
-||116.169.11.27:443^
 ||abtest3-misc-lq.zijieapi.com^
 ||gecko5-lq.zijieapi.com^
 ||feedback-c.zijieapi.com^
@@ -279,9 +256,7 @@ tcp://
 ||116.169.48.137:443^important
 ||p3-novelfm-sign.novelfmpic.com^
 ||v9-be-pack.pglstatp-toutiao.com^
-||101.206.201.225:443^
 ||ads3-normal-lq.zijieapi.com^
-||101.207.252.229:443^important
 ||p9-ad-sign.byteimg.com^
 ||adsoptimal.com^
 ||adversaldisplay.com^
