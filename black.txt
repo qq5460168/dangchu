@@ -1,6 +1,5 @@
 ! Title: 去广告规则，反馈🐧群请点击主页
 ! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
-
 ##部分规则来自DD大佬
 ##个人拦截规则
 /googleads.$~script,domain=~googleads.github.io
@@ -31,6 +30,16 @@
 ||hectorstatic.baidu.com^
 ||ping.pinyin.sogou.com^
 ||pcm-img.zhls.qq.com^
+||5hz.org^
+||topnewsfeeds.net^
+||nbryb.com^
+||superbdolly.com^
+||salutationcheerlessdemote.com^
+||buildingdoodlesquare.com^
+||colonistnobilityheroic.com^
+||api.bianxian.haodanku.com^$app=com.xtuone.android.syllabus
+||a.super.cn^$app=com.xtuone.android.syllabus
+||apis.dongtu.com^$app=com.xtuone.android.syllabus
 
 #不良网站
 ||xbzb8.cc^$important
@@ -61,23 +70,6 @@
 ||mistat.xiaomi.com^
 ||stat.xiaomi.com^
 
-##自定义
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
-||5hz.org^
-||topnewsfeeds.net^
-||nbryb.com^
-||superbdolly.com^
-||salutationcheerlessdemote.com^
-||buildingdoodlesquare.com^
-||colonistnobilityheroic.com^
-||dnet.mb.qq.com^$app=com.xtuone.android.syllabus
-||182.92.244.70^$app=com.xtuone.android.syllabus
-||api.bianxian.haodanku.com^$app=com.xtuone.android.syllabus
-||a.super.cn^$app=com.xtuone.android.syllabus
-||apis.dongtu.com^$app=com.xtuone.android.syllabus
-
 108.177.97.100 translate.googleapis.com
 
 ! 某些系统日志log上传
@@ -96,7 +88,6 @@
 ||golona.ink^
 ||wcuiqyu.cn^
 ||ningbojisheng.cn^
-
 
 #字节系 AD API SDK 屏蔽
 ||dig.zjurl.cn^
@@ -157,7 +148,6 @@
 
 #七猫免费小说
 ||webcast5-open-hl.douyin.com^$app=com.kmxs.reader
-||webcast5-open-hl.douyin.com^$app=com.kmxs.reader
 ||lf-cdn-tos.bytescm.com^$app=com.kmxs.reader
 ||gecko.snssdk.com^$app=com.kmxs.reader
 ||a-remad.qm989.com^$app=com.kmxs.reader
@@ -165,7 +155,6 @@
 ||mssdk.volces.com^$third-party,app=com.kmxs.reader
 ||open.kuaishouzt.com^$third-party,app=com.kmxs.reader
 ||lf-cdn-tos.bytescm.com^$third-party,app=com.kmxs.reader
-||119.29.29.29^$app=com.kmxs.reader
 
 #得间
 ||aiclk.com^
@@ -177,7 +166,6 @@
 #熊猫小说
 ||cdn-ad.wtzw.com^
 ||a-qmad.qimao.com^
-||mssdk.volces.com^
 
 #笔趣阁网页广告
 ||hlryzsqo.icu^
@@ -201,27 +189,11 @@
 
 ## 信息流及评论区广告
 ||s2s.adjust.cn^$important
-||ctobsnssdk.com^
-||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
 ||dm.toutiao.com^
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
-## 帖子详情好物推荐
-||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
-## 帖子详情赞助内容
-||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
-##发现页去除酷品
-||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
-## 应用游戏页去除推广视频
-||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
-## 去除首页还有什么值得买推广
-||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-||ctobsnssdk.com^
-||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
 #夏普电视开机广告
 ||flnet.com^$important
 ||miaozhen.com^$important
@@ -233,17 +205,13 @@
 ||test.18bit.cn^
 
 #酷友APPea 分享
-||v3-novelapp.fqnovelvod.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
 ||saveu5-normal-lq.zijieapi.com^
-||v6-novelapp.fqnovelvod.com^
 ||v3-be-pack.pglstatp-toutiao.com^
 ||p3-webcast.douyinpic.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||p9-developer-sign.bytemaimg.com^
 ||tnc11-bjlgy.zijieapi.com^
-||tnc3-aliec2.zijieapi.com^
 ||p3-webcast-sign.douyinpic.com^
 ||lf9-cdn-tos.bytegecko.com^
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^important
@@ -258,10 +226,7 @@
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||tnc3-alisc1.zijieapi.com^
-||ads5-normal-lq.zijieapi.com^
-||ads5-normal-lf.zijieapi.com^
 ||ma5-normal-lq.zijieapi.com^
-||api-access.pangolin-sdk-toutiao.com^
 ||imapi2.snssdk.com^
 ||polaris3-normal-lq.zijieapi.com^
 ||v6-be-pack.pglstatp-toutiao.com^
@@ -272,14 +237,10 @@
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||skdisplay.jd.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
-||p26-be-pack-sign.pglstatp-toutiao.com^
 ||p3-novel.byteimg.com^
-||p6-ad-sign.byteimg.com^
 ||116.169.48.137:443^important
 ||p3-novelfm-sign.novelfmpic.com^
 ||v9-be-pack.pglstatp-toutiao.com^
-||ads3-normal-lq.zijieapi.com^
-||p9-ad-sign.byteimg.com^
 ||adsoptimal.com^
 ||adversaldisplay.com^
 ||affiliates.minglematch.com^
@@ -364,7 +325,6 @@
 ||p1-lm.adukwai.com^
 ||union.w.inmobi.cn^
 ||adskp.org^
-||api.open.adsaide.cn^
 ||ads-video-al.xhscdn.com^
 ||ads-img-al.xhscdn.com^
 ||ads.cup.com.cn^
@@ -448,7 +408,6 @@
 ||applog.snssdk.com^
 ||adservice.aiyouaiyou.cn^
 ||ads-shopping.shouqianba.com^
-||ads.superawesome.tv^
 ||mssdk3-normal-lf.zijieapi.com^
 ||ads.zhinengxiyifang.cn^
 ||ads.huawei.com^
@@ -490,7 +449,6 @@
 ||adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com^
 ||configv2.unityads.unitychina.cn^
 ||abtest3-misc-hl.zijieapi.com^
-||abtest3-misc-lq.zijieapi.com^
 ||abtest3-misc-lf.zijieapi.com^
 ||monitor.ads.8le8le.com^
 ||leads.baidu.com^
@@ -545,8 +503,6 @@
 ||ad.oceanengine.com^
 ||ad.k98y.cn^
 
-
-
 #屏蔽MIUI应用检测
 127.0.0.1 log.avlyun.sec.intl.miui.com
 127.0.0.1 update.avlyun.sec.miui.com
@@ -558,19 +514,16 @@
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 a0.app.xiaomi.com
-
 #MIUI浏览器网址拦截
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 httpdns.browser.miui.com
 127.0.0.1 activity.browser.intl.miui.com
-
 #MIUI浏览器去广告
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 reader.browser.miui.com
-
 #MIUI去广告
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
