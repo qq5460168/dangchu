@@ -246,7 +246,7 @@
 @@||isee.weishi.qq.com^$important
 @@||train.17u.cn^$important
 @@||qlogo.cn^$important
-
+@@||game.weixin.qq.com^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
