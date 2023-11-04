@@ -779,7 +779,6 @@
 127.0.0.1 bd.pull.yximgs.com
 127.0.0.1 crl4.digicert.com
 127.0.0.1 upos-sz-mirror08h.bilivideo.com
-127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 baikebcs.bdimg.com
 127.0.0.1 afdconf.baidu.com
 127.0.0.1 safebrowsing.googleapis.com
