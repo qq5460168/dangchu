@@ -49759,7 +49759,6 @@
 127.0.0.1 s3.chengmingliang.com
 127.0.0.1 s3.joexl.com
 127.0.0.1 s3.minexmr.com
-127.0.0.1 s3.pstatp.com
 127.0.0.1 s3.rongnews.com
 127.0.0.1 s362693299.aon.com
 127.0.0.1 s3cp.xyz
