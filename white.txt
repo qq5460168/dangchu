@@ -247,6 +247,8 @@
 @@||train.17u.cn^$important
 @@||qlogo.cn^$important
 @@||game.weixin.qq.com^$important
+@@||sfsapi.micloud.xiaomi.net^$important
+@@||pdc.micloud.xiaomi.net^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
