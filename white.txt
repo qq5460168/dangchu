@@ -249,6 +249,8 @@
 @@||game.weixin.qq.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||pdc.micloud.xiaomi.net^$important
+@@||s3.pstatp.com^$important
+@@||dreport.meituan.net^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
