@@ -103,6 +103,12 @@
 ||wcuiqyu.cn^
 ||ningbojisheng.cn^
 
+＃去除丰巢新版取件码页面广告
+||hugelog.fcbox.com^
+||bigdatacloud.net^
+||myqcloud.com^
+||dsp.fcbox.com^
+
 #字节系 AD API SDK 屏蔽
 ||dig.zjurl.cn^
 ||ad.zijieapi.com^
