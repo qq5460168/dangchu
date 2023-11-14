@@ -106,7 +106,6 @@
 ＃去除丰巢新版取件码页面广告
 ||hugelog.fcbox.com^
 ||bigdatacloud.net^
-||myqcloud.com^
 ||dsp.fcbox.com^
 
 #字节系 AD API SDK 屏蔽
@@ -617,6 +616,166 @@
 ||ad.oceanengine.com.queniukw.com^
 ||ad.oceanengine.com^
 ||ad.k98y.cn^
+
+! 360
+||union.360.cn^
+! Amap | 高德
+||cgicol.amap.com^
+! Advertising Alliance | 广告联盟
+||adsmogo.com^
+||beizi.biz^
+||beizi.biz^
+! Avlyun | 安天
+||log.avlyun.com^
+! Baidu | 百度
+! Boss Pin | boss直聘
+||logapi-and.zhipin.com^
+||logapi-ios.zhipin.com^
+! Bing | 必应
+||bat.r.msn.com^
+||advertiseonbing.azureedge.net^
+! Bilibili | 哔哩哔哩
+! Bytedance | 字节统计&广告
+||*-ad-sign.byteimg.com^
+||ads*-normal*.zijieapi.com^
+||ads*.zijieapi.com^
+||log*-misc-lq.amemv.com^
+||log*-normal-lq.toutiaoapi.com^
+||vcl-brain.snssdk.com^
+||*-applog.fqnovel.com^
+! Bwton | 八维通
+||ad.bwton.com^
+||dlogs.bwton.com^
+! CaiYun | 彩云
+||ad.caiyunapp.com^
+||ads-api-o.api.leiniao.com^
+! Dongchedi | 懂车帝
+||sensors-log.dongqiudi.com^
+! Flurry统计
+! Getui | 个推
+! Google | 谷歌
+||admob.com^
+||ads.google.cn^
+||adsense.com^
+||adsensecustomsearchads.com^
+||adsenseformobileapps.com^
+||adservice.google.cn^
+||advertisercommunity.com^
+||advertiserscommunity.com^
+||adwords-community.com^
+||adwords.com^
+||adwordsexpress.com^
+||clickserver.googleads.com^
+||crashlyticsreports-pa.googleapis.com^
+||device-provisioning.googleapis.com^
+||firebasedynamiclinks.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||googleadapis.com^
+||googleanalytics.com^
+||googletraveladservices.com^
+||urchin.com^
+! Huxiu | 虎嗅
+||ad-sdk.huxiu.com^
+||api-ad-product.huxiu.com^
+||log-api-mn.huxiu.com^
+||log-api.huxiu.com^
+! Huya | 虎牙
+||liveweb*.msstatic.com^
+! JD | 京东
+||ads.union.jd.com^
+||log.jd.com^
+! JPush | 极推
+! Kiwi | Kiwi 浏览器
+||logos.kiwibrowser.com^
+! Kuaishou | 快手广告
+||*-ad.a.yximgs.com^
+||e.kuaishou.cn^
+||ulogjs.gifshow.com^
+||volceapplog.com^
+||w*.*skwai.com^
+||ad.partner.gifshow.com^
+! Kugou | 酷狗音乐
+||ads.*.kugou.com^
+||adservice.kugou.com^
+||adserviceretry.kugou.com^
+||adsfilebssdlbig.*.kugou.com^
+||collect.kugou.com^
+||gatecollect.kugou.com^
+||kgipadstat.kugou.com^
+||kgipadstatbak.kugou.com^
+||logtj.kugou.com^
+||logwebs.kugou.com^
+||mobilelog.kugou.com^
+||nbcollect.kugou.com^
+||nbcollectretry.kugou.com^
+||pcstat.kugou.com^
+||pcstatbak.kugou.com^
+||rtwebcollects.kugou.com^
+||stat.kugou.com^
+||tracker.kugou.com^
+||trackercdnbj.kugou.com^
+||webcollects.kugou.com^
+! Kuwo | 酷我
+! Meituan | 美团
+||adgame.waimai.meituan.com^
+||analytics.meituan.net^
+||data-sdk-uuid-log.d.meituan.net^
+||data-sdk-uuid-report.dreport.meituan.net^
+! Migu | 咪咕
+||uem.migu.cn^
+||ad.cmvideo.cn^
+||report.migufun.com^
+||app.log.nf.migu.cn^
+! Mihuyo | 米哈游
+||ad-log-upload-os.hoyoverse.com^
+||hkrpg-log-upload-os.hoyoverse.com^
+||log-upload.mihoyo.com^
+||log-upload-os.hoyoverse.com^
+! Netease | 网易
+||ads.music.126.net^
+||clientlog.music.163.com^
+||clientlog3.music.163.com^
+||analytics.126.com^
+! Qiumibao | 球迷宝
+||stats.qiumibao.com^
+||webstat.qiumibao.com^
+! QTFM | 蜻蜓FM
+||adlog.qingting.fm^
+||ad-cdn.qtfm.cn^
+||api-zhibo.qtfm.cn^
+||upload-up.qtfm.cn^
+! QQ Music | QQ音乐
+! Potplay
+! Skyworth TV | 创维电视
+||gzdata.com.cn^
+! Sogaha | 南瓜SDK 
+! Sohu | 搜狐
+||ads.sohu.com^
+! Taobao | 淘宝
+! Tencent | 腾讯广告 & 优量汇
+||hiaiabc.com^
+||oth.eve.mdt.qq.com^
+||oth.eve.qq.com^
+||wxsnsdy.wxs.qq.com^
+||wxsnsdythumb.wxs.qq.com^
+! UC&Quark | UC浏览器 & 夸克
+||adtrack.quark.cn^
+||adtrack.uc.cn^
+||applog-perf.uc.cn^
+||track.lc.quark.cn^
+! Unknown | 未知
+||sv.mnyh.fun^
+||loggate.moxigame.cn^
+||p2cdn.com^
+||wslog.chinanetcenter.com^
+! Umeng | 友盟
+||ulog*.*^
+! Xiaohongshu | 小红书
+! XiaoMi | 小米
+||ad.mi.com^
+||ad1.xiaomi.com^
+! Zhihu | 知乎
 
 #屏蔽MIUI应用检测
 127.0.0.1 log.avlyun.sec.intl.miui.com
