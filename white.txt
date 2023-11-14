@@ -251,6 +251,8 @@
 @@||pdc.micloud.xiaomi.net^$important
 @@||s3.pstatp.com^$important
 @@||dreport.meituan.net^$important
+@@||click.aliyun.com^$important
+
 
 ##拼多多
 @@||th.pinduoduo.com^$important
