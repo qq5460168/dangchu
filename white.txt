@@ -89,9 +89,6 @@
 @@||mapi.m.jd.com^$important
 @@||m.jingxi.com^$important
 @@||jstatic.3.cn^$important
-@@||clients6.google.com^$important
-@@||clients4.google.com^$important
-@@||clients2.google.com^$important
 @@||fonts.gstatic.com^$important
 @@||www.googleadservices.com^$important
 @@||wm.makeding.com^$important
@@ -113,7 +110,6 @@
 @@||s.click.tmall.com^$important
 @@||www1.appcleanermac.com^$important
 @@||widget.mibbit.com^$important
-@@||ad.doubleclick.net^$important
 @@||cros-updates-serving.appspot.com^$important
 @@||ptmi.gitv.tv^$important
 @@||puui.qpic.cn^$important
@@ -252,7 +248,11 @@
 @@||s3.pstatp.com^$important
 @@||dreport.meituan.net^$important
 @@||click.aliyun.com^$important
-
+@@||mobile.yangkeduo.com^$important
+@@||browser.360.cn^$important
+@@||cn-cd-dx-2.natfrp.cloud^$important
+@@||alps.51y5.net^$important
+@@||im-x.jd.com^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
@@ -270,11 +270,6 @@
 @@||avatar3.pddpic.com^$important
 @@||t16img.yangkeduo.com^$important
 @@||commimg.pddpic.com^$important
-@@||mobile.yangkeduo.com^$important
-@@||browser.360.cn^$important
-@@||cn-cd-dx-2.natfrp.cloud^$important
-@@||alps.51y5.net^$important
-@@||im-x.jd.com^$important
 
 #小米矫正流量，
 @@||api.sec.miui.com^$important
@@ -361,7 +356,6 @@
 @@||wifi.vivo.com.cn^$important
 !小米
 @@||connect.rom.miui.com^$important
-
 !酷安
 @@||316.coolapk1s.com^$important
 @@||api.coolapk.com^$important
@@ -375,12 +369,10 @@
 @@||haohuo.jinritemai.com^ 
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc3-alisc1.zijieapi.com^
-
 ! 今日头条相关
 @@||snssdk.com^
 @@||p3-sign.toutiaoimg.com^
 @@||mcs.snssdk.com^
-
 #中国移动
 @@||config.cmpassport.com^$important
 @@||www.cmpassport.com^$important
@@ -389,7 +381,6 @@
 @@||log1.cmpassport.com^$important
 @@||smsks1.cmpassport.com^$important
 @@||verify.cmpassport.com^$important
-
 #中国联通
 @@||opencloud.wostore.cn^$important
 @@||auth.wosms.cn^$important
@@ -423,7 +414,6 @@
 @@||cnbj1.fds.api.xiaomi.com^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||api.vip.miui.com^$important
-
 #葫芦侠
 @@||huluxia.com^$important
 #bing
@@ -444,9 +434,6 @@
 @@||netease.com^$important
 #抖音直播
 @@||douyincdn.com^$important
-||suggestion.baidu.com^$important
-#dns
-||236ba16f-7989-71de-e510-1cad33923355.cnnic.rip^$important
 #同程旅行
 @@||40017.cn^$important
 @@||hotel.17u.cn^$important
