@@ -1255,7 +1255,6 @@ m.jd.com###appdlCon > div.modal
 #hosts
 127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 vweixinthumb.tc.qq.com
-127.0.0.1 api.g.micloud.xiaomi.net
 127.0.0.1 tower.douyucdn.cn
 127.0.0.1 cmonitor.iqiyi.com
 127.0.0.1 jupiter.sys.miui.com
