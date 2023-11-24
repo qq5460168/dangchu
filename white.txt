@@ -18,7 +18,7 @@
 @@||cpu.baidu.com^$important
 @@||rs.xmeye.net^$important
 @@||rs.xmeye.net
-@@||act.vip.iqiyi.com^$importan
+@@||act.vip.iqiyi.com^$important
 @@||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
 @@||httpdns.bcelive.com^$important
 @@||wwo.wps.cn^$important
