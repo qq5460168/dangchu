@@ -598,6 +598,14 @@
 ||ad.oceanengine.com.queniukw.com^
 ||ad.oceanengine.com^
 ||ad.k98y.cn^
+||catalog.gamepass.com^
+||ads.api.lerist.cc^
+||ads.chinaums.com^
+||ad-monitor.sh9130.com^
+||ads.ysepay.com^
+||imp.ads.rgyun.com^
+||c.ads.rgyun.com^
+||ads.adfox.ru^
 
 ! 360
 ||union.360.cn^
@@ -756,14 +764,6 @@
 !Amazon ADS
 ||affiliationjs.s3.amazonaws.com^
 ||amazonaax.com^
-!Google Analytics
-!Yahoo
-!Yandex
-!Realme
-!Oppo
-!Huawei
-!Apple
-!Social Trackers
 ||advertising.twitter.com^
 !海信TV
 ||api.hismarttv.com^
