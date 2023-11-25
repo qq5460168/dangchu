@@ -627,6 +627,30 @@
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
 
+#浅笑
+#日志上传和dns自查询
+||trtc-sdk-log-
+||kit-device-log-
+||logagent-rum-
+||nsp-logservice
+||wxtracelogprd-
+||upweb-app-log-
+||aedns.weixin.qq.com^
+||httpdns.push.heytapmobi.com^
+||sdk.open.talk.gepush.com^
+||log.mmstat.com^
+||udns.weixin.qq.com^
+||dns.weixin.qq.com^
+||ocloud-httpdns-cn.heytapmobi.com^
+#QQ音乐广告
+||otheve.beacon.qq.com^
+||tmead.y.qq.com^
+||tmead.y.qq.com^
+||imtmp.net^
+#一些广告
+||mkt-advertisement.tuhu.cn^$important
+||app-advertise.zhihuishu.com^$important
+
 ! 360
 ||union.360.cn^
 ! Amap | 高德
