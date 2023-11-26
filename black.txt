@@ -1011,7 +1011,6 @@
 ||mig.str.mdt.qq.com^
 ||mini2015.qq.com^
 ||minisite2012.qq.com^
-||minorshort.weixin.qq.com^
 ||mobwin.app.qq.com^
 ||moviets.tc.qq.com^
 ||mqqadr.showreader.qq.com^
