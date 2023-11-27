@@ -252,7 +252,12 @@
 @@||browser.360.cn^$important
 @@||cn-cd-dx-2.natfrp.cloud^$important
 @@||alps.51y5.net^$important
-@@||im-x.jd.com^$important
+@@||api.developer.xiaomi.com^$important
+@@||updata.miui.com^$important
+@@||get.sogou.com^$important
+@@||global-search.browser.miui.com^$important
+@@||analysis.chatglm.cn^$important
+@@||hot.browser.miui.com^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
