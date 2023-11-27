@@ -258,6 +258,7 @@
 @@||global-search.browser.miui.com^$important
 @@||analysis.chatglm.cn^$important
 @@||hot.browser.miui.com^$important
+@@||im-x.jd.com^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
