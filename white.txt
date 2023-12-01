@@ -259,6 +259,8 @@
 @@||analysis.chatglm.cn^$important
 @@||hot.browser.miui.com^$important
 @@||im-x.jd.com^$important
+@@||up.cm.ksmobile.com^$important
+@@||broccoli.uc.cn^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
