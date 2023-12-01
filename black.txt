@@ -74,6 +74,9 @@
 ||fr5uptmx.com^$important
 
 108.177.97.100 translate.googleapis.com
+#小米下载加速
+123.6.13.6 bigota.d.miui.com
+123.6.13.6 hugeota.d.miui.com
 
 ! 某些系统日志log上传
 ||tailscale.io^
@@ -150,14 +153,14 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 #七猫免费小说
-||webcast5-open-hl.douyin.com^$app=com.kmxs.reader
-||lf-cdn-tos.bytescm.com^$app=com.kmxs.reader
-||gecko.snssdk.com^$app=com.kmxs.reader
-||a-remad.qm989.com^$app=com.kmxs.reader
-||drs.wtzw.com^$app=com.kmxs.reader
-||mssdk.volces.com^$third-party,app=com.kmxs.reader
-||open.kuaishouzt.com^$third-party,app=com.kmxs.reader
-||lf-cdn-tos.bytescm.com^$third-party,app=com.kmxs.reader
+||webcast5-open-hl.douyin.com^
+||lf-cdn-tos.bytescm.com^
+||gecko.snssdk.com^
+||a-remad.qm989.com^
+||drs.wtzw.com^
+||mssdk.volces.com^$
+||open.kuaishouzt.com^$
+||lf-cdn-tos.bytescm.com^$
 #得间
 ||aiclk.com^
 ||smad.ms.zhangyue.net^
@@ -239,7 +242,6 @@
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||dig.bdurl.net^
 ||vcs.zijieapi.com^
-||lf-cdn-tos.bytescm.com^
 ||frontier-toutiao.snssdk.com^
 ||mon11-misc-lq.fqnovel.com^
 ||p9-novelfm-sign.novelfmpic.com^
@@ -380,7 +382,6 @@
 ||sdkoptedge.chinanetcenter.com^
 ||jietuhb.com^
 ||adukwai.com^
-||sdk-log.partner.sm.cn^
 ||t-remad.qm989.com^
 ||qm-data.wtzw.com^
 ||a6-remad.qm989.com^
@@ -433,12 +434,10 @@
 ||sdk-infra.inmobi.cn^
 ||sv.adintl.cn^
 ||trc-sdk.inmobi.cn^
-||sdk.beizi.biz^
 ||sdk.alibaba.com.ailbaba.me^
 ||telemetry-sdk-metrics.inmobi.cn^
 ||api-htp.beizi.biz^
 ||sdkcfg.adintl.cn^
-||p1-lm.adukwai.com^
 ||union.w.inmobi.cn^
 ||adskp.org^
 ||ads-video-al.xhscdn.com^
@@ -500,7 +499,6 @@
 ||adsfilebssdlbig.ali.kugou.com^
 ||ad.cyapi.cn^
 ||ad.tianmu.mobi^
-||multi-az-ad.kuaishou.cn^
 ||ad.qingcigame.com^
 ||ads.tiktok.com^
 ||ads.linkedin.com^
@@ -547,17 +545,7 @@
 ||i.snssdk.com^
 ||uploads2.gifshow.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
-||social.pinduoduo.com^
-||4pn.cn^
-||4a9.cn^
-||3p4.cn^
-||y4n.cn^
-||u7x.cn^
-||aqdlt.com^
-||aqdz91.com^
-||aqdz149.com^
 ||share.jileme.net^
-||settings.ttwebview.com^
 ||st-ads-jssdk.vivo.com.cn^
 ||xmadsdk.cos.tx.xmcdn.com^
 ||ads-video-1251524319.cos.ap-shanghai.myqcloud.com^
@@ -645,7 +633,6 @@
 #QQ音乐广告
 ||otheve.beacon.qq.com^
 ||tmead.y.qq.com^
-||tmead.y.qq.com^
 ||imtmp.net^
 #一些广告
 ||mkt-advertisement.tuhu.cn^$important
@@ -657,7 +644,6 @@
 ||cgicol.amap.com^
 ! Advertising Alliance | 广告联盟
 ||adsmogo.com^
-||beizi.biz^
 ||beizi.biz^
 ! Avlyun | 安天
 ||log.avlyun.com^
@@ -813,7 +799,6 @@
 ||api.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-vidaaasst.hismarttv.com^
-||api-gps.hismarttv.com^
 ||unified-ter.hismarttv.com^
 ||unified-exc.hismarttv.com^
 ||api.higame.hismarttv.com^
@@ -866,14 +851,10 @@
 ||access*.tpns.tencent.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
-||tobapplog.ctobsnssdk.com^
 ||access.pangolin-sdk-toutiao-*.com^
 ||game.weixin.qq.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||mssdk-bu.snssdk.com^
-||sf3-ttcdn-tos.pstatp.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
@@ -885,10 +866,8 @@
 !头条
 ||access.pangolin-sdk-toutiao-b.com^
 ||adshare.toutiao.com^
-||api-access.pangolin-sdk-toutiao-b.com^
 ||ether-pack.pangolin-sdk-toutiao.com^
 ||imp-toutiao-data.37.com.cn^
-||log-api.pangolin-sdk-toutiao-b.com^
 ||p1-be-endcard.pglstatp-toutiao.com^
 ||s.toutiao.com^
 ||s3-fe-scm.pglstatp-toutiao.com^
@@ -896,14 +875,11 @@
 ||sf1-fe-pack.pglstatp-toutiao.com^
 ||sf1-fe-tos.pglstatp-toutiao.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
-||sf6-be-pack.pglstatp-toutiao.com^
 ||sf6-fe-pack.pglstatp-toutiao.com^
 ||sfl-fe-tos.pglstatp-toutiao.com^
 ||toutiao.social^
 ||v1-be-pack.pglstatp-toutiao.com^
 ||v1-fe-pack.pglstatp-toutiao.com^
-||v3-be-pack.pglstatp-toutiao.com^
 ||v3-fe-pack.pglstatp-toutiao.com^
 ||v6-fe-pack.pglstatp-toutiao.com^
 ||zhanzhang.toutiao.com^
@@ -917,7 +893,6 @@
 ||iu.snssdk.com.edgekey.net^
 ||lianmengapi.snssdk.com^
 ||log.snssdk.com.bytedns.net^
-||mssdk-bu.snssdk.com^
 ||open.snssdk.com.bytedns.net^
 ||smr.snssdk.com^
 ||stream.snssdk.com^
@@ -937,7 +912,6 @@
 ||aid.video.qq.com^
 ||analytics.map.qq.com^
 ||android.bugly.qq.com^
-||android.rqd.qq.com^
 ||api.bugly.qq.com^
 ||appicsh.qq.com^
 ||appstore.qzone.qq.com^
@@ -978,7 +952,6 @@
 ||dmtrack.buy.qq.com^
 ||dp3.qq.comqq^
 ||ex.qq.com^
-||game.weixin.qq.com^
 ||gouwu.qq.com^
 ||guanjia.qq.com^
 ||huatuocode.huatuo.qq.com^
@@ -1113,7 +1086,6 @@
 ||dc.services.visualstudio.com^
 ||v10c.events.data.microsoft.com^
 ||oca.microsoft.com^
-||oca.telemetry.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
 
 #屏蔽MIUI应用检测
