@@ -261,6 +261,8 @@
 @@||im-x.jd.com^$important
 @@||up.cm.ksmobile.com^$important
 @@||broccoli.uc.cn^$important
+@@||defaultts.tc.qq.com^$important
+@@||appdl-1-drcn.dbankcdn.com^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
