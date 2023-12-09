@@ -690,6 +690,109 @@
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
 
+#酷安晴雅
+||youku-jmacs.m.taobao.com^
+||pub.idqqimg.com^
+||*.gdt.qq.com^
+||mum.alibabachengdun.com^
+||gw.alicdn.com^
+||mus-nettech.youku.com^
+||acs.m.taobao.com^
+||pss.alicdn.com^
+||api.sm.cn^
+||lhp.map.qq.com^
+||restapi.amap.com^
+# [小说]
+||useronline-*.image.myqcloud.com^
+||p11.douyinpic.com^
+||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||p3-aio.ecombdimg.com^
+||p9-aio.ecombdimg.com^
+||p6-aio.ecombdimg.com^
+||p6-webcast-sign.douyinpic.com^
+||p9-novel-sign.byteimg.com^
+ads5-normal.zijieapi.com
+||p9-pack.byteimg.com^
+||p3-ecom-qualification-sign.ecombdimg.com^
+||api5-normal-hl.fqnovel.com^
+p9-be-pack-sign.pglstatp-toutiao.com
+||p6-developer-sign.bytemaimg.com^
+||api-e189.21cn.com^
+||api3-normal-lq.fqnovel.com^
+||p6.douyinpic.com^
+||lv3-novelapp.fqnovelvod.com^
+||p6-ecom-qualification-sign.ecombdimg.com^
+||*.beizi.biz^
+||*.hpplay.cn^
+||iad.*.163.com^
+l*.bytescm.com^
+||*.hubcloud.com.cn^
+||mobilegw.alipay.com^
+||ad-*file.myqcloud.com^
+||yktd.m.cn.miaozhen.com^
+||apimobile.meituan.com^
+||185.172.2.183.in-addr.arpa^
+||hwmov.a.yximgs.com^
+||himg.bdimg.com^
+||*-be-pack.pglstatp-toutiao.com^
+||p*-sign.douyinpic.com^
+@@||p5-sign.douyinpic.com^
+||lf*-cdn-tos.bytegoofy.com^
+||loc.map.baidu.com^
+||bqq.gtimg.com^
+||snowflake.qq.com^
+||c.*.qq.com^
+||ssl.msdk.qq.com^
+||rs*.qq.com^
+||news.ssp.qq.com^
+# [百度]
+||ubmcmm.baidustatic.com^
+||f*.baidu.com^
+^|sdk.beizi.biz^
+||wappass.bdimg.com^
+||httpsdns.baidu.com^
+||sp*.baidu.com^
+||*.map.baidu.com^
+# [快手]
+||uploads*.gifshow.com^
+||adtrack.e.kuaishou.com^
+# [微信]
+# [友盟]
+||*umeng.com^
+# [字节跳动]
+||webcast*-open-hl.douyin.com^
+||v*-*-cold.douyinvod.com^
+||seeds-open.xycdn.com^
+# [vivo]
+# [未分类]
+||adx-*anythinktech.com^
+||ad.xmmnsl.com^
+||nadvideo*.baidu.com^
+||adcaffe-bard.atcloudbox.com^
+||[240e:ff:f100:1009::10f]:443^
+||tnc*-bjlgy.zijieapi.com^
+||vch.video.qq.com^
+||aps.amap.com^
+||access1.tpns.tencent.com^
+# [番茄小说]
+||pull-flv-l11.douyincdn.com^
+||api*-normal.fqnovel.com^
+||api*-normal-lq.fqnovel.com^
+||p*-developer-sign.bytemaimg.com^
+||p*-pack.byteimg.com^
+||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||ads*-normal-lq.zijieapi.com.queniuiq.com^
+||api*-normal-sinfonlinea.fqnovel.com^
+@@||p6-developer-sign.bytemaimg.com^
+@@||api5-normal-sinfonlinea.fqnovel.com^
+@@||v26-novelapp.fqnovelvod.com^
+@@||p9-developer-sign.bytemaimg.com^
+@@||p26-sign.douyinpic.com^
+# [视频客户端过滤器]
+||xpgw-xcdn.youku.com^
+||36.102.218.149:4482/image.uczzd.cn^
+||activity.youku.com^
+
 #浅笑
 #日志上传和dns自查询
 ||trtc-sdk-log-
@@ -1016,7 +1119,6 @@
 ||cp.discuz.qq.com^
 ||crash.browser.qq.com^
 ||d.gdt.qq.com^
-||defaultts.tc.qq.com^
 ||di.ssl.msdk.qq.com^
 ||dl_dir.qq.com^
 ||dl_dir2.qq.com^
@@ -1347,3 +1449,12 @@
 127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
 127.0.0.1 v2-lm.adukwai.com
 127.0.0.1 v4-lm.adukwai.com
+127.0.0.1 yandex.ru
+127.0.0.1 appcloud.zhihu.com
+127.0.0.1 rtmretry.kugou.com
+127.0.0.1 rt-m.kugou.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 flowplus.meituan.net
+127.0.0.1 appcloud.zhihu.com
+127.0.0.1 api.g.micloud.xiaomi.net
+127.0.0.1 wup.imtt.qq.com
