@@ -263,6 +263,9 @@
 @@||broccoli.uc.cn^$important
 @@||defaultts.tc.qq.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
+@@||s.ssl.qhres2.com^$important
+@@||s2.ssl.qhres2.com^$important
+
 
 ##拼多多
 @@||th.pinduoduo.com^$important
