@@ -46,7 +46,6 @@
 ||monitor.music.qq.com^
 ||stat.y.qq.com^
 ||oth.str.mdt.qq.com^
-||h.trace.qq.com^
 ||sdk.e.qq.com^
 ||p.l.qq.com^
 ||us.l.qq.com^
@@ -719,7 +718,6 @@ p9-be-pack-sign.pglstatp-toutiao.com
 ||p6-developer-sign.bytemaimg.com^
 ||api-e189.21cn.com^
 ||api3-normal-lq.fqnovel.com^
-||p6.douyinpic.com^
 ||lv3-novelapp.fqnovelvod.com^
 ||p6-ecom-qualification-sign.ecombdimg.com^
 ||*.beizi.biz^
@@ -735,14 +733,10 @@ l*.bytescm.com^
 ||hwmov.a.yximgs.com^
 ||himg.bdimg.com^
 ||*-be-pack.pglstatp-toutiao.com^
-||p*-sign.douyinpic.com^
-@@||p5-sign.douyinpic.com^
 ||lf*-cdn-tos.bytegoofy.com^
 ||loc.map.baidu.com^
 ||bqq.gtimg.com^
-||snowflake.qq.com^
 ||c.*.qq.com^
-||ssl.msdk.qq.com^
 ||rs*.qq.com^
 ||news.ssp.qq.com^
 # [百度]
@@ -1136,7 +1130,6 @@ l*.bytescm.com^
 ||i-game.book.qq.com^
 ||i.gdt.qq.com^
 ||ii.gdt.qq.com^
-||img.ssl.msdk.qq.com^
 ||img1.sj.qq.com^
 ||info.gdt.qq.com^
 ||infotrack.gdt.qq.com^
