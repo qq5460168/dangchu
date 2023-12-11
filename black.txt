@@ -430,7 +430,6 @@
 ||onemob.mobi*
 ||emar.com^
 ||dwz.cn^
-||www.estrongs.com^
 ||social.pinduoduo.com^
 ||4pn.cn^
 ||4a9.cn^
