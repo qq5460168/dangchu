@@ -101,7 +101,6 @@
 ||shuixianry.oss-cn-shenzhen.aliyuncs.com^$important
 ||tr.aoxinshangmao.xyz^$important
 ||b05.asia-sdbq.com^$important
-||api.ipify.org^$important
 ||cdn.lcali.panweiqiangcc1.cn^$important
 ||gwgp-mfx29upvtet.n.bdcloudapi.com^$important
 ||aixiumeiwusf911.cdty.org.cn^$important
