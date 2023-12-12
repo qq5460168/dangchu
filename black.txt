@@ -145,6 +145,7 @@
 ||down.sq1005.cn^$important
 ||www.instv735.com^$important
 ||instv736.com^$important
+||www.mb77.xyz^$important
 
 108.177.97.100 translate.googleapis.com
 #小米下载加速
