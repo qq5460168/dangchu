@@ -265,6 +265,7 @@
 @@||appdl-1-drcn.dbankcdn.com^$important
 @@||s.ssl.qhres2.com^$important
 @@||s2.ssl.qhres2.com^$important
+@@||localads.chengzijianzhan.cn^$important
 
 
 ##拼多多
