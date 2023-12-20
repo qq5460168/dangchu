@@ -183,6 +183,9 @@
 ||t91215.xyz^$important
 ||84652.net^$important
 ||t91772.xyz^$important
+||api.cgyx.tv^$important
+||cbu01.alicdn.com^$important
+
 
 108.177.97.100 translate.googleapis.com
 #小米下载加速
