@@ -586,7 +586,6 @@
 ||sdk-infra.inmobi.cn^
 ||sv.adintl.cn^
 ||trc-sdk.inmobi.cn^
-||sdk.alibaba.com.ailbaba.me^
 ||telemetry-sdk-metrics.inmobi.cn^
 ||api-htp.beizi.biz^
 ||sdkcfg.adintl.cn^
