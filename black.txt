@@ -185,6 +185,20 @@
 ||t91772.xyz^$important
 ||api.cgyx.tv^$important
 ||cbu01.alicdn.com^$important
+||qianfan104.swesz.cn^$important
+||c13.xn--gor54rzzhjt7b.xn--fiqs8s^$important
+||ts1703360599.xn--gor54rzzhjt7b.xn--fiqs8s^$important
+||ecp1z.sgbh6.com^$important
+||d3fulrozqmnmsg.cloudfront.net^$client='192.168.3.123'
+||panwcffdb.gg13xx.live^$important
+||mt307.xyz^$important
+||js2.xn--1ct366iukbz0j.cc^$important
+||tj2.mitao99.cc^$important
+||d3fulrozqmnmsg.cloudfront.net^$important
+||ts1703360599.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s^$important
+||a13.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s^$important
+||2404mc.2tsfdcp.com^$important
+||dzu.tenekslu.com^$important
 
 
 108.177.97.100 translate.googleapis.com
