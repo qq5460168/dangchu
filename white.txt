@@ -267,6 +267,7 @@
 @@||s2.ssl.qhres2.com^$important
 @@||localads.chengzijianzhan.cn^$important
 @@||zhan.vivo.com.cn^$important
+@@||sdk.alibaba.com.ailbaba.me^$important
 
 ##拼多多
 @@||th.pinduoduo.com^$important
