@@ -53,6 +53,12 @@
 ||open.youzanyun.com^
 
 #不良网站
+||stlib.qbb6.com^$important
+||04101115zzqzzq.metalnews.cn^$important
+||0i.metalnews.cn^$important
+||www.metalnews.cn^$important
+||cq1709141912.idakog.xn--kcrx9z5mbn3yi4pf5a.com^$important
+||cq1717599021.idakog.xn--kcrx9z5mbn3yi4pf5a.com^$important
 ||xbzb8.cc^$important
 ||www.xbzb8.cc^$important
 ||www.xbfxs6.com^$important
