@@ -53,6 +53,7 @@
 ||open.youzanyun.com^
 
 #不良网站
+||lf6-cdn-tos.bytecdntp.com^$important
 ||stlib.qbb6.com^$important
 ||04101115zzqzzq.metalnews.cn^$important
 ||0i.metalnews.cn^$important
@@ -1412,7 +1413,6 @@
 127.0.0.1 logonext.tv.kuyun.com
 127.0.0.1 config.kuyun.com
 127.0.0.1 mishop.pandora.xiaomi.com
-||s.miwifi.com^
 ||tjqonline.cn^
 ||ad.xiaomi.com^
 ||ad.intl.xiaomi.com^
