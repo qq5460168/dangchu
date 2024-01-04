@@ -52,7 +52,6 @@
 @@||etl-xlmc-ssl.sandai.net^$important
 @@||fgc0.market.xiaomi.com^$important
 @@||updateinfo.market.xiaomi.com^$important
-@@||adashx.ut.ele.me^$important
 @@||map.bmcx.com^$important
 @@||d.bmcx.com^$important
 @@||f.bmcx.com^$important
@@ -130,7 +129,6 @@
 @@||oth.eve.mdt.qq.com^$important
 @@||ii.gdt.qq.com^$important
 @@||mdt.qq.com^$important
-@@||pgdt.gtimg.cn^$important
 @@||dldir3.qq.com^$important
 @@||gdt.qq.com^$important
 @@||gdtimg.com^$important
@@ -143,7 +141,6 @@
 @@||passport.360.cn^$important
 @@||app.home.360.cn^$important
 @@||q3.jia.360.cn^$important
-@@||videocloud.cn-hangzhou.log.aliyuncs.com^$important
 @@||games.mobileapi.hupu.com^$important
 @@||collect.hupu.com^$important
 @@||bbs.mobileapi.hupu.com^$important
@@ -157,7 +154,6 @@
 @@||hermes.hupu.com^$important
 @@||hoopchina.com^$important
 @@||lf-dy-sourcecdn-tos.bytegecko.com^$important
-@@||log.jd.com^$important
 @@||kdocs.cn^$important
 @@||www.kdocs.cn^$important
 @@||qn.cache.wpscdn.cn^$important
@@ -165,7 +161,6 @@
 @@||v9-x.toutiaovod.com^$important
 @@||p9-sign.toutiaoimg.com^$important
 @@||p26-sign.toutiaoimg.com^$important
-@@||p6-ad-sign.byteimg.com^$important
 @@||p6-shortvideo-sign.toutiaoimg.com^$important
 @@||volcengine-cache-weboffice.wpscdn.cn^$important
 @@||volcengine-kdocs-cache.wpscdn.cn^$important
@@ -205,13 +200,11 @@
 @@||umengacs.m.taobao.com^$important
 @@||video3.pddpic.com^$important
 @@||video2.pddpic.com^$important
-@@||log1.cmpassport.com^$important
 @@||push1.91cloud.net^$important
 @@||pull2.91cloud.net^$important
 @@||umengacs.m.taobao.com^$important
 @@||video3.pddpic.com^$important
 @@||video2.pddpic.com^$important
-@@||log1.cmpassport.com^$important
 @@||static.qiyi.com^$important
 @@||app.market.xiaomi.com^$important
 @@||sofire.baidu.com^$important
@@ -228,7 +221,6 @@
 @@||update.360safe.com^$important
 @@||tracker.didistatic.com^$important
 @@||ecombdapi.com^$important
-@@||cainiao-bgx-log.cn-wulanchabu.log.aliyuncs.com^$important
 @@||apissl.ksapisrv.com^$important
 @@||api.open.uc.cn^$important
 @@||member.aligames.com^$important
@@ -355,9 +347,7 @@
 @@||fp-it.fengkongcloud.com^
 !部分微信小程序登录
 @@||cnlogin.cainiao.com^
-!百度智能云
-@@||console.bce.baidu.com^$domain=console.bce.baidu.com
-@@||login.bce.baidu.com^$domain=login.bce.baidu.com
+
 !腾讯系 头像
 @@qlogo.cn^
 !B站弹幕
@@ -412,7 +402,6 @@
 # 小米主题无法打开，小米推送失效
 @@||data.mistat.xiaomi.com^$important
 # 淘宝
-@@||h-adashx.ut.taobao.com^$important
 @@||m.intl.taobao.com^$important
 # 微信红包
 @@||as.weixin.qq.com^$important
