@@ -1,8 +1,5 @@
 ## 放行
-@@||tmall.com^$important
-@@||jd.com^important
 @@||flyme.cn^$important
-@@||meizu.com^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
 @@||000714.xyz^
@@ -19,7 +16,6 @@
 @@||rs.xmeye.net^$important
 @@||rs.xmeye.net
 @@||act.vip.iqiyi.com^$important
-@@||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
 @@||httpdns.bcelive.com^$important
 @@||wwo.wps.cn^$important
 @@||www.123pan.com^$important
@@ -28,7 +24,6 @@
 @@||www.tudou.com^$important
 @@||fga0.market.xiaomi.com^$important
 @@||soft.360.cn^$important
-@@||adverts.1foo.com^$important
 @@||thm.market.xiaomi.com^$important
 @@||frontier.tiktokv.com^$important
 @@||p16-tiktokcdn-com.akamaized.net^$important
@@ -66,7 +61,6 @@
 @@||dx.10086.cn^$important
 @@||jiguang.coc.10086.cn^$important
 @@||ad.mcloud.139.com^$important
-@@||dx.10086.cn^$important
 @@||sysdk.cl2009.com^$important
 @@||yoyodadada.lanzouw.com^$important
 @@||bkvv.video.qq.com^$important
@@ -135,10 +129,6 @@
 @@||ios.bugly.qq.com^$important
 @@||tangram.e.qq.com^$important
 @@||appsupport.qq.com^$important
-@@||mapi.m.jd.com^$important
-@@||m.jingxi.com^$important
-@@||jstatic.3.cn^$important
-@@||passport.360.cn^$important
 @@||app.home.360.cn^$important
 @@||q3.jia.360.cn^$important
 @@||games.mobileapi.hupu.com^$important
@@ -200,11 +190,6 @@
 @@||umengacs.m.taobao.com^$important
 @@||video3.pddpic.com^$important
 @@||video2.pddpic.com^$important
-@@||push1.91cloud.net^$important
-@@||pull2.91cloud.net^$important
-@@||umengacs.m.taobao.com^$important
-@@||video3.pddpic.com^$important
-@@||video2.pddpic.com^$important
 @@||static.qiyi.com^$important
 @@||app.market.xiaomi.com^$important
 @@||sofire.baidu.com^$important
@@ -259,11 +244,16 @@
 @@||s2.ssl.qhres2.com^$important
 @@||localads.chengzijianzhan.cn^$important
 @@||zhan.vivo.com.cn^$important
-@@||sdk.alibaba.com.ailbaba.me^$important
 @@||aikanvod.miguvideo.com^$important
 @@||pic.iask.com.cn^$important
 @@||static.iask.cn^$important
 @@||click.simba.taobao.com^$important
+@@||s1.kskwai.com^$important
+@@||dc.sigmob.cn^$important
+@@||wxsnsencsvp.wxs.qq.com^$important
+#抖音网页版
+@@||lf-cdn-tos.bytescm.com^$important
+
 
 ##拼多多
 @@||th.pinduoduo.com^$important
@@ -295,7 +285,6 @@
 @@||quark.cn^$important
 #涉及部分UC系登陆、扫码验证等
 ##阿里云盘网络验证码
-@@||acs.m.taobao.com^$important
 ##夸克网盘扫码登陆
 @@||t.uc.cn^$important
 ##Flyme 游戏下载
@@ -310,12 +299,10 @@
 ##微信支付
 @@||payapp.weixin.qq.com^$important
 ##夸克网盘
-@@||pan.quark.cn^$important
 @@||drive.quark.cn^$important
 ##夸克首页
 @@||myquark.cn^$important
 ##小米骚扰拦截 数据库更新
-@@||api.sec.miui.com^$important
 #小米推送(mipush)
 @@||cn.app.chat.xiaomi.net^$important
 ##个推
@@ -408,12 +395,9 @@
 # 淘宝相关
 @@||eco.taobao.com^$important
 @@||audid-api.taobao.com^$important
-@@||audid-api.taobao.com^$important
 @@||amdcopen.m.taobao.com^$important
 # 头条搜索
 @@||is.snssdk.com^$important
-# 小米主题无法打开，小米推送失效
-@@||data.mistat.xiaomi.com^$important
 @@||sdkconfig.ad.xiaomi.com^$important
 # 知乎
 @@||appcloud2.zhihu.com^$important
@@ -431,32 +415,21 @@
 @@||netease.com^$important
 #网易图片
 @@||v6-nimg.ws.126.net^
-#@@||gdfp.gifshow.com^$important
+@@||gdfp.gifshow.com^$important
 @@||kwimgs.com^$important
 #腾讯视频图片
-@@||puui.qpic.cn^$important
 #快手
-@@||kwimgs.com^$important
-@@||gdfp.gifshow.com^$important
-#网易
-@@||netease.com^$important
 #抖音直播
 @@||douyincdn.com^$important
 #同程旅行
 @@||40017.cn^$important
-@@||hotel.17u.cn^$important
-@@||wx.17u.cn^$important
 #腾讯地图
 @@||map.qq.com^$important
 #高德地图微信
-@@||wb.amap.com^$important
-#广电
-@@||dwz.cn^$important
-@@||10099.com.cn^$important
+
 ##浅笑分享
 #番茄小说短信登陆
 @@||tnc3-aliec2.snssdk.com^$important
-#阿里dns
 #qq群公告小程序
 @@||cdn.ark.qq.com^$important
 #阿里图片
@@ -517,7 +490,6 @@ b站视频加载
 @@||gw.alicdn.com^$important
 @@||tbm-auth.alicdn.com^$important
 #皮皮虾评论区发图
-@@||tos-*.snssdk.com^$important
 @@||mibi.api.xiaomi.com^$important
 @@||z.weixin.qq.com^$important
 #懂车帝一些图片加载
@@ -555,8 +527,6 @@ b站视频加载
 #天下手游
 @@||tx163.com^$important
 ＃小米系统升级
-@@||updata.miui.com^$important
-#米社区图片
 #酷狗vip抽年卡
 @@||gateway.kugou.com^$important
 #墨墨背单词
