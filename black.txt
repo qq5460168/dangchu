@@ -335,13 +335,11 @@
 ||pangolin-sdk-toutiao-b.com^
 #七猫免费小说
 ||webcast5-open-hl.douyin.com^
-||lf-cdn-tos.bytescm.com^
 ||gecko.snssdk.com^
 ||a-remad.qm989.com^
 ||drs.wtzw.com^
 ||mssdk.volces.com^$
 ||open.kuaishouzt.com^$
-||lf-cdn-tos.bytescm.com^$
 #得间
 ||aiclk.com^
 ||smad.ms.zhangyue.net^
