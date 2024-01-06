@@ -54,6 +54,13 @@
 
 #不良网站
 ||lf6-cdn-tos.bytecdntp.com^$important
+||zmzzfsdfdslk333.com^$important
+||xb1.tanan119.com^$important
+||xn--blqw4qdtj1zl4x4c.net^$important
+||hlw.longlingsc.art^$important
+||www.qhj0u.com^$important
+||www.wedbccid.top^$important
+||lf6-cdn-tos.bytecdntp.com^$important
 ||stlib.qbb6.com^$important
 ||04101115zzqzzq.metalnews.cn^$important
 ||0i.metalnews.cn^$important
