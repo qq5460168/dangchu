@@ -181,7 +181,6 @@
 @@||m.ykimg.com^$important
 @@||v2.get.sogou.com^$important
 @@||p3-sign.toutiaoimg.com^$important
-@@||mmstat.com^$important
 @@||ap.6wz.co^$important
 @@||tnc3-alisc1.zijieapi.com^$important
 @@||union-click.jd.com^$important
@@ -526,7 +525,6 @@ b站视频加载
 @@||cn.bing.com^$important
 #天下手游
 @@||tx163.com^$important
-＃小米系统升级
 #酷狗vip抽年卡
 @@||gateway.kugou.com^$important
 #墨墨背单词
