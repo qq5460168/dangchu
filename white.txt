@@ -1,4 +1,11 @@
 ## 放行
+
+#大师兄
+@@||sdk.alibaba.com.ailbaba.me^$important
+#视频app
+@@||fs-im-kefu.7moor-fs1.com^$important
+#领红包封面
+@@||sourl.cn^$important
 @@||flyme.cn^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
