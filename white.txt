@@ -1,5 +1,9 @@
 ## 放行
-
+#咪咕视频接口
+@@||pcvideoaliyun.titan.mgtv.com^$important#
+#555影视
+@@||3d-platform-pro.obs.cn-south-1.myhuaweicloud.com^$important
+@@||ichnaea-web.netflix.com^$important
 #大师兄
 @@||sdk.alibaba.com.ailbaba.me^$important
 #视频app
@@ -189,7 +193,6 @@
 @@||v2.get.sogou.com^$important
 @@||p3-sign.toutiaoimg.com^$important
 @@||ap.6wz.co^$important
-@@||tnc3-alisc1.zijieapi.com^$important
 @@||union-click.jd.com^$important
 @@||push1.91cloud.net^$important
 @@||pull2.91cloud.net^$important
@@ -358,25 +361,19 @@
 @@||wifi.vivo.com.cn^$important
 !小米
 @@||connect.rom.miui.com^$important
-!酷安
-@@||316.coolapk1s.com^$important
-@@||api.coolapk.com^$important
-@@||avatar.coolapk.com^$important
-@@||umengjmacs.m.taobao.com^$important
 !抖音网页
 @@||lf3-cdn-tos.bytegoofy.com^$important
 @@||lf6-cdn-tos.bytegoofy.com^$important
-@@||lf1-cdn-tos.bytegoofy.com^$important
 ! 抖音直播购物
 @@||haohuo.jinritemai.com^ 
 @@||tnc11-bjlgy.zijieapi.com^
-@@||tnc3-alisc1.zijieapi.com^
 ! 今日头条相关
 @@||snssdk.com^
 @@||p3-sign.toutiaoimg.com^
 @@||mcs.snssdk.com^
 #中国移动
 @@||config.cmpassport.com^$important
+@@||www.cmpassport.com^$important
 @@||www.cmpassport.com^$important
 @@||wap.cmpassport.com^$important
 @@||onekey1.cmpassport.com^$important
