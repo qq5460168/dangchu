@@ -1595,11 +1595,6 @@
 ||maps.testing.amap.com^
 ||page.amap.com^
 ||cache.gaode.com^
-##钉钉
-||adash-emas.cn-hangzhou.aliyuncs.com^
-||minipkg.dingtalk.com^
-||file.dingtalk.com^
-||down-cdn.dingtalk.com^
 ##哔哩哔哩
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
