@@ -1,4 +1,8 @@
 ## 放行
+#爱奇艺会员权益
+@@||passport.iqiyi.com^$important
+#爱奇艺会员成长体系
+@@||lequ-qfe.iqiyi.com^$important
 #小米商店
 @@||3746760377.qnqcdn.net^$important
 #路由器
