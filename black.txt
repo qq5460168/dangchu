@@ -1694,9 +1694,6 @@
 ||iadmatapk.nosdn.127.net^
 ||iadmusicmatvideo.music.126.net^
 ||lf3-sf-be-pack-sign.pglstatp-toutiao.com^
-##爱奇艺
-||cards.iqiyi.com^
-||vip.iqiyi.com^
 ##西瓜视频
 ||p3.bdxiguaimg.com^
 ||ad.byted.org^
