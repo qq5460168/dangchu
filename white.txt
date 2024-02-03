@@ -1,4 +1,13 @@
 ## 放行
+#小米商店
+@@||3746760377.qnqcdn.net^$important
+#路由器
+@@||router.ctc.lan^$important
+#一号店优惠券
+@@||vip-pro.m.yhd.com^$important
+@@||venus.yhd.com^$important
+#苹果商店图片
+@@||is1-ssl.mzstatic.com^$important
 #咪咕视频接口
 @@||pcvideoaliyun.titan.mgtv.com^$important#
 #555影视
@@ -10,6 +19,7 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 #领红包封面
 @@||sourl.cn^$important
+
 @@||flyme.cn^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
