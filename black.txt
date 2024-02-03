@@ -61,6 +61,7 @@
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 #不良网站
+||ieor.2290059.xyz^$important
 ||lf6-cdn-tos.bytecdntp.com^$important
 ||zmzzfsdfdslk333.com^$important
 ||xb1.tanan119.com^$important
@@ -1469,6 +1470,11 @@
 127.0.0.1 appcloud.zhihu.com
 127.0.0.1 api.g.micloud.xiaomi.net
 127.0.0.1 wup.imtt.qq.com
+127.0.0.1 sdk.1rtb.net
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 icosa-service-in.allawnos.com
+127.0.0.1 allawntech.com
+127.0.0.1 sidebar-apps-cn.allawntech.com
 
 ##推送全家桶
 ||getui.com^
