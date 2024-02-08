@@ -1,4 +1,20 @@
 ## 放行
+#番茄小说
+@@|v*-novelapp.fqnovelvod.com^
+@@|tnc3-aliec2.snssdk.com^
+@@||fanqienovel.com^
+@@|api*-normal.fqnovel.com^
+@@|api*-normal-lf.fqnovel.com^
+@@|v*-fq-tts.fqnovelvod.com^
+@@|abtest3-misc-lf.zijieapi.com^
+@@|log5-applog-lf.fqnovel.com^
+@@|is.snssdk.com^
+@@|reading.snssdk.com^
+@@|i.snssdk.com^
+#花蝴蝶
+@@||app-measurement.com^$important
+#爱奇艺vip
+@@||vip.iqiyi.com^$important
 #爱奇艺会员权益
 @@||passport.iqiyi.com^$important
 #爱奇艺会员成长体系
@@ -23,7 +39,6 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 #领红包封面
 @@||sourl.cn^$important
-
 @@||flyme.cn^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
@@ -150,6 +165,7 @@
 @@||mdt.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||gdt.qq.com^$important
+@@||gdtimg.com^$important
 @@||ios.bugly.qq.com^$important
 @@||tangram.e.qq.com^$important
 @@||appsupport.qq.com^$important
@@ -386,7 +402,6 @@
 @@||mcs.snssdk.com^
 #中国移动
 @@||config.cmpassport.com^$important
-@@||www.cmpassport.com^$important
 @@||www.cmpassport.com^$important
 @@||wap.cmpassport.com^$important
 @@||onekey1.cmpassport.com^$important
