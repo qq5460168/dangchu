@@ -457,7 +457,6 @@
 ||skdisplay.jd.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
 ||p3-novel.byteimg.com^
-||116.169.48.137:443^important
 ||p3-novelfm-sign.novelfmpic.com^
 ||v9-be-pack.pglstatp-toutiao.com^
 ||adsoptimal.com^
@@ -533,11 +532,11 @@
 ||pull-flv-f13.douyincdn.com^
 ||pangolin-sdk-toutiao*
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^
-||mgsdk-sign*
-||pangolin-sdk*
-||adsrv.lua.pl*
-||ads.tnt.tv*
-||ads.superawesome.tv*
+||mgsdk-sign^
+||pangolin-sdk^
+||adsrv.lua.pl^
+||ads.tnt.tv^
+||ads.superawesome.tv^
 ||p1-lm.adkwai.com^
 ||webcast-open.douyin.com^
 ||w1.kskwai.com^
@@ -549,7 +548,7 @@
 ||chance-ad.com^
 ||zhihuiyun.net.cn^
 ||71360.com^
-||onemob.mobi*
+||onemob.mobi^
 ||emar.com^
 ||dwz.cn^
 ||social.pinduoduo.com^
@@ -562,8 +561,8 @@
 ||aqdlt.com^
 ||aqdz91.com^
 ||aqdz149.com^
-||appmetrica.yandex.ru*
-||share.jileme.net*
+||appmetrica.yandex.ru^
+||share.jileme.net^
 ||msync-im1-vip6-std.easemob.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||settings.ttwebview.com^
@@ -617,7 +616,7 @@
 ||dsp.simba.taobao.com^
 ||sjarvis.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
-||umdc.aliapp.org*
+||umdc.aliapp.org^
 ||sdk.beizi.biz^
 ||sdktmp.hubcloud.com.cn^
 
@@ -1645,8 +1644,6 @@
 ||clue.oceanengine.com^
 ||vemarsdev.com^
 ||qc.bsccdn.net^
-||byteimg.com^
-||bytemaimg.com^
 ||dailygn.com^
 ||ohayoo.cn^
 ##书旗小说
