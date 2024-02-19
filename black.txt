@@ -1633,7 +1633,6 @@
 ||pull.ximalaya.com^
 ||xdcs-collector.ximalaya.com^
 ||qnqcdn.net^
-||m.ximalaya.com^
 ||joinchitchat.com^
 ##乐播
 ||adeng.lebo.cn^
