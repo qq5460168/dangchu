@@ -1598,7 +1598,6 @@
 ||resolver.msg.xiaomi.net^
 ||qchannel03.cn^
 ||logs.amap.com^
-||m5.amap.com^
 ||maps.testing.amap.com^
 ||page.amap.com^
 ||cache.gaode.com^
