@@ -1591,7 +1591,6 @@
 ||doubleclick.net^
 ||jnn-pa.googleapis.com^
 ||googlesyndication.com^
-||googleusercontent.com^
 ||www.googleadservices.com^
 ##高德地图
 ||cn.register.xmpush.xiaomi.com^
