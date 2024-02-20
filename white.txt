@@ -1,4 +1,8 @@
 ## 放行
+#360下载安装
+@@||dl.360safe.com^$important
+#咪咕图片
+@@||img.cmvideo.cn^$important
 #番茄小说
 @@|v*-novelapp.fqnovelvod.com^
 @@|tnc3-aliec2.snssdk.com^
