@@ -1,4 +1,24 @@
 ## 放行
+#360升级
+@@||update.360safe.com^
+@@|down.360safe.com^
+#网易云api
+@@|api.iplay.163.com
+#360搜图
+@@|m.image.so.com^
+#京东图床
+@@|img1.360buyimg.com^
+#腾讯游戏登录相关
+@@||ssl.msdk.qq.com^
+#三星手机商店
+@@|img.samsungapps.com^
+@@|img.galaxyappstore.com^
+#抖音直播间购物车和购物车商品图片
+@@||ecombdimg.com^
+#抖音直播间购物车和购物车商品图片
+@@||ecombdimg.com^
+#王者一些图片
+@@|img.ssl.msdk.qq.com^
 #360下载安装
 @@||dl.360safe.com^$important
 #咪咕图片
