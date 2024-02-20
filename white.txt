@@ -174,7 +174,6 @@
 @@||www.ntdtv.com^$important
 @@||jump.luna.58.com^$important
 @@||aegis.qq.com^$important
-@@||oth.eve.mdt.qq.com^$important
 @@||ii.gdt.qq.com^$important
 @@||mdt.qq.com^$important
 @@||dldir3.qq.com^$important
