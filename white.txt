@@ -1,4 +1,8 @@
 ## 放行
+#花生壳推送
+@@||push.oray.com^$important
+#百度翻译接口
+@@||fanyi.baidu.com^$important
 #360升级
 @@||update.360safe.com^
 @@|down.360safe.com^
