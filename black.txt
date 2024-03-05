@@ -54,6 +54,13 @@
 ||tangram.e.qq.com^
 ||open.youzanyun.com^
 
+##https://www.itdog.cn/
+www.itdog.cn##.lantern_right
+www.itdog.cn##.lantern_left
+www.itdog.cn##.pointer
+www.itdog.cn##.mb-3
+www.nite07.com##.hope-c-PJLV-ikSuVsl-css
+www.itdog.cn##.rounded-lg
 #酷安
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /! 帖子详情赞助内容
