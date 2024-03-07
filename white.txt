@@ -686,7 +686,6 @@ b站视频加载
 @@||h5.m.taobao.com^$important
 @@||ip.taobao.com^$important
 @@||*.alipay.com^$important
-@@||alicdn.com^$important
 @@||click.simba.taobao.com^$important
 !阿里云盘登录需要
 @@||acs.m.taobao.com^$important
