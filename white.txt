@@ -178,9 +178,7 @@
 @@||jump.luna.58.com^$important
 @@||aegis.qq.com^$important
 @@||ii.gdt.qq.com^$important
-@@||mdt.qq.com^$important
 @@||dldir3.qq.com^$important
-@@||gdt.qq.com^$important
 @@||gdtimg.com^$important
 @@||ios.bugly.qq.com^$important
 @@||tangram.e.qq.com^$important
