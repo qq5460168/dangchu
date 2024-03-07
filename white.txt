@@ -80,7 +80,6 @@
 @@||rs.xmeye.net^$important
 @@||rs.xmeye.net
 @@||act.vip.iqiyi.com^$important
-@@||httpdns.bcelive.com^$important
 @@||wwo.wps.cn^$important
 @@||www.123pan.com^$important
 @@||saomiao.51240.com^$important
