@@ -1,4 +1,7 @@
 ## 放行
+#QQ群在线文档
+@@||pub.idqqimg.com^$important
+@@||docs.idqqimg.com^$important
 #花生壳推送
 @@||push.oray.com^$important
 #百度翻译接口
@@ -177,7 +180,6 @@
 @@||www.ntdtv.com^$important
 @@||jump.luna.58.com^$important
 @@||aegis.qq.com^$important
-@@||ii.gdt.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||gdtimg.com^$important
 @@||ios.bugly.qq.com^$important
