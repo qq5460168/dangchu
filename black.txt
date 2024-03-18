@@ -250,47 +250,286 @@ www.itdog.cn##.rounded-lg
 123.6.13.6 hugeota.d.miui.com
 # 酷安去广告
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
-# 去除小米刷机包限速
-183.136.207.132 hugeota.d.miui.com
-222.211.77.45 hugeota.d.miui.com
-23.74.15.48 hugeota.d.miui.com
-203.195.76.34 hugeota.d.miui.com
-223.247.108.236 hugeota.d.miui.com
-1.194.252.150 hugeota.d.miui.com
-1.194.252.151 hugeota.d.miui.com
-111.42.190.27 hugeota.d.miui.com
-180.163.200.96 hugeota.d.miui.com
-42.185.159.90 hugeota.d.miui.com
-218.12.77.221 hugeota.d.miui.com
-223.247.108.238 hugeota.d.miui.com
-203.195.76.31 hugeota.d.miui.com
-114.80.149.74 hugeota.d.miui.com
-218.12.77.222 hugeota.d.miui.com
-1.180.18.26 hugeota.d.miui.com
-122.225.83.99 hugeota.d.miui.com
-122.225.83.98 hugeota.d.miui.com
-112.25.25.153 hugeota.d.miui.com
-111.6.251.13 hugeota.d.miui.com
-60.210.23.241 hugeota.d.miui.com
-218.12.77.221 bigota.d.miui.com
-223.247.108.238 bigota.d.miui.com
-111.42.190.28 bigota.d.miui.com
-223.108.61.123 bigota.d.miui.com
-112.83.164.215 bigota.d.miui.com
-222.211.77.46 bigota.d.miui.com
-1.180.18.26 bigota.d.miui.com
-222.211.77.45 bigota.d.miui.com
-23.74.15.48 bigota.d.miui.com
-223.247.108.236 bigota.d.miui.com
-1.194.252.150 bigota.d.miui.com
-122.225.83.100 bigota.d.miui.com
-183.136.140.24 bigota.d.miui.com
-111.42.190.27 bigota.d.miui.com
-180.163.200.97 bigota.d.miui.com
-1.180.18.27 bigota.d.miui.com
-122.225.83.99 bigota.d.miui.com
-119.96.78.12 bigota.d.miui.com
-
+ #晴雅规则
+||cfg.imtt.qq.com^
+||yun-hl.3g.qq.com^
+||disp-qryapi.3g.qq.com^
+||masdkv6.3g.qq.com^
+||masdk.3g.qq.com^
+||pmir.3g.qq.com^
+||tools.3g.qq.com^
+||analy.qq.com^
+||bugly.qq.com^
+||e.qq.com^
+||*.gdt.qq.com^
+||httpring.qq.com^
+||l.qq.com^
+||c.*.qq.com^
+||lives.l.qq.com^
+||logsdk.qq.com^
+||omgmta.qq.com^
+||pingfore.qq.com^
+||pingjs.qq.com^
+||pingma.qq.com^
+||pingtcss.qq.com^
+||report.qq.com^
+||rs*.qq.com^
+||scdown.qq.com^
+||tajs.qq.com^
+||tcss.qq.com^
+||monitor.uu.qq.com^
+||news.ssp.qq.com^
+# [百度]
+||aden.baidu.com^
+||bes-mtj.baidu.com^
+||cpu-openapi.baidu.com^
+||cpu.baidu.com^
+||dxp.baidu.com^
+||haokan.baidu.com^
+||mobads-logs.baidu.com^
+||render-server.cdn.bcebos.com^
+||dup.baidustatic.com^
+||ubmcmm.baidustatic.com^
+||adscdn.baidu.com^
+||als.baidu.com^
+||eiv.baidu.com^
+||iwanad.baidu.com^
+||pos.baidu.com^
+||spcode.baidu.com^
+||cbjs.baidu.com^
+||cbjslog.baidu.com^
+||crs.baidu.com^
+||znsv.baidu.com^
+||pups.bdimg.com^
+||*.retail.n.weimob.com^
+||mi-eo.gdt.qq.com^
+||pgdt.ugdtimg.com^
+||sg.ylhglobal.com^
+||tdid.m.qq.com^
+||union.eff.qq.com^
+# [快手]
+||uploads*.gifshow.com^
+||upload.ksapisrv.com^
+||uploads*.ksapisrv.com^
+||adtrack.e.kuaishou.com^
+||ulog-sdk.gifshow.com^
+||ulog-sdk.ksapisrv.com^
+||w2.kskwai.com^
+||w1.gskwai.com^
+||zt.gifshow.com^
+||api.kuaishouzt.com^
+||api.kwaizt.com^
+# [微信]
+consumerapp*.image.myqcloud.com^
+||*snscosdownload*^
+||*getappmsgad*^
+# [友盟]
+||*umeng.com^
+# [360]
+||c.sayhi.360.cn^
+# [字节跳动]
+||apmlog.snssdk.com^
+||cdn-tos-cn.bytedance.net^
+||ichannel.snssdk.com^
+||log.snssdk.com^
+||phoniex.toutiao.com^
+||playable.oceanengine.com^
+||rtapplog.snssdk.com^
+||rtlog.snssdk.com^
+||success.ctobsnssdk.com^
+||www.pangle.cn^
+||boe-reward-api.bytedance.net^
+||jsbridge-boe.bytedance.net^
+||reward-api.csjplatform.com^
+||api.letvcloud.com^
+||webcast*-open-hl.douyin.com^
+||seeds-open.xycdn.com^
+||pitaya.bytedance.com^
+# [vivo]
+||adxlog-adnet.vivo.com.cn^
+||ads-marketing-vivofs.vivo.com.cn^
+# [未分类]
+||*.sigmob.cn^
+||*8le8le.com^
+||adx-*anythinktech.com^
+||ad.xmmnsl.com^
+||nadvideo*.baidu.com^
+||adcaffe-bard.atcloudbox.com^
+||[240e:ff:f100:1009::10f]:443^
+||api.iegadp.qq.com^
+||p*-be-pack-sign.pglstatp-toutiao.com^
+||msg.qy.net^
+||metrics1-drcn.dt.dbankcloud.cn^
+||tnc*-bjlgy.zijieapi.com^
+||ulogs.umengcloud.com^
+||vch.video.qq.com^
+||datacollector-drcn.dt.dbankcloud.cn^
+||datacollector-drcn.dt.hicloud.com^
+||api-access.pangolin-sdk-toutiao1.com^
+||pig.pupuapi.com^
+||log-api.pangolin-sdk-toutiao.com^
+# [番茄小说]
+||lf*-ad-union-sdk.pglstatp-toutiao.com^
+||ads*-normal-lq.zijieapi.com^
+||ads*-normal.zijieapi.com^
+||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||ads*-normal-lq.zijieapi.com.queniuiq.com^
+||p*-ad-sign.byteimg.com^
+||api.toutiaoapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+# [视频客户端过滤器]
+||yk-ssp.ad.youku.com^
+||vali-g1.cp31.ott.cibntv.net^
+||dorangesource.alicdn.com^
+||xpgw-xcdn.youku.com^
+||36.102.218.149:4482/image.uczzd.cn^
+||cad.youku.com^
+||ykad-data.youku.com^
+||activity.youku.com^
+# [正则百度]
+||*adsdk_splash*^
+||*adsdk_roll*^
+||*MobadsSdk*^
+||*mobads.baidu.com"
+||*/ads/index.htm*^
+||*mobads://*^
+||*bqt_logo_tag*^
+||*bd_sp_logo*^
+||*baidu_logo_time*^
+||*ad_logo_time*^
+||*baidu_logo_str*^
+||*ad_logo_str*^
+||*mobads*^
+# [抖音]
+||*isAds*^
+||tv.snssdk.com^
+||mon.zijieapi.com^
+||ma.zijieapi.com^
+||monsetting.toutiao.com^
+||e189.21cn.com^
+||leads.oceanengine.com^
+# [酷狗音乐]
+||ads*kugou.com^
+||fxservice1.kugou.com^
+# [知乎]
+||api.zhihu.com/ab/*^
+||m-cloud.zhihu.com/api/cloud/zhihu/config/all*^
+||*commercial_api*^
+||sugar.zhihu.com^
+||duga.zhihu.com^
+||datahub.zhihu.com^
+||auni.telecome.cn^
+||open.kuaishouzt.com^
+||httpdns.kwd.inkuai.com^
+||*shared-*.js^
+||m-cloud.zhihu.com^
+||*load_new_ad=*^
+||*commercial_api/real_time*^
+||www.zhihu.com/api/v4/answers/*/recommendations?omni=*&load_new_ad=*&page_index=*^
+# [七猫]
+||*ad-pattern*^
+||*ad_unit_id*^
+||p2-lm.adukwai.com^
+||*ads_svp_video*^
+||*api/ad/*^
+||*get-ads*^
+||api-cfg.wtzw.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
+||p*-lm.adkwai.com^
+||gromore.pangolin-sdk-toutiao.com^
+||*/api/ad/*^
+||ext-adv.kaixinyf.cn^
+||p*-lm.adukwai.com^
+||*feed_ad*^
+||*channel=*&disable_rcmd=1*^
+||*/splash/list?access_key*^
+||*/effect_ad/splash_screen/*^
+||*/splash/show*^
+||*/peak/download*^
+||*igd.xml*^
+||*/pgc/app/preload*^
+||*ads-track*^
+||*/game/abtest/*^
+||*/auto_download/game_pkg_list/*^
+||upos-*-static.bilivideo.com^
+||line*-adscore-api.biligame.net^
+||*/effect_ad/*^
+||*dy-pic*.iqiyipic.com^
+||t7z.cupid.iqiyi.com^
+||baiducdnct.inter.iqiyi.com^
+||promotion-partner.kuaishou.com^
+||sns-paopao.iqiyi.com^
+||*adkwai.com^
+||gorgon.youdao.com^
+||youku-jmacs.m.taobao.com^
+||pub.idqqimg.com^
+||mobilelog.upqzfile.com^
+||tpstelemetry.tencent.com^
+||adsmind.gdtimg.com^
+||*.e.qq.com^
+||mum.alibabachengdun.com^
+||gw.alicdn.com^
+||mus-nettech.youku.com^
+||pss.alicdn.com^
+||id6.me^
+||adx-open-service.youku.com^
+||c.sm.cn^
+||h-adashx.ut.youku.com^
+||appdownload.youku.com^
+||abtest.alibaba.com^
+||api.sm.cn^
+||adashx.ut.youku.com^
+||cm-10-28.getui.com^
+||lhp.map.qq.com^
+# [小说]
+||useronline-*.image.myqcloud.com^
+||p11.douyinpic.com^
+||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||p6-webcast-sign.douyinpic.com^
+||p9-novel-sign.byteimg.com^
+||ads5-normal.zijieapi.com^
+||p9-pack.byteimg.com^
+||api5-normal-sinfonlinea.fqnovel.com^
+||api5-normal-hl.fqnovel.com^
+p9-be-pack-sign.pglstatp-toutiao.com
+||p6-developer-sign.bytemaimg.com^
+||api3-normal-lq.fqnovel.com^
+||lv3-novelapp.fqnovelvod.com^
+||*.beizi.biz^
+||v.adx.hubcloud.com.cn^
+||*.hpplay.cn^
+||iad.*.163.com^
+l*.bytescm.com^
+||*.hubcloud.com.cn^
+||api.htp.hubcloud.com.cn^
+||ad-*file.myqcloud.com^
+||yktd.m.cn.miaozhen.com^
+||apimobile.meituan.com^
+||185.172.2.183.in-addr.arpa^
+||yoda.kwd.inkuai.com^
+||hwmov.a.yximgs.com^
+||browserkernel.baidu.com^
+||*-be-pack.pglstatp-toutiao.com^
+||lf*-cdn-tos.bytegoofy.com^
+||bqq.gtimg.com^
+# [22号]
+||*.8le8le.com^
+||push-rtmp-spe-l1.douyincdn.com^
+||scc.bytedance.com^
+||www.bytedance.com^
+||www.bytedance.com.w.cdngslb.com^
+||www.bytedance.com.queniurc.com^
+||nsclick.baidu.com^
+||mbd.baidu.com^
+||cpro.baidustatic.com.a.bdydns.com^
+||opencdnbaiduwm.jomodns.com^
+||mtrace.qq.com^
+||btrace.qq.com^
+||h-adashx.ut.taobao.com^
+||rt.applovin.com^
+ CNAME, ulogs.umengcloud.com.gds.alibabadns.com.
+||alog-default.umeng.com^
+||zhihu-web-analytics.zhihu.com^
 ! 某些系统日志log上传
 ||tailscale.io^
 ||api.open.adsaide.cn^
