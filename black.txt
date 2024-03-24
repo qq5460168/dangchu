@@ -285,7 +285,6 @@ www.itdog.cn##.rounded-lg
 ||cpu-openapi.baidu.com^
 ||cpu.baidu.com^
 ||dxp.baidu.com^
-||haokan.baidu.com^
 ||mobads-logs.baidu.com^
 ||render-server.cdn.bcebos.com^
 ||dup.baidustatic.com^
