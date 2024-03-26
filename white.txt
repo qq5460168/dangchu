@@ -1,4 +1,6 @@
 ## 放行
+#丰巢
+@@||dsp.fcbox.com^$important
 #囧次元
 @@||wxsnsdy.wxs.qq.com^$important
 #QQ群在线文档
