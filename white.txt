@@ -1,4 +1,6 @@
 ## 放行
+#酷安图片
+@@||image.coolapk.com^
 #丰巢
 @@||dsp.fcbox.com^$important
 #囧次元
