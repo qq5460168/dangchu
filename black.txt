@@ -77,6 +77,8 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 #不良网站
+||ljyy846.xyz^$important
+||scxj1031.xyz^$important
 ||ht33ii.xyz^$important
 ||www.17c710.com^$important
 ||ieor.2290059.xyz^$important
@@ -659,7 +661,6 @@ l*.bytescm.com^
 ||ibreeno.com^
 ||oppopay.com^
 ||wanyol.com^
-||heytapmobi.com^
 ||oplustrust.com^
 ||vayol.com^
 ||heytap.com^
