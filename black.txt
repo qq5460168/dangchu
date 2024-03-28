@@ -1350,7 +1350,6 @@ l*.bytescm.com^
 !腾讯
 ||3gsoftfile.tc.qq.com^
 ||3gsoftfile.tcdn.qq.com^
-||a.ssl.msdk.qq.com^
 ||ac.o2.qq.com^
 ||ad.weixin.qq.com^
 ||ads.privacy.qq.com^
@@ -1389,7 +1388,6 @@ l*.bytescm.com^
 ||cp.discuz.qq.com^
 ||crash.browser.qq.com^
 ||d.gdt.qq.com^
-||di.ssl.msdk.qq.com^
 ||dl_dir.qq.com^
 ||dl_dir2.qq.com^
 ||dldir2.qq.com^
@@ -1433,7 +1431,6 @@ l*.bytescm.com^
 ||mobwin.app.qq.com^
 ||moviets.tc.qq.com^
 ||mqqadr.showreader.qq.com^
-||msdk.qq.com^
 ||msm.qq.com^
 ||mtt.eve.mdt.qq.com^
 ||mw.app.qq.com^
