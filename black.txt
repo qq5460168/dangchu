@@ -843,7 +843,6 @@ l*.bytescm.com^
 ||rpt.gdt.qq.com^
 ||pangolin-sdk-toutiao1.com^
 ||fapi.xdrun.com^
-||stars.shuqireader.com^
 ||audio-cdn.shuqireader.com^
 ||thirdwx.qlogo.cn^
 ||contentcenter-drcn.dbankcdn.cn^
