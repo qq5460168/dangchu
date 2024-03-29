@@ -1,4 +1,6 @@
 ## 放行
+#书旗小说评论
+@@||stars.shuqireader.com^$important
 #腾讯游戏
 @@||msdk.qq.com^$important
 #酷安图片
