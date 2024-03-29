@@ -1,4 +1,6 @@
 ## 放行
+#腾讯游戏
+@@||msdk.qq.com^$important
 #酷安图片
 @@||image.coolapk.com^
 #丰巢
