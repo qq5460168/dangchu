@@ -1,4 +1,6 @@
 ## 放行
+#链家、贝壳找房验证码
+@@||dig.lianjia.com^$important
 #书旗小说评论
 @@||stars.shuqireader.com^$important
 #腾讯游戏
@@ -190,6 +192,7 @@
 @@||www.ntdtv.com^$important
 @@||jump.luna.58.com^$important
 @@||aegis.qq.com^$important
+@@||ii.gdt.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||gdtimg.com^$important
 @@||ios.bugly.qq.com^$important
