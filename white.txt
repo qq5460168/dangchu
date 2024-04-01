@@ -1,4 +1,8 @@
 ## 放行
+#头条pro
+@@||ib.snssdk.com^
+@@||ic.snssdk.com^
+@@||is.snssdk.com^
 #链家、贝壳找房验证码
 @@||dig.lianjia.com^$important
 #书旗小说评论
