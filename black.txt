@@ -2,6 +2,8 @@
 ! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 ##部分规则来自DD大佬
 ##个人拦截规则
+||api.xiangkanwang.com^
+||cdn.xiangkanwang.com^
 ||cn.xiaochuankeji.tieba^
 ||info4.video.qq.com^$important
 ||tpns.q.com^$important
