@@ -1,4 +1,8 @@
 ## 放行
+#王者更新
+@@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
+#极弧
+@@||about.gitlab.cn^$important
 #头条pro
 @@||ib.snssdk.com^
 @@||ic.snssdk.com^
