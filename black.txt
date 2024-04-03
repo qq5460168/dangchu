@@ -5,8 +5,6 @@
 ||api.xiangkanwang.com^
 ||cdn.xiangkanwang.com^
 ||cn.xiaochuankeji.tieba^
-||info4.video.qq.com^$important
-||tpns.q.com^$important
 ||in.appcenter.ms^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||google.com/pagead/
@@ -79,6 +77,13 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 #不良网站
+||tpns.q.com^$important
+||info4.video.qq.com^$important
+||trwa116u.xyz^$important
+||trh64a.top^$important
+||www.17c939.com^$important
+||www.17c584.com^$important
+||ksksp88x11.xyz^$important
 ||ljyy846.xyz^$important
 ||scxj1031.xyz^$important
 ||ht33ii.xyz^$important
