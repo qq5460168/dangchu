@@ -168,7 +168,12 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-#不良网站
+#18+不良网站
+||instv1929.com^$important
+||btggafie.a.mgqhau.top^$important
+||wumengtianb1-sdf.jxws603.top^$important
+||b57s7ay2um5w.626772.com^$important
+||static.squirrelgs.info^$important
 ||imp.xn--cjs03lxs1ayxrljd.com^$important
 ||lmiztedlywkm.freshmh.top^$important
 ||nbwkd.wmqtrj.songhan.top^$important
