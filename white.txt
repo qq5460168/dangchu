@@ -1,4 +1,8 @@
 ## 放行
+#qq登录授权接口
+@@||qappcenterv6.3g.qq.com^$important
+#猫眼
+@@||api-unionid.meituan.com^$important
 #王者更新
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
 #极弧
