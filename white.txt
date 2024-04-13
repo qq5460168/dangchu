@@ -644,7 +644,6 @@ b站视频加载
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||app-measurement.com^$important
 @@||exp.sug.browser.miui.com^$important
-@@||mi.com^$important
 @@||*.mi-img.com^$important
 @@||xzz.xiaomin.tech^$important
 @@||api.io.mi.com^$important
