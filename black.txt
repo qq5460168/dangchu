@@ -169,6 +169,7 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 #18+不良网站
+||w7k.cn^$important
 ||instv1929.com^$important
 ||btggafie.a.mgqhau.top^$important
 ||wumengtianb1-sdf.jxws603.top^$important
