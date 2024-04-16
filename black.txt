@@ -2134,7 +2134,6 @@ l*.bytescm.com^
 ||cn.register.xmpush.xiaomi.com
 ##知乎
 ||zeus-api.vemarsdev.com^
-||picx.zhimg.com^
 ||meishesdk.com^
 ||g-zt.kwai-pro.com^
 ||vod.streamlakeapi.com^
