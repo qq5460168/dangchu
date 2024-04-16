@@ -1,4 +1,6 @@
 ## 放行
+#饿了么登录
+@@||ipassport.ele.me^$important
 #滴滴顺风车
 @@||dorado.xiaojukeji.com^$important
 #qq登录授权接口
