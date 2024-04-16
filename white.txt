@@ -1,4 +1,6 @@
 ## 放行
+#饿了么小程序
+@@||waimai-guide.ele.me^$important
 #饿了么登录
 @@||ipassport.ele.me^$important
 #滴滴顺风车
