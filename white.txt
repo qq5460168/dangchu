@@ -1,6 +1,4 @@
 ## 放行
-#今日头条下载
-@@||article.zlink.toutiao.com^$important
 #饿了么小程序
 @@||waimai-guide.ele.me^$important
 #饿了么登录
