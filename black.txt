@@ -2053,7 +2053,6 @@ l*.bytescm.com^
 ||sf6-cdn-tos.bdxiguastatic.com^
 ||microapp.bytedance.com^
 ||tmaservice.developer.toutiao.com^
-||zlink.toutiao.com^
 ||lf3-static.bytednsdoc.com^
 ||developer.toutiao.com^
 ||sf6-cdn-tos.toutiaostatic.com^
