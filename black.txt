@@ -431,7 +431,6 @@ www.itdog.cn##.rounded-lg
 ||w2.kskwai.com^
 ||w1.gskwai.com^
 ||zt.gifshow.com^
-||api.kuaishouzt.com^
 ||api.kwaizt.com^
 # [微信]
 consumerapp*.image.myqcloud.com^
