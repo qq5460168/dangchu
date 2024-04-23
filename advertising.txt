@@ -33,7 +33,6 @@
 ||www.estrongs.com^
 #字节系 AD API SDK 屏蔽
 #番茄小说
-||p3-sign.douyinpic.com^
 ||bsync3-normal-lq.zijieapi.com^
 ||ec3-core-lq.ecombdapi.com^
 ||log5-applog.fqnovel.com^
