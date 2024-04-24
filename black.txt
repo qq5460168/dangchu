@@ -956,7 +956,6 @@ l*.bytescm.com^
 ||fapi.xdrun.com^
 ||audio-cdn.shuqireader.com^
 ||thirdwx.qlogo.cn^
-||contentcenter-drcn.dbankcdn.cn^
 ||oss-asq-download.11222.cn^
 ||log.umsns.com^
 ||render-resource.11222.cn^
