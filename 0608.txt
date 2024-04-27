@@ -1519,7 +1519,6 @@ Title: 测试hosts
 127.0.0.1 p1-jx.adukwai.com
 127.0.0.1 p1-pp.adukwai.com
 127.0.0.1 p1-yx.adkwai.com
-127.0.0.1 p11.douyinpic.com
 127.0.0.1 p2-ad.adukwai.com
 127.0.0.1 p2-jx.adukwai.com
 127.0.0.1 p2-yx.adkwai.com
