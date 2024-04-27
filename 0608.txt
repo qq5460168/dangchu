@@ -1534,7 +1534,6 @@ Title: 测试hosts
 127.0.0.1 p3.douyinpic.com
 127.0.0.1 p4-ad.adukwai.com
 127.0.0.1 p5-ad.adukwai.com
-127.0.0.1 p5.douyinpic.com
 127.0.0.1 p6-ad-sign.byteimg.com
 127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p6-novel.byteimg.com
