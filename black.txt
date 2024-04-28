@@ -1930,7 +1930,6 @@ l*.bytescm.com^
 127.0.0.1 cdn-creatives-tencent-prd.unityads.unitychina.cn
 127.0.0.1 p1-lm.adukwai.com
 127.0.0.1 p2-lm.adukwai.com
-127.0.0.1 p2.a.yximgs.com
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
 127.0.0.1 v2-lm.adukwai.com
