@@ -48,3 +48,33 @@ rules=(
   
  )
   
+  
+ remote:
+      - name: 'anti'
+        path: 'https://anti-ad.net/easylist.txt'
+      - name: 'adgk手机去广告规则'
+        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
+      - name: '5460'
+        path: 'https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt'
+      - name: '大萌主'
+        path: 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt'
+      - name: 'AdRules DNS List'
+        path: 'https://adrules.top/dns.txt'
+      - name: 'xndeye Adblock List'
+        path: 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt'
+      - name: 'DD'
+        path: 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt'
+      - name: 'HaGeZi's Light DNS Blocklist'
+        path: 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt'
+        - name: 'adg-kall-dns'
+        path: 'https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt'
+        - name: 'GitHub加速'
+        path: 'https://raw.hellogithub.com/hosts'
+        - name: 'AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）'
+        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
+        - name: 'xlxbj_dns'
+        path: 'https://www.xlxbk.cn/dns.txt'
+  
+  
+  
+  
