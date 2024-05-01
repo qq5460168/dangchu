@@ -478,6 +478,8 @@ www.itdog.cn##.rounded-lg
 # 酷安去广告
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
  #晴雅规则
+||tnc3-aliec2.zijieapi.com^
+||android.bugly.qq.com^
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||disp-qryapi.3g.qq.com^
