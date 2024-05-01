@@ -842,6 +842,7 @@ ltssjy.qq.com^
 ||trrs-adp.2345.com^
 ||222-76-2-45-yf4b1e07.ksyungslb.com^
 ||*zhangyue.net^
+||api-access.pangolin-sdk-toutiao1.com^
 
 ! 某些系统日志log上传
 ||tailscale.io^
