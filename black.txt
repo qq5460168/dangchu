@@ -1010,7 +1010,6 @@ ltssjy.qq.com^
 ||frontier-toutiao.snssdk.com^
 ||mon11-misc-lq.fqnovel.com^
 ||p9-novelfm-sign.novelfmpic.com^
-||p26.douyinpic.com^
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||tnc3-alisc1.zijieapi.com^
