@@ -316,55 +316,37 @@ similarweb.com^
 
 
 # 小米社区
-web.vip.miui.com
+@@||web.vip.miui.com^$important
 # twitter
-t.co
-api.twitter.com
-pbs.twimg.com
-abs.twimg.com
-# 京东试用
-wl.jd.com
-im-x.jd.com
+@@||api.twitter.com^$important
+@@||pbs.twimg.com^$important
 # 知乎
-appcloud2.zhihu.com
-sugar.zhihu.com
-# 小米主题无法打开，小米推送失效
-data.mistat.xiaomi.com
-sdkconfig.ad.xiaomi.com
+@@||appcloud2.zhihu.com^$important
+@@||sugar.zhihu.com^$important
 # 皮皮虾无法访问问题
-dm.toutiao.com
-dig.bdurl.net
-ws.ribaoapi.com
+@@||dm.toutiao.com^$important
+@@||dig.bdurl.net^$important
+@@||ws.ribaoapi.com^$important
 # 应用汇
-mobile.appchina.com
+@@||mobile.appchina.com^$important
 # 小米云服务状态
-statusapi.micloud.xiaomi.net
+@@||statusapi.micloud.xiaomi.net^$important
 # 搜狗输入法
-input.shouji.sogou.com
-worldwide.sogou.com
-# 小米
-api.g.micloud.xiaomi.net
-data.sec.miui.com
-logupdate.avlyun.sec.miui.com
+@@||input.shouji.sogou.com^$important
+@@||worldwide.sogou.com^$important
 # 淘宝
-h-adashx.ut.taobao.com
-m.intl.taobao.com
+@@||h-adashx.ut.taobao.com^$important
+@@||m.intl.taobao.com^$important
 # 微信红包
-as.weixin.qq.com
+@@||as.weixin.qq.com^$important
 # Todesk
-st.todesk.com
-# 小米api相关
-api.tw06.xlmc.sec.miui.com
-# 淘宝相关
-eco.taobao.com
-audid-api.taobao.com
-amdcopen.m.taobao.com
+@@||st.todesk.com^$important
 # 头条搜索
-is.snssdk.com
+@@||is.snssdk.com^$important
 ## 163登陆
-dl.reg.163.com
+@@||dl.reg.163.com^$important
 ## 小米云服务备份
-a0.app.xiaomi.com
+@@||a0.app.xiaomi.com^$important
 
 @@||flyme.cn^$important
 @@||flydigi.com^
