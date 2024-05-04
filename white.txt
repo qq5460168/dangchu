@@ -315,6 +315,57 @@ similarweb.com^
 @@||fraudmetrix.cn^
 
 
+# 小米社区
+web.vip.miui.com
+# twitter
+t.co
+api.twitter.com
+pbs.twimg.com
+abs.twimg.com
+# 京东试用
+wl.jd.com
+im-x.jd.com
+# 知乎
+appcloud2.zhihu.com
+sugar.zhihu.com
+# 小米主题无法打开，小米推送失效
+data.mistat.xiaomi.com
+sdkconfig.ad.xiaomi.com
+# 皮皮虾无法访问问题
+dm.toutiao.com
+dig.bdurl.net
+ws.ribaoapi.com
+# 应用汇
+mobile.appchina.com
+# 小米云服务状态
+statusapi.micloud.xiaomi.net
+# 搜狗输入法
+input.shouji.sogou.com
+worldwide.sogou.com
+# 小米
+api.g.micloud.xiaomi.net
+data.sec.miui.com
+logupdate.avlyun.sec.miui.com
+# 淘宝
+h-adashx.ut.taobao.com
+m.intl.taobao.com
+# 微信红包
+as.weixin.qq.com
+# Todesk
+st.todesk.com
+# 小米api相关
+api.tw06.xlmc.sec.miui.com
+# 淘宝相关
+eco.taobao.com
+audid-api.taobao.com
+amdcopen.m.taobao.com
+# 头条搜索
+is.snssdk.com
+## 163登陆
+dl.reg.163.com
+## 小米云服务备份
+a0.app.xiaomi.com
+
 @@||flyme.cn^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
