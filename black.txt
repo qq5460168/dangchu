@@ -243,7 +243,6 @@
 ||dns-test.research.a10protects.com^
 ||iface2.dns.iqiyi.com^
 ||bj.vip.waf.dns.iqiyi.com^
-||ipv6-static.dns.iqiyi.com^
 ||data.video.dns.iqiyi.com^
 ||static.dns.qiyipic.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
