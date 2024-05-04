@@ -1101,7 +1101,6 @@ Title: 测试hosts
 127.0.0.1 imap.getui.com
 127.0.0.1 imap.tingyun.com
 127.0.0.1 img-w.kuaishou.com
-127.0.0.1 img.360buyimg.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.admobile.top
@@ -1113,12 +1112,8 @@ Title: 测试hosts
 127.0.0.1 img.jiguang.cn
 127.0.0.1 img.ssl.msdk.qq.com
 127.0.0.1 img.xgo.com.cn
-127.0.0.1 img1.360buyimg.com
 127.0.0.1 img1.sj.qq.com
-127.0.0.1 img10.360buyimg.com
 127.0.0.1 img2.126.net
-127.0.0.1 img2.360buyimg.com
-127.0.0.1 img3.360buyimg.com
 127.0.0.1 img62.ddimg.cn
 127.0.0.1 imgdspcdn.umeng.com
 127.0.0.1 imgx.mediav.com
