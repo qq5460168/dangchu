@@ -1390,7 +1390,6 @@ ltssjy.qq.com^
 ||dns.weixin.qq.com^
 ||ocloud-httpdns-cn.heytapmobi.com^
 #QQ音乐广告
-||otheve.beacon.qq.com^
 ||tmead.y.qq.com^
 ||imtmp.net^
 #一些广告
@@ -2255,7 +2254,6 @@ ltssjy.qq.com^
 ||sf6-cdn-tos.toutiaostatic.com^
 ||bdxiguaimg.com^
 ##腾讯地图
-||aegis.qq.com
 ||log.tbs.qq.com^
 ||pms.mb.qq.com^
 ||cc.map.qq.com^
