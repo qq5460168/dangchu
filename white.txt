@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#天猫app
+@@||appdownload.alicdn.com^$important
+#音乐适配
+@@||nmobi.kuwo.cn^$important
 #腾讯手游加速器
 @@||h.trace.qq.com^$important
 @@||otheve.beacon.qq.com^$important
