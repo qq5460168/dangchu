@@ -1840,6 +1840,20 @@ ltssjy.qq.com^
 ||oca.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
 
+#谷歌翻译
+216.239.32.40 translate.google.com
+216.239.32.40 translate.googleapis.com
+216.239.32.40 translate-pa.googleapis.com
+216.239.32.40 clients1.google.com
+216.239.32.40 android.googleapis.com
+216.239.32.40 notifications-pa.googleapis.com
+#FCM
+108.177.97.188 mtalk.google.com
+64.233.177.188 alt7-mtalk.google.com
+142.250.138.188 alt2-mtalk.google.com
+74.125.137.188 alt1-mtalk.google.com
+64.233.188.188 mtalk.google.com
+142.250.10.188 alt5-mtalk.google.com
 #屏蔽MIUI应用检测
 127.0.0.1 log.avlyun.sec.intl.miui.com
 127.0.0.1 update.avlyun.sec.miui.com
