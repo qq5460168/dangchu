@@ -635,7 +635,6 @@ Title: 测试hosts
 127.0.0.1 click.union.ucweb.com
 127.0.0.1 client.mail.163.com
 127.0.0.1 client.show.qq.com
-216.239.32.40 clients1.google.com
 127.0.0.1 cloud.cpatrk.net
 127.0.0.1 cm-10-10.getui.com
 127.0.0.1 cm-10-11.igexin.com
@@ -1420,7 +1419,6 @@ Title: 测试hosts
 127.0.0.1 mssdk5-normal-lq.zijieapi.com
 127.0.0.1 mssdk5-normal.zijieapi.com
 127.0.0.1 mt.voiceads.cn
-64.233.188.188 mtalk.google.com
 127.0.0.1 mtalk.mob.com
 127.0.0.1 mtp.umeng.com
 127.0.0.1 multiply.crwdcntrl.net
@@ -2006,9 +2004,6 @@ Title: 测试hosts
 127.0.0.1 tracking.babytree.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 trackingprd.hwwt8.com
-216.239.32.40 translate-pa.googleapis.com
-216.239.32.40 translate.google.com
-216.239.32.40 translate.googleapis.com
 127.0.0.1 truth.qchannel01.cn
 127.0.0.1 truth.qchannel03.cn
 127.0.0.1 ts.crwdcntrl.net
