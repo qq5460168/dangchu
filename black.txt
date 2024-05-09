@@ -2010,6 +2010,9 @@ ltssjy.qq.com^
 ||stat.xiaomi.com^
 
 #hosts
+127.0.0.1 bsync3-normal-hl.zijieapi.com
+127.0.0.1 gecko5-hl.zijieapi.com
+
 127.0.0.1 data-collector.soulapp.cn
 127.0.0.1 increase-openapi.soulapp.cn
 127.0.0.1 data-connector-server.soulapp.cn
