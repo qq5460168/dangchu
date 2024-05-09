@@ -1,4 +1,4 @@
-Title: 测试hosts
+!Title: 测试hosts
 ! Homepage:
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
