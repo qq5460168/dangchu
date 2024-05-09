@@ -2010,6 +2010,11 @@ ltssjy.qq.com^
 ||stat.xiaomi.com^
 
 #hosts
+127.0.0.1 data-collector.soulapp.cn
+127.0.0.1 increase-openapi.soulapp.cn
+127.0.0.1 data-connector-server.soulapp.cn
+127.0.0.1 neptune-platform.zijieapi.com
+127.0.0.1 vod-license-b.volccdn.com
 127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 tower.douyucdn.cn
