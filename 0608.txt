@@ -761,8 +761,6 @@
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 damax.anythinktech.com
 127.0.0.1 dart.l.doubleclick.net
-127.0.0.1 data-collector.soulapp.cn
-127.0.0.1 data-connector-server.soulapp.cn
 127.0.0.1 data.mob.com
 127.0.0.1 data.sec.intl.miui.com
 127.0.0.1 data.sec.miui.com
@@ -1124,7 +1122,6 @@
 127.0.0.1 imp.yoyi.com.cn
 127.0.0.1 inc2.igexin.com
 127.0.0.1 incoming-data-sense360.s3.amazonaws.com
-127.0.0.1 increase-openapi.soulapp.cn
 127.0.0.1 index.umeng.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.gdt.qq.com
@@ -1435,7 +1432,6 @@
 127.0.0.1 nativead.s3.amazonaws.com
 127.0.0.1 nav.cn.ronghub.com
 127.0.0.1 neptune-api.volces.com
-127.0.0.1 neptune-platform.zijieapi.com
 127.0.0.1 network.tingyun.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 new.dashboard.mob.com
@@ -2129,7 +2125,6 @@
 127.0.0.1 view.adjust.com
 127.0.0.1 vip.bz.mgtv.com
 127.0.0.1 vod-box.bz.mgtv.com
-127.0.0.1 vod-license-b.volccdn.com
 127.0.0.1 vod-license-m.volccdn.com
 127.0.0.1 vod-settings.volcvod.com
 127.0.0.1 vpn1.ga.mob.com
