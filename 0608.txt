@@ -1,5 +1,5 @@
-!Title: 测试hosts
-! Homepage:
+! Title:测试去广告规则，反馈🐧群请点击主页
+! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
 127.0.0.1 104095.bid.domob.cn
