@@ -755,7 +755,6 @@ l*.bytescm.com^
 ||rt.applovin.com^
 ||alog-default.umeng.com^
 ||zhihu-web-analytics.zhihu.com^
-||haokan.baidu.com^
 ||consumerapp*.image.myqcloud.com^
 ||badjs.weixinbridge.com^
 ||midas.gtimg.cn^
