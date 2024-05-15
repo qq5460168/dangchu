@@ -255,9 +255,7 @@
 ||dnsin.in.zapto.xyz^
 ||dns1.dimassa.net^
 ||httpdns.tantanapp.com^
-||httpdns.yunxindns.com^
 ||dotserver.douyucdn.cn^
-
 ##https://www.itdog.cn/
 www.itdog.cn##.lantern_right
 www.itdog.cn##.lantern_left
@@ -275,7 +273,6 @@ www.itdog.cn##.rounded-lg
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /! 帖子详情赞助内容
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/! 发现页去除酷品
-||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
@@ -393,14 +390,6 @@ www.itdog.cn##.rounded-lg
 ||wz0522.ag-bj.2023126wz522.xyz^$important
 ||uwge590.com^$important
 ||d29fxzg1mat9ex.cloudfront.net^$important
-||ts1701868912.xn--kcr500a391b.xn--io0a7i^$important
-||b8.xn--w9qw2i396a4i5a.xn--fiqs8s^$important
-||ts1701867796.xn--w9qw2i396a4i5a.xn--fiqs8s^$important
-||i8.xn--0trp01f.xn--fiqs8s^$important
-||mn.dzigj.com^$important
-||wz0522.ag-bj.2023126wz522.xyz^$important
-||uwge590.com^$important
-||d29fxzg1mat9ex.cloudfront.net^$important
 ||www.17c123.com^$important
 ||273343.com^$important
 ||cherrytale.ero-labs.website^$important
@@ -468,8 +457,6 @@ www.itdog.cn##.rounded-lg
 ||www.7x8qwer.top^$important
 ||di9tms72wgbs.zpoejv.top^$important
 ||mizism07.com^$important
-
-
 108.177.97.100 translate.googleapis.com
 #小米下载加速
 123.6.13.6 bigota.d.miui.com
@@ -612,20 +599,6 @@ consumerapp*.image.myqcloud.com^
 ||cad.youku.com^
 ||ykad-data.youku.com^
 ||activity.youku.com^
-# [正则百度]
-||*adsdk_splash*^
-||*adsdk_roll*^
-||*MobadsSdk*^
-||*mobads.baidu.com"
-||*/ads/index.htm*^
-||*mobads://*^
-||*bqt_logo_tag*^
-||*bd_sp_logo*^
-||*baidu_logo_time*^
-||*ad_logo_time*^
-||*baidu_logo_str*^
-||*ad_logo_str*^
-||*mobads*^
 # [抖音]
 ||*isAds*^
 ||tv.snssdk.com^
@@ -842,8 +815,6 @@ ltssjy.qq.com^
 ||trrs-adp.2345.com^
 ||222-76-2-45-yf4b1e07.ksyungslb.com^
 ||*zhangyue.net^
-||api-access.pangolin-sdk-toutiao1.com^
-
 ! 某些系统日志log上传
 ||tailscale.io^
 ||api.open.adsaide.cn^
@@ -900,7 +871,6 @@ ltssjy.qq.com^
 ||t-dsp.pinduoduo.com^
 ||v1-lm.adbkwai.com^
 ||toblog.ctobsnssdk.com^
-||tnc3-aliec2.zijieapi.com^
 ||toblog.ctobsnssdk.com^$app=com.pcncn.jj
 ##虎扑广告
 ||hermes-server.hupu.com^
@@ -990,7 +960,6 @@ ltssjy.qq.com^
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
-
 #酷友APPea 分享
 ||saveu5-normal-lq.zijieapi.com^
 ||v3-be-pack.pglstatp-toutiao.com^
@@ -1100,9 +1069,6 @@ ltssjy.qq.com^
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^
 ||mgsdk-sign^
 ||pangolin-sdk^
-||adsrv.lua.pl^
-||ads.tnt.tv^
-||ads.superawesome.tv^
 ||p1-lm.adkwai.com^
 ||webcast-open.douyin.com^
 ||w1.kskwai.com^
@@ -1183,7 +1149,6 @@ ltssjy.qq.com^
 ||umdc.aliapp.org^
 ||sdk.beizi.biz^
 ||sdktmp.hubcloud.com.cn^
-
 ##酷安 是DD  分享
 ||volcsirius.com
 ||ads-marketing-vivofs.vivo.com.cn
@@ -1302,7 +1267,6 @@ ltssjy.qq.com^
 ||i.snssdk.com^
 ||uploads2.gifshow.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
-||share.jileme.net^
 ||st-ads-jssdk.vivo.com.cn^
 ||xmadsdk.cos.tx.xmcdn.com^
 ||ads-video-1251524319.cos.ap-shanghai.myqcloud.com^
@@ -1371,7 +1335,6 @@ ltssjy.qq.com^
 ||imp.ads.rgyun.com^
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
-
 #浅笑
 #日志上传和dns自查询
 ||trtc-sdk-log-
@@ -1393,7 +1356,6 @@ ltssjy.qq.com^
 #一些广告
 ||mkt-advertisement.tuhu.cn^$important
 ||app-advertise.zhihuishu.com^$important
-
 ! 360
 ||union.360.cn^
 ! Amap | 高德
@@ -1544,7 +1506,6 @@ ltssjy.qq.com^
 ! XiaoMi | 小米
 ||ad.mi.com^
 ||ad1.xiaomi.com^
-
 !屏蔽B站直播P2P上传
 .chat.bilibili.com
 !Amazon ADS
@@ -1666,7 +1627,6 @@ ltssjy.qq.com^
 ||ahf.bugly.qq.com^
 ||aid.video.qq.com^
 ||analytics.map.qq.com^
-||android.bugly.qq.com^
 ||api.bugly.qq.com^
 ||appicsh.qq.com^
 ||appstore.qzone.qq.com^
@@ -1838,7 +1798,6 @@ ltssjy.qq.com^
 ||v10c.events.data.microsoft.com^
 ||oca.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
-
 #谷歌翻译
 216.239.32.40 translate.google.com
 216.239.32.40 translate.googleapis.com
@@ -2007,11 +1966,9 @@ ltssjy.qq.com^
 ||tracking.miui.com^
 ||mistat.xiaomi.com^
 ||stat.xiaomi.com^
-
 #hosts
 127.0.0.1 bsync3-normal-hl.zijieapi.com
 127.0.0.1 gecko5-hl.zijieapi.com
-
 127.0.0.1 data-collector.soulapp.cn
 127.0.0.1 increase-openapi.soulapp.cn
 127.0.0.1 data-connector-server.soulapp.cn
@@ -2049,9 +2006,7 @@ ltssjy.qq.com^
 127.0.0.1 rt-m.kugou.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 flowplus.meituan.net
-127.0.0.1 appcloud.zhihu.com
 127.0.0.1 api.g.micloud.xiaomi.net
-127.0.0.1 wup.imtt.qq.com
 127.0.0.1 sdk.1rtb.net
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 icosa-service-in.allawnos.com
@@ -2064,20 +2019,15 @@ ltssjy.qq.com^
 127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 bd.a.yximgs.com
 127.0.0.1 apd-vodp2pnat.teg.tencent-cloud.net
-
-
-
 ##推送全家桶
 ||getui.com^
 ||umeng.com^
 ||umengcloud.com^
 ||gepush.com^
 ||jpush.cn^
-||jpush.cn^
 ||snssdk.com^
 ||jpush-ipv6.cn^
 ||adiu.amap.com^
-||volceapplog.com^
 ##厂商推送
 ||api-push.meizu.com^
 ||api-push.in.meizu.com^
@@ -2113,7 +2063,6 @@ ltssjy.qq.com^
 ||api.ads66.com^
 ||tradplusad.com^
 ||webcast.amemv.com^
-||tradplusad.com^
 ||api.wqycq.com^
 ##Soul
 ||aq-ad-h5-fe.c.t.soulapp-inc.cn^
@@ -2140,7 +2089,6 @@ ltssjy.qq.com^
 ||adservice.sigmob.cn^
 ||open.e.kuaishou.com^
 ||w2.gskwai.com^
-||dc.sigmob.cn^
 ||gdfp.gifshow.com^
 ||js.a.kspkg.com^
 ||h35.ynodd.cn^
@@ -2181,7 +2129,6 @@ ltssjy.qq.com^
 ||ossapi.baidu.com^
 ||tcbox.baidu.com^
 ||res.mi.baidu.com^
-||tcbox.baidu.com^
 ||hmma.baidu.com^
 ##搜狗输入法
 ||cdn.yyb.gtimg.com^
@@ -2211,7 +2158,6 @@ ltssjy.qq.com^
 ||esmapi.dangbei.net^
 ##高德地图
 ||cn.register.xmpush.xiaomi.com^
-||resolver.msg.xiaomi.net^
 ||qchannel03.cn^
 ||logs.amap.com^
 ||maps.testing.amap.com^
@@ -2237,13 +2183,6 @@ ltssjy.qq.com^
 ||wfsh.026o.cn^
 ||apk-lb-json.fodexin.com^
 ||api.liumingye.cn^
-||v2-ad.video.yximgs.com^
-||zxcfgilkjouow.xima.run^
-||ali-ad.a.yximgs.com^
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
-||wfsh.026o.cn^
-||apk-lb-json.fodexin.com^
-||api.liumingye.cn^
 ##喜马拉雅FM
 ||cdn-api-verify.mob.com^
 ||api-fc.dutils.com^
@@ -2266,18 +2205,14 @@ ltssjy.qq.com^
 ||*.qc.bsccdn.net^
 ||*.vegslb.com^
 ||log0-applog-lq.fqnovel.com^
-||whoami.akamai.net^
 ||p*-passport.byteacctimg.com^
 ||rtlog*-applog-lq.fqnovel.com^
 ||sf*-pitaya-tos.pstatp.com^
 ||mon*-misc-*.fqnovel.com^
-||webcast-open.douyin.com^
 ||api.fanqiesdk.com^
 ||praisewindow.ugsdk.cn^
 ||m.toutiao13.com^
-||developer.huawei.com^
 ||api.fqnovel.com^
-||m.toutiao13.com^
 ||zlink.ugsdk.cn^
 ||clue.oceanengine.com^
 ||vemarsdev.com^
@@ -2307,11 +2242,9 @@ ltssjy.qq.com^
 ||castatic.fengkongcloud.com^
 ||a-qmad.qm989.com^
 ||t-qmad.qimao.com^
-||open.e.kuaishou.com^
 ||static.yximgs.com^
 ||adx.maplehaze.cn^
 ||ssp.maplehaze.cn^
-||ad-test6.sm.cn^
 ||update.wtzw.com^
 ||tracelog-debug.aiclk.com^
 ||manual.sensorsdata.cn^
@@ -2354,20 +2287,16 @@ ltssjy.qq.com^
 ##小米视频
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
-||static.yximgs.com^
 ||passport.kuaishou.com^
 ||js-ad.a.yximgs.com^
-||open.e.kuaishou.com^
 ||file.market.xiaomi.com^
 ##追忆影视
 ||api.juliangcili.com^
 ##快手
 ||d16-ad.kwai.net^
 ||v16-ad.kwai.net^
-||static.yximgs.com^
 ||p4-live.a.yximgs.com^
 ||push.ksapisrv.com^
-||js.a.kspkg.com^
 ||kuaishou-mipdx.cn.miaozhen.com^
 ||ppg.viviv.com^
 ||push.gifshow.com^
@@ -2379,9 +2308,7 @@ ltssjy.qq.com^
 ||lf-wkrs.wkbrowser.com^
 ||sf3-cdn-tos.toutiaostatic.com^
 ||databyterangers.com.cn^
-||developer.toutiao.com^
 ||dycloud.volces.com^
-||lf3-static.bytednsdoc.com^
 ||lf3-developer.bytemastatic.com^
 ||activity-ag.awemeughun.com^
 ||p3.toutiaoimg.com^
@@ -2389,7 +2316,6 @@ ltssjy.qq.com^
 ||sf1-hscdn-tos.pstatp.com^
 ||tosv.boe.byted.org^
 ||sf1-amtos-cdn.bytesmanager.com^
-||lf3-static.bytednsdoc.com^
 ##盒马
 ||mini-app-packages-cdn.taobao.com^
 ||hybrid.miniapp.taobao.com^
@@ -2427,7 +2353,6 @@ ltssjy.qq.com^
 ||ida.webank.com^
 ||alstest.baidu.com^
 ##追书神器
-||adxlog-adnet.vivo.com.cn^
 ||api01pbmp.zhuishushenqi.com^
 ||api02u58f.zhuishushenqi.com^
 ||endpoint.zhuishushenqi.com^
@@ -2453,10 +2378,8 @@ ltssjy.qq.com^
 ##QQ浏览器
 ||rule.tencent.com^
 ||diffpkg.browser.qq.com^
-||us.l.qq.com^
 ||news.l.qq.com^
 ||st.tencent-cloud.com^
-||sdkreport.e.qq.com^
 ||static.res.qq.com^
 ##得物
 ||s.95fenapp.com^
@@ -2478,15 +2401,10 @@ ltssjy.qq.com^
 ||creport.start.qq.com^
 ||test.tv.video.qq.com^
 ||htest.tdm.qq.com^
-||configsvr.msf.3g.qq.com^
 ||*yst.aisee.tv^
 ||v.streaming.qq.com^
 ||apd-ugcvlive.apdcdn.tc.qq.com^
-||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
-||apd-vodp2plogin.teg.tencent-cloud.net^
-||apd-pcdnvodstat.teg.tencent-cloud.net^
-||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||vcover-vt-pic.puui.qpic.cn^
 ||putv.qpic.cn^
 ||vmat.gtimg.com^
