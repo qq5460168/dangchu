@@ -1,5 +1,4 @@
 ! Title:测试去广告规则，反馈🐧群请点击主页
-! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
 127.0.0.1 104095.bid.domob.cn
@@ -296,7 +295,6 @@
 127.0.0.1 ap.dongqiudi.com
 127.0.0.1 apac.miaozhen.com
 127.0.0.1 apd-pcdnvodstat.teg.tencent-cloud.net
-127.0.0.1 apd-vodp2pnat.teg.tencent-cloud.net
 127.0.0.1 aphone_pv_log.kltb.com.cn
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-c.dutils.com
@@ -517,7 +515,6 @@
 127.0.0.1 bc.weixin.qq.com
 127.0.0.1 bce-track-dsp.adwangmai.com
 127.0.0.1 bce.bj.ad.track.66mobi.com
-127.0.0.1 bd.a.yximgs.com
 127.0.0.1 bdloc.qchannel03.cn
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 bdsystem.miaozhen.com
@@ -548,7 +545,6 @@
 127.0.0.1 bossaudioandcomic-1252317822.image.myqcloud.com
 127.0.0.1 bottle.irs01.com
 127.0.0.1 broker.mqtt.pandora.xiaomi.com
-127.0.0.1 bsync3-normal-hl.zijieapi.com
 127.0.0.1 bsync3-normal-lq.zijieapi.com
 127.0.0.1 bsync5-normal-lf.zijieapi.com
 127.0.0.1 bsync5-normal-lq.zijieapi.com
@@ -976,7 +972,6 @@
 127.0.0.1 gecko.snssdk.com
 127.0.0.1 gecko.zijieapi.com
 127.0.0.1 gecko3-lq.zijieapi.com
-127.0.0.1 gecko5-hl.zijieapi.com
 127.0.0.1 gecko5-lq.zijieapi.com
 127.0.0.1 gecko5.zijieapi.com
 127.0.0.1 geo.adobe.com
@@ -1517,7 +1512,6 @@
 127.0.0.1 p26.douyinpic.com
 127.0.0.1 p3-ad-sign.byteimg.com
 127.0.0.1 p3-ad.adukwai.com
-127.0.0.1 p3-sign.douyinpic.com
 127.0.0.1 p3-webcast.douyinpic.com
 127.0.0.1 p3.douyinpic.com
 127.0.0.1 p4-ad.adukwai.com
@@ -1818,7 +1812,6 @@
 127.0.0.1 smtp.jiguang.cn
 127.0.0.1 snapads.com
 127.0.0.1 snippet.pos.baidu.com
-127.0.0.1 snowflake.qq.com
 127.0.0.1 snssdk.com
 127.0.0.1 snssdk.huazhu.com
 127.0.0.1 social.blued.cn
@@ -1884,7 +1877,6 @@
 127.0.0.1 sto3-accesspoint-a88.sto3.spotify.net
 127.0.0.1 sto3.spotify.com
 127.0.0.1 storage-public.zhaopin.cn
-127.0.0.1 store.is.autonavi.com
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 stream.snssdk.com
 127.0.0.1 stsdk.vivoglobal.com
@@ -1978,7 +1970,6 @@
 127.0.0.1 tongji.wrating.com
 127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 tosv.boe.byted.org
-127.0.0.1 tosv.byted.org
 127.0.0.1 toutiao.2haha.com
 127.0.0.1 tower.ubixioe.com
 127.0.0.1 tpns.tencent.com
@@ -2014,7 +2005,6 @@
 127.0.0.1 tvmanager.pandora.xiaomi.com
 127.0.0.1 tvmgr.pandora.xiaomi.com
 127.0.0.1 tw13b093.sandai.net
-127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 tyrd1.tingyun.com
 127.0.0.1 u.scdn.co
