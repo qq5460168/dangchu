@@ -256,6 +256,7 @@
 ||dns1.dimassa.net^
 ||httpdns.tantanapp.com^
 ||dotserver.douyucdn.cn^
+
 ##https://www.itdog.cn/
 www.itdog.cn##.lantern_right
 www.itdog.cn##.lantern_left
@@ -263,6 +264,7 @@ www.itdog.cn##.pointer
 www.itdog.cn##.mb-3
 www.nite07.com##.hope-c-PJLV-ikSuVsl-css
 www.itdog.cn##.rounded-lg
+
 #美团dns
 ||httpdns.meituan.com^
 #酷安
@@ -276,6 +278,7 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+
 #18+不良网站
 ||w7k.cn^$important
 ||instv1929.com^$important
@@ -457,12 +460,14 @@ www.itdog.cn##.rounded-lg
 ||www.7x8qwer.top^$important
 ||di9tms72wgbs.zpoejv.top^$important
 ||mizism07.com^$important
+
 108.177.97.100 translate.googleapis.com
 #小米下载加速
 123.6.13.6 bigota.d.miui.com
 123.6.13.6 hugeota.d.miui.com
 # 酷安去广告
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
+
  #晴雅规则
 ||tnc3-aliec2.zijieapi.com^
 ||android.bugly.qq.com^
@@ -956,10 +961,12 @@ ltssjy.qq.com^
 ||aibreeno.com^
 ||xiaobool.com^
 ||nearme.com.cn^
+
 #18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
+
 #酷友APPea 分享
 ||saveu5-normal-lq.zijieapi.com^
 ||v3-be-pack.pglstatp-toutiao.com^
@@ -1149,6 +1156,7 @@ ltssjy.qq.com^
 ||umdc.aliapp.org^
 ||sdk.beizi.biz^
 ||sdktmp.hubcloud.com.cn^
+
 ##酷安 是DD  分享
 ||volcsirius.com
 ||ads-marketing-vivofs.vivo.com.cn
@@ -1335,6 +1343,7 @@ ltssjy.qq.com^
 ||imp.ads.rgyun.com^
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
+
 #浅笑
 #日志上传和dns自查询
 ||trtc-sdk-log-
@@ -1798,6 +1807,7 @@ ltssjy.qq.com^
 ||v10c.events.data.microsoft.com^
 ||oca.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
+
 #谷歌翻译
 216.239.32.40 translate.google.com
 216.239.32.40 translate.googleapis.com
@@ -1812,6 +1822,7 @@ ltssjy.qq.com^
 74.125.137.188 alt1-mtalk.google.com
 64.233.188.188 mtalk.google.com
 142.250.10.188 alt5-mtalk.google.com
+
 #屏蔽MIUI应用检测
 127.0.0.1 log.avlyun.sec.intl.miui.com
 127.0.0.1 update.avlyun.sec.miui.com
@@ -1966,6 +1977,7 @@ ltssjy.qq.com^
 ||tracking.miui.com^
 ||mistat.xiaomi.com^
 ||stat.xiaomi.com^
+
 #hosts
 127.0.0.1 bsync3-normal-hl.zijieapi.com
 127.0.0.1 gecko5-hl.zijieapi.com
@@ -2019,6 +2031,7 @@ ltssjy.qq.com^
 127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 bd.a.yximgs.com
 127.0.0.1 apd-vodp2pnat.teg.tencent-cloud.net
+
 ##推送全家桶
 ||getui.com^
 ||umeng.com^
