@@ -1508,8 +1508,6 @@
 127.0.0.1 p2-yx.adkwai.com
 127.0.0.1 p2.adkwai.com
 127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p26-sign.douyinpic.com
-127.0.0.1 p26.douyinpic.com
 127.0.0.1 p3-ad-sign.byteimg.com
 127.0.0.1 p3-ad.adukwai.com
 127.0.0.1 p3-webcast.douyinpic.com
