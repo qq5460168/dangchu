@@ -709,7 +709,6 @@ l*.bytescm.com^
 ||ad-*file.myqcloud.com^
 ||yktd.m.cn.miaozhen.com^
 ||apimobile.meituan.com^
-||185.172.2.183.in-addr.arpa^
 ||yoda.kwd.inkuai.com^
 ||hwmov.a.yximgs.com^
 ||browserkernel.baidu.com^
@@ -1588,7 +1587,6 @@ ltssjy.qq.com^
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||toblog.volceapplog.com^
 ||access.toggle.qq.com^
-||in-addr.arpa^
 !头条
 ||access.pangolin-sdk-toutiao-b.com^
 ||adshare.toutiao.com^
