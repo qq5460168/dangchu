@@ -753,10 +753,8 @@ l*.bytescm.com^
 ||frontier100-toutiao-hl.fqnovel.com^
 ||downv6.qq.com^
 ||s8.url.cn^
-||myun.tenpay.com^
 ||dsplog.vivo.com.cn^
 ||lf9-sf-be-pack-sign.pglstatp-toutiao.com^
-||moggy-image-1251316161.file.myqcloud.com^
 ||configsvr.msf.3g.qq.com^
 ||yingxiao.baidu.com^
 ||bdyingxiaocms.cdn.bcebos.com^
