@@ -419,7 +419,6 @@
 127.0.0.1 apm.volccdn.com
 127.0.0.1 apm3.tingyun.com
 127.0.0.1 apmplus.volces.com
-127.0.0.1 app-api.smzdm.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.duxiaoman.com
 127.0.0.1 app.wiki.gg
