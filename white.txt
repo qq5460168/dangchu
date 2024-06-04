@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#西瓜视频图片
+@@||p3-sign.bdxiguaimg.com^$important
+@@||p26-sign.bdxiguaimg.com^$important
 #QQ钱包
 @@||moggy-image-1251316161.file.myqcloud.com^$important
 @@||myun.tenpay.com^$important
