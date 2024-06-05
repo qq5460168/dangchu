@@ -237,7 +237,6 @@
 ||dns.loveimgmoe.com^
 ||dropbox-dns.com^
 ||v6-data.video.dns.iqiyi.com^
-||dns.icoa.cn^
 ||httpdns.baidubce.com^
 ||tf-4.now-dns.org^
 ||dns-test.research.a10protects.com^
