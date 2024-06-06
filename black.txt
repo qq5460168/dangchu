@@ -1,4 +1,4 @@
-! Title: 去广告规则，反馈🐧群请点击主页
+﻿! Title: 去广告规则，反馈🐧群请点击主页
 ! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 ##部分规则来自DD大佬
 ##个人拦截规则
@@ -164,7 +164,6 @@
 ||maplocatesdksnapshot.d.meituan.net^
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
-! 91porn广告
 ||fans.91selfie.com^
 
 #Block Ads
@@ -461,9 +460,6 @@ www.itdog.cn##.rounded-lg
 ||mizism07.com^$important
 
 108.177.97.100 translate.googleapis.com
-#小米下载加速
-123.6.13.6 bigota.d.miui.com
-123.6.13.6 hugeota.d.miui.com
 # 酷安去广告
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
 
@@ -786,7 +782,7 @@ l*.bytescm.com^
 ||183.61.169.142^
 ||113.240.86.171^
 ||113.219.183.77^
-ltssjy.qq.com^
+||ltssjy.qq.com^
 ||61.170.72.15^
 ||v2.oskwai.com^
 ||apijsv6.ksapisrv.com^
