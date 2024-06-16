@@ -572,7 +572,6 @@ consumerapp*.image.myqcloud.com^
 ||api.iegadp.qq.com^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||msg.qy.net^
-||metrics1-drcn.dt.dbankcloud.cn^
 ||tnc*-bjlgy.zijieapi.com^
 ||ulogs.umengcloud.com^
 ||vch.video.qq.com^
