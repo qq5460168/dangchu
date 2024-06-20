@@ -1059,7 +1059,7 @@ l*.bytescm.com^
 ||app.thestaxapp.com^
 ||acquirethem.com^
 ||app.rm
-||pglstatp-toutiao.com^ ​‌​‍‍‍‍‌‍‌​​​‌‍||p3-sign.douyinpic.com^
+||pglstatp-toutiao.com^ ​‌​‍‍‍‍‌‍‌​​​‌‍
 ||webcast5-open-lq.douyin.com^
 ||lf3-webcastcdn-tos-sign.douyinstatic.com^
 ||pull-flv-f13.douyincdn.com^
@@ -2016,7 +2016,6 @@ l*.bytescm.com^
 127.0.0.1 sidebar-apps-cn.allawntech.com
 127.0.0.1 snowflake.qq.com
 127.0.0.1 store.is.autonavi.com
-127.0.0.1 p3-sign.douyinpic.com
 127.0.0.1 tosv.byted.org
 127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 bd.a.yximgs.com
