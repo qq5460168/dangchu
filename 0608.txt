@@ -1,4 +1,4 @@
-! Title:测试去广告规则，反馈🐧群请点击主页
+﻿! Title:测试去广告规则，反馈🐧群请点击主页
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
 127.0.0.1 104095.bid.domob.cn
@@ -718,7 +718,6 @@
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 configure.rayjump.com
-127.0.0.1 connect-drcn.hispace.hicloud.com
 127.0.0.1 console.dm.mob.com
 127.0.0.1 contenttracking.cn.miaozhen.com
 127.0.0.1 coocaa-mipdx.cn.miaozhen.com
