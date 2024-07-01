@@ -1,3 +1,8 @@
+[d3ward ]
+! Title: 去广告规则，酷安反馈反馈
+! Homepage: https://github.com/qq5460168/666
+#d3ward   测试网站规则 
+
 #Amazon
 ||adtago.s3.amazonaws.com^$important
 ||analyticsengine.s3.amazonaws.com^$important
