@@ -1,4 +1,5 @@
-﻿! Title: 去广告规则，酷安反馈反馈
+﻿[个人收集 2.0]
+! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
