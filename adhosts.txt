@@ -3440,16 +3440,9 @@
 127.0.0.1 p2-lm.adukwai.com
 127.0.0.1 p2.a.yximgs.com
 127.0.0.1 p2.l.qq.com
-127.0.0.1 p26-sign.douyinpic.com
-127.0.0.1 p26.douyinpic.com
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p3-sign.douyinpic.com
-127.0.0.1 p3-webcast.douyinpic.com
 127.0.0.1 p3.adkwai.com
-127.0.0.1 p3.douyinpic.com
 127.0.0.1 p3.l.qq.com
-127.0.0.1 p6-webcast.douyinpic.com
-127.0.0.1 p9-webcast.douyinpic.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead46.l.doubleclick.net
