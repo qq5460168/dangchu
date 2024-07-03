@@ -3156,7 +3156,6 @@
 127.0.0.1 imprhkmp.taboola.com
 127.0.0.1 imprlatbmp.taboola.com
 127.0.0.1 imprnjmp.taboola.com
-127.0.0.1 increase-openapi.soulapp.cn
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inner.baihemob.com
 127.0.0.1 install.kugou.com
