@@ -2848,7 +2848,6 @@
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 config.unityads.unitychina.cn
 127.0.0.1 configv2.unityads.unity3d.com
-127.0.0.1 connect-drcn.hispace.hicloud.com
 127.0.0.1 count.mail.163.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 cpro.baidu.com
