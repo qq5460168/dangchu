@@ -39,6 +39,15 @@ https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ad
 xlxbj_dns
 https://www.xlxbk.cn/dns.txt
 
+晴雅HOST规则
+http://rssv.cn/adguard/api.php?type=host
+
+晴雅DNS过滤器
+http://rssv.cn/adguard/api.php?type=dns
+
+酷安 那个谁520
+https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt
+
 群主合并规则
 https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/666/master/rules.txt
 
