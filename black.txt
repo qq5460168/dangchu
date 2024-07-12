@@ -168,7 +168,6 @@
 #贴吧弹窗
 ||arm.z74d.cn^$important
 
-
 #Block Ads
 ||alogus.umeng.com^
 ||alogs.umengcloud.com^
@@ -485,7 +484,6 @@ www.itdog.cn##.rounded-lg
 ||*ad_logo_str*^
 ||*mobads*^
 ||otheve.beacon.qq.com^
-# [我是晴雅你记住^-^]
 ||afd.baidu.com^
 ||qappcenterv6.3g.qq.com^
 ||myun.tenpay.com^
@@ -495,10 +493,6 @@ www.itdog.cn##.rounded-lg
 ||h.trace.qq.com^
 ||livep.l.qq.com^
 ltssjy.qq.com^
-! Title: 晴雅DNS过滤器
-! Description: qingya dns
-! Version: 1.0.0.43
-! Expires: 3 hours (update frequency)
 ||aegis.qq.com^
 ||185.172.2.183.in-addr.arpa^
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
@@ -709,7 +703,6 @@ consumerapp*.image.myqcloud.com^
 ||m-cloud.zhihu.com^
 ||*load_new_ad=*^
 ||*commercial_api/real_time*^
-||www.zhihu.com/api/v4/answers/*/recommendations?omni=*&load_new_ad=*&page_index=*^
 # [七猫]
 ||*ad-pattern*^
 ||*ad_unit_id*^
