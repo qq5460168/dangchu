@@ -165,6 +165,9 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
+#贴吧弹窗
+||arm.z74d.cn^$important
+
 
 #Block Ads
 ||alogus.umeng.com^
@@ -464,6 +467,89 @@ www.itdog.cn##.rounded-lg
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
 
  #晴雅规则
+||qqdata.ab.qq.com^
+||haokan.baidu.com^
+||wxa.wxs.qq.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+# [正则百度]
+||*adsdk_splash*^
+||*adsdk_roll*^
+||*MobadsSdk*^
+||*/ads/index.htm*^
+||*mobads://*^
+||*bqt_logo_tag*^
+||*bd_sp_logo*^
+||*baidu_logo_time*^
+||*ad_logo_time*^
+||*baidu_logo_str*^
+||*ad_logo_str*^
+||*mobads*^
+||otheve.beacon.qq.com^
+# [我是晴雅你记住^-^]
+||afd.baidu.com^
+||qappcenterv6.3g.qq.com^
+||myun.tenpay.com^
+||ws-keyboard.shouji.sogou.com^
+||review.gdtimg.com^
+||moggy-image-1251316161.file.myqcloud.com^
+||h.trace.qq.com^
+||livep.l.qq.com^
+ltssjy.qq.com^
+! Title: 晴雅DNS过滤器
+! Description: qingya dns
+! Version: 1.0.0.43
+! Expires: 3 hours (update frequency)
+||aegis.qq.com^
+||185.172.2.183.in-addr.arpa^
+||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
+||pagead2.googlesyndication.com^
+||m-adnet.dutils.com^
+||m-adnet.hiaiabc.com^
+||api.share.mob.com^
+||new-api.meiqia.com^
+||aa.birdgesdk.com^
+||adx-bj.anythinktech.com^
+||api-p4.yksdks.com^
+||wn.pos.baidu.com^
+||prewxacode.wxqcloud.qq.com.cn^
+||api-p*.mobsurl.com^
+||usr-api.aiclk.com^
+||api-p*.yksdks.com^
+||sdk.push.mob.com^
+||compus.xiaofubao.com/compus/advertising/getStartupAdvertising^
+||api-share.mob.com^
+||mi.gdt.qq.com^
+||api-p1.yksdks.com^
+||sdk.1rtb.net^
+||s.1rtb.net^
+||api.qttunion.com^
+||upload-z0.qiniup.com^
+||2vjtskggs3agibm0o7cc9d28ubvk0cmgd9j87nv7uchurn61a50vvtef.weilayun.com^
+||v26-novelapp.fqnovelvod.com^$app=com.dragon.read
+||p3-ad-sign.byteimg.com/web.business.image^
+||api3-normal-lf.fqnovel.com^
+||api3-normal-hl.fqnovel.com^
+||api5-normal-lf.fqnovel.com^
+||api5-normal-lq.fqnovel.com^
+||ads3-normal-hl.zijieapi.com^
+||ads5-normal-hl.zijieapi.com^
+||polaris3-normal-lf.zijieapi.com^
+||polaris3-normal-hl.zijieapi.com^
+||log-alibaba-taobao-douyin.cdn.bcebos.com^
+||huichuan-mc.sm.cn^
+||tx.a.kspkg.com^
+||sdk.taobao.com.ailbaba.me^
+||dd-static.jd.com^
+||aadservice.sigmob.cn^
+||images.pinduoduo.com^
+||n.sigmob.cn^
+||p1-ad.adukwai.com^
+||p2-ad.adukwai.com^
+||p3-ad.adukwai.com^
+||p4-ad.adukwai.com^
+||p5-ad.adukwai.com^
+||p6-ad.adukwai.com^
+||tracktp.sigmob.cn^
 ||tnc3-aliec2.zijieapi.com^
 ||android.bugly.qq.com^
 ||cfg.imtt.qq.com^
