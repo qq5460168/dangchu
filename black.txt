@@ -1941,7 +1941,6 @@ l*.bytescm.com^
 ||ad-r-t.soulapp-inc.cn^
 ||ad-reward.soulapp.cn^
 ||ad-ssp-engine-qa-ct.soulapp-inc.cn^
-||activity.soulapp.cn^
 ||qa-ad-admin.soulapp-inc.cn^
 ||qa-ad-audit-webapp.soulapp-inc.cn^
 ||qa-ad-gateway-ct.soulapp-inc.cn^
