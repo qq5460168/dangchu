@@ -1351,7 +1351,6 @@
 127.0.0.1 minigame5-normal-lq.zijieapi.com
 127.0.0.1 minigame5-normal.zijieapi.com
 127.0.0.1 minisite2012.qq.com
-127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 mixreach.cn.miaozhen.com
 127.0.0.1 mjp-analytics.ximad.com
 127.0.0.1 mlinks.jiguang.cn
