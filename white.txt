@@ -287,7 +287,6 @@ similarweb.com^
 @@||pubmsg.meituan.com^
 ! > 饿了么
 @@||ipassport.ele.me^
-! > 中国电信
 ! 天翼账号本机号码免注册一键登录
 @@||id6.me^
 ! > 建设银行
@@ -332,7 +331,6 @@ similarweb.com^
 @@||fp.tongdun.net^
 @@||fraudmetrix.cn^
 
-
 # 小米社区
 @@||web.vip.miui.com^$important
 # twitter
@@ -366,7 +364,6 @@ similarweb.com^
 ## 小米云服务备份
 @@||a0.app.xiaomi.com^$important
 
-@@||flyme.cn^$important
 @@||flydigi.com^
 @@||pv.sohu.com^$important
 @@||000714.xyz^
@@ -706,8 +703,6 @@ similarweb.com^
 @@||v6-nimg.ws.126.net^
 @@||gdfp.gifshow.com^$important
 @@||kwimgs.com^$important
-#腾讯视频图片
-#快手
 #抖音直播
 @@||douyincdn.com^$important
 #同程旅行
@@ -716,7 +711,6 @@ similarweb.com^
 ##浅笑分享
 #番茄小说短信登陆
 @@||tnc3-aliec2.snssdk.com^$important
-#qq群公告小程序
 #阿里图片
 @@||img.alicdn.com^$important
 #爱奇艺
@@ -795,7 +789,6 @@ b站视频加载
 @@||downpack.baidu.com^$important
 @@||gdown.baidu.com^$important
 @@||pkg.sinaimg.cn^$important
-#小米搜狗输入法翻译功能
 #QQ小程序
 @@||public.gdtimg.com^$important
 #  糯米PHP 网站
@@ -940,8 +933,6 @@ b站视频加载
 @@||fga0.market.xiaomi.com^$important
 @@||t3.market.mi-img.com^$important
 @@||sec.resource.xiaomi.net^$important
-@@t1.market.xiaomi.com
-@@verify.sec.xiaomi.com
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 #主题商店
@@ -949,8 +940,6 @@ b站视频加载
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
 !阿里系
-@@s.click.taobao.com
-@@s.click.tmall.com
 @@||uczzd.cn^$important
 @@||cl2.webterren.com^$important
 @@||alissl.ucdl.pp.uc.cn^$important
@@ -976,9 +965,6 @@ b站视频加载
 @@||c.y.qq.com^$important
 @@||cdn.ark.qq.com^$important
 @@||dldir1.qq.com^$important
-@@||dns.weixin.qq.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 @@||cfg.imtt.qq.com^$important
 @@||cmshow.qq.com^$important
 @@||dd.myapp.com^$important
@@ -991,7 +977,6 @@ b站视频加载
 @@||pingtas.qq.com^$important
 @@||pingtcss.qq.com^$important
 @@||pp.myapp.com^$important
-@@||weixin.qq.com^$important
 @@||vdun.weibo.com^$important
 @@||soft.tbs.imtt.qq.com^$important
 @@||stat.y.qq.com^$important
@@ -1033,8 +1018,6 @@ b站视频加载
 @@||adsmind.gdtimg.com^$important
 @@||v.gdt.qq.com^$important
 !网易系
-@@||126.net^$important
-@@||163.com^$important
 @@||passport.youdao.com^$important
 @@||mam.netease.com^$important
 !百度系
@@ -1050,16 +1033,10 @@ b站视频加载
 !新浪
 @@||free.sinaimg.cn^$important
 @@||simg.sinajs.cn^$important
-@@||sina.cn^$important
 @@||u1.img.mobile.sina.cn^$important
 @@||wbapp.mobile.sina.cn^$important
 @@||*.img.mobile.sina.cn^$important
-@@||weibo.cn^$important
 @@||wx2.sinaimg.cn^$important
-!头条系
-@@||snssdk.com^$important
-@@||toutiaocdn.com^$important
-@@||pstatp.com^$important
 !一点资讯
 @@||oppo.yidianzixun.com^$important
 @@||ib11.go2yd.com^$important
@@ -1078,7 +1055,6 @@ b站视频加载
 @@||bing.com^$important
 @@||instagram.com^$important
 @@||*.twimg.com^$important
-@@||reddit
 @@||*.cdninstagram.com^$important
 @@||www.recaptcha.net^$important
 @@||spotifycdn.net^$important
@@ -1128,7 +1104,6 @@ b站视频加载
 @@||counter-strike.net^$important
 @@||www.chemdraw.com.cn^$important
 @@||pool.v6.bt.n0808.com
-@@||upload.cc
 @@||parked-content.godaddy.com^$important
 @@||ydstatic.com^$important
 @@||iteye.com^$important
