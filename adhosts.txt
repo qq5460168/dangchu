@@ -4077,7 +4077,6 @@
 127.0.0.1 cnbj1.fds.api.xiaomi.co
 127.0.0.1 cnlogs.umeng.com
 127.0.0.1 cnlogs.umengcloud.com
-127.0.0.1 connect-drcn.hispace.hicloud.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 dd.toponad.com
 127.0.0.1 dev.dc.letv.com
