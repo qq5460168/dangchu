@@ -760,7 +760,6 @@ consumerapp*.image.myqcloud.com^
 ||lhp.map.qq.com^
 # [小说]
 ||useronline-*.image.myqcloud.com^
-||p11.douyinpic.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||p6-webcast-sign.douyinpic.com^
 ||p9-novel-sign.byteimg.com^
