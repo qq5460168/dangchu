@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#花瓣测速
+@@||connect-drcn.hispace.hicloud.com^$important
 #抖音聊天图片
 @@||p11-sign.douyinpic.com^$important
 #soul签到
