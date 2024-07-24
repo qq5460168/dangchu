@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#抖音聊天图片
+@@||p11-sign.douyinpic.com^$important
 #soul签到
 @@||increase-openapi.soulapp.cn^$important
 #脚本之家
