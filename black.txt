@@ -280,6 +280,13 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 
 #18+不良网站
+||sqkt38.cc^$important
+||www.inb967.com^$important
+||maomixiaoshuo.com^$important
+||novel.2634273f48e9.com^$important
+||ss3117.kccai.cn^$important
+||ks6fq.cc^$important
+||qyw5q.cc^$important
 ||w7k.cn^$important
 ||instv1929.com^$important
 ||btggafie.a.mgqhau.top^$important
