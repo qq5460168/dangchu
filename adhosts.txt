@@ -1129,10 +1129,6 @@
 127.0.0.1 insight.soulapp.cn
 127.0.0.1 insight.ucweb.com
 127.0.0.1 insights.samsung.com
-127.0.0.1 interface.music.163.com
-127.0.0.1 interface.music.163.com.163jiasu.com
-127.0.0.1 interface3.music.163.com
-127.0.0.1 interface3.music.163.com.163jiasu.com
 127.0.0.1 internal-amis-res.cdn.bcebos.com
 127.0.0.1 intl.mtp.umeng.com
 127.0.0.1 iop.getui.com
