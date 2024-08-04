@@ -4445,3 +4445,7 @@
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir1.qq.com
 127.0.0.1 dl_dir.qq.com
+
+108.177.97.100 translate.googleapis.com
+
+
