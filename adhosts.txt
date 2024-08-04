@@ -2533,7 +2533,6 @@
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 alissl.ucdl.pp.uc.cn
-140.82.113.26 alive.github.com
 127.0.0.1 allnews.uodoo.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 alog.umengcloud.com
@@ -2583,7 +2582,6 @@
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.fc.mob.com
 127.0.0.1 api.fd.mob.com
-20.27.177.116 api.github.com
 127.0.0.1 api.inmobi.cn
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 api.kwaizt.com
@@ -2804,7 +2802,7 @@
 127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 click.wrating.com
 127.0.0.1 click2.hd.sohu.com
-185.199.110.133 cloud.githubusercontent.com
+140.82.112.22 cloud.githubusercontent.com
 127.0.0.1 cloud.xdrig.com
 127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 cm.adkmob.com
@@ -2828,7 +2826,6 @@
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 cnvpn.inmobi.cn
 127.0.0.1 cnzz.mmstat.com
-140.82.113.21 collector.github.com
 127.0.0.1 comet.yahoo.com
 127.0.0.1 commdata.v.qq.com
 23.202.35.105 community.akamai.steamstatic.com
@@ -3209,7 +3206,6 @@
 127.0.0.1 lf1-cdn-tos.bytegoofy.com
 127.0.0.1 lf3-data.volccdn.com
 127.0.0.1 life.html5.qq.com
-140.82.112.25 live.github.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 livem.l.qq.com
 127.0.0.1 livep.l.ott.video.qq.com
@@ -3377,7 +3373,6 @@
 127.0.0.1 nym1-ib.adnxs.com
 127.0.0.1 o.if.qidian.com
 127.0.0.1 o2o.api.xiaomi.com
-185.199.110.133 objects.githubusercontent.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 oca.telemetry.microsoft.com
 127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
@@ -3536,8 +3531,6 @@
 127.0.0.1 ra.gtimg.com
 127.0.0.1 rad.live.com
 127.0.0.1 rad.microsoft.com
-185.199.110.133 raw.github.com
-185.199.110.133 raw.githubusercontent.com
 127.0.0.1 rcgi.video.qq.com
 127.0.0.1 rcv.aiclk.com
 127.0.0.1 rd.da.netease.com
@@ -3903,7 +3896,6 @@
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 us.l.qq.com
-185.199.110.133 user-images.githubusercontent.com
 127.0.0.1 ush.adspecs.yahoo.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 utp-dmp.ucweb.com
