@@ -3036,13 +3036,6 @@
 127.0.0.1 ggc.cmvideo.cn
 127.0.0.1 gi.gepush.com
 127.0.0.1 gi.getui.net
-20.205.243.166 gist.github.com
-140.82.116.3 github.com
-140.82.112.18 github.community
-20.43.185.14 github.dev
-185.199.110.154 github.githubassets.com
-185.199.110.133 github.io
-185.199.110.153 githubstatus.com
 127.0.0.1 gjapplog.uc.cn
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.msads.net
