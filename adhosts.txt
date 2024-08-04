@@ -4169,7 +4169,6 @@
 127.0.0.1 znsv.baidu.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
-#屏蔽MIUI应用检测
 #MIUI浏览器网址拦截
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 httpdns.browser.miui.com
