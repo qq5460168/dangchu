@@ -2,7 +2,6 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 
-
 127.0.0.1 1.oadz.com
 127.0.0.1 104094.bid.domob.cn
 127.0.0.1 104095.bid.domob.cn
@@ -4298,3 +4297,9 @@
 127.0.0.1 icosa-service-in.allawnos.com
 127.0.0.1 allawntech.com
 127.0.0.1 sidebar-apps-cn.allawntech.com
+#屏蔽微信后台自动下载
+127.0.0.1 szextshort.weixin.qq.com
+127.0.0.1 szminorshort.weixin.qq.com
+127.0.0.1 dldir2.qq.com
+127.0.0.1 dldir1.qq.com
+127.0.0.1 dl_dir.qq.com
