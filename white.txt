@@ -971,7 +971,6 @@ b站视频加载
 @@||btrace.qq.com^$important
 @@||c.y.qq.com^$important
 @@||cdn.ark.qq.com^$important
-@@||dldir1.qq.com^$important
 @@||cfg.imtt.qq.com^$important
 @@||cmshow.qq.com^$important
 @@||dd.myapp.com^$important
