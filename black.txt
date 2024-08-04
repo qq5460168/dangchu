@@ -166,6 +166,14 @@
 ||fans.91selfie.com^
 #贴吧弹窗
 ||arm.z74d.cn^$important
+||mine.z74d.com^$important
+||twqwq.z74d.com^$important
+||syrs.z74d.com^$important
+||nztl.z74d.com^$important
+||sbkh5.z74d.com^$important
+||arm.z74d.com^$important
+||www.z74d.com^$important
+||q.z74d.com^$important
 
 #Block Ads
 ||alogus.umeng.com^
