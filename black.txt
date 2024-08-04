@@ -497,7 +497,7 @@ www.itdog.cn##.rounded-lg
 ||c13.xn--gor54rzzhjt7b.xn--fiqs8s^$important
 ||ts1703360599.xn--gor54rzzhjt7b.xn--fiqs8s^$important
 ||ecp1z.sgbh6.com^$important
-||d3fulrozqmnmsg.cloudfront.net^$client='192.168.3.123'
+||d3fulrozqmnmsg.cloudfront.net^
 ||panwcffdb.gg13xx.live^$important
 ||mt307.xyz^$important
 ||js2.xn--1ct366iukbz0j.cc^$important
@@ -511,10 +511,6 @@ www.itdog.cn##.rounded-lg
 ||www.7x8qwer.top^$important
 ||di9tms72wgbs.zpoejv.top^$important
 ||mizism07.com^$important
-
-108.177.97.100 translate.googleapis.com
-# 酷安去广告
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
 
  #晴雅规则
 ||qqdata.ab.qq.com^
