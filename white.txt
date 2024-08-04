@@ -1,4 +1,5 @@
-﻿! Homepage: https://github.com/qq5460168/me
+﻿﻿! Title: 广告白名单规则，反馈🐧群
+! Homepage: https://github.com/qq5460168/me
 ## 放行
 
 #今日诗词
