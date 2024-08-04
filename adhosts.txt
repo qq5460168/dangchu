@@ -3331,7 +3331,6 @@
 127.0.0.1 mssdk.zijieapi.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 mta.qq.com
-64.233.188.188 mtalk.google.com
 127.0.0.1 mtj.baidu.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
