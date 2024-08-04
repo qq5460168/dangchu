@@ -1134,7 +1134,6 @@ b站视频加载
 @@||t5.a.market.xiaomi.com^$important
 @@||mb.yidianzixun.com^$important
 @@||githubusercontent.com^$important
-@@||github.com^$important
 @@||activity.tuiapple.com^$important
 @@||m.manhuabei.com^$important
 @@||www.manhuabei.com^$important
