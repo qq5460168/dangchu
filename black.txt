@@ -865,8 +865,6 @@ ltssjy.qq.com^
 ||*getappmsgad*^
 # [友盟]
 ||*umeng.com^
-# [360]
-# [字节跳动]
 # [vivo]
 ||adxlog-adnet.vivo.com.cn^
 # [未分类]
@@ -902,7 +900,6 @@ ltssjy.qq.com^
 ||*baidu_logo_str*^
 ||*ad_logo_str*^
 ||*mobads*^
-# [抖音]
 # [酷狗音乐]
 ||ads*kugou.com^
 ||fxservice1.kugou.com^
@@ -1093,10 +1090,12 @@ ltssjy.qq.com^
 ||aibreeno.com^
 ||xiaobool.com^
 ||nearme.com.cn^
+
 #18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
+
 #酷友APPea 分享
 ||saveu5-normal-lq.zijieapi.com^
 ||p3-webcast.douyinpic.com^
@@ -1873,13 +1872,7 @@ ltssjy.qq.com^
 ||v10c.events.data.microsoft.com^
 ||oca.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
-#谷歌翻译
-216.239.32.40 translate.google.com
-216.239.32.40 translate.googleapis.com
-216.239.32.40 translate-pa.googleapis.com
-216.239.32.40 clients1.google.com
-216.239.32.40 android.googleapis.com
-216.239.32.40 notifications-pa.googleapis.com
+#小米
 ||tjqonline.cn^
 ||ad.xiaomi.com^
 ||ad.intl.xiaomi.com^
