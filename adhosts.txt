@@ -4294,4 +4294,11 @@
 #屏蔽微信后台自动下载
 127.0.0.1 szextshort.weixin.qq.com
 127.0.0.1 szminorshort.weixin.qq.com
+#谷歌翻译
+216.239.32.40 translate.google.com
+216.239.32.40 translate.googleapis.com
+216.239.32.40 translate-pa.googleapis.com
+216.239.32.40 clients1.google.com
+216.239.32.40 android.googleapis.com
+216.239.32.40 notifications-pa.googleapis.com
 108.177.97.100 translate.googleapis.com
