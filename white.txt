@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+
+#快手评论图片
+@@||ali2.a.yximgs.com^$important
 #百度经验图片
 @@||f12.baidu.com^$important
 @@||f11.baidu.com^$important
