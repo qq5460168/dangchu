@@ -1321,7 +1321,6 @@ ltssjy.qq.com^
 ||ads.bjlxin.cn^
 ||sis.jpush.io^
 ||ad.e.kuaishou.com^
-||ali2.a.yximgs.com^
 ||open-set-api.shenshiads.com^
 ||adsdkapi.dxys.pro^
 ||adsdk.9imobi.com^
