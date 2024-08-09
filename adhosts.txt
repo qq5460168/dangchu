@@ -836,7 +836,6 @@
 127.0.0.1 cncapi.getui.com
 127.0.0.1 cncrestapi.getui.com
 127.0.0.1 cntv.wrating.com
-127.0.0.1 code.bdstatic.com
 127.0.0.1 code.sms.mob.com
 127.0.0.1 collect.bz.mgtv.com
 127.0.0.1 collect.cn.miaozhen.com
