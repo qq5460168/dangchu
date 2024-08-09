@@ -5,7 +5,7 @@
 
 #快手评论图片
 @@||ali2.a.yximgs.com^$important
-#百度经验图片
+#百家号图片
 @@||f12.baidu.com^$important
 @@||f11.baidu.com^$important
 @@||f10.baidu.com^$important
