@@ -398,7 +398,6 @@
 127.0.0.1 aim.yoyi.com.cn
 127.0.0.1 aip.aiclk.com
 127.0.0.1 ali.irs01.com
-127.0.0.1 ali2.a.yximgs.com
 127.0.0.1 aligtr026.mmstat.com
 127.0.0.1 aligtr072.mmstat.com
 127.0.0.1 alog-default.umeng.com
