@@ -83,7 +83,6 @@
 127.0.0.1 gatewayretry.kugou.com
 127.0.0.1 gcdsdk.appsflyer.com
 127.0.0.1 gcdsdk.appsflyersdk.com
-140.82.112.4 github.com
 127.0.0.1 go.appsflyer.com
 127.0.0.1 googleadapis.google.com
 127.0.0.1 h5.youzan.com
