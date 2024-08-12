@@ -2016,7 +2016,6 @@ ltssjy.qq.com^
 ||grpc.biliapi.net^
 ||api-e189.21cn.com^
 ||impression.biligame.com^
-||biligame.com^
 ||jzts.cmpassport.com^
 ||miniapp.bilibili.com^
 ||ug-data.mihoyo.com^
