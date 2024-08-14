@@ -2,6 +2,19 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 
+127.0.0.1 api.app.skysrt.com
+127.0.0.1 api.upgrade.skysrt.com
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 update01.skyworth-cloud.com.wswebpic.com
+127.0.0.1 log.skysrt.com
+127.0.0.1 apk.sky.fs.skysrt.com
+127.0.0.1 api.device.skysrt.com
+127.0.0.1 push.skysrt.com
+127.0.0.1 irs01.com
+127.0.0.1 api.upgrade.skysrt.com  
+127.0.0.1 pfg.coocaa.wasu.tv
+127.0.0.1 data-hoisin.coocaa.wasu.tv
+127.0.0.1 api-upgrade.coocaa.wasu.tv
 127.0.0.1 2016.appsflyer.com
 127.0.0.1 ad-clientlog.cn-shanghai.log.aliyuncs.com
 127.0.0.1 ad-dsp-1251779293.file.myqcloud.com
@@ -3120,7 +3133,6 @@
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 comet.yahoo.com
 127.0.0.1 commdata.v.qq.com
-
 127.0.0.1 conf.xdrig.com
 127.0.0.1 config-junion.jpush.cn
 127.0.0.1 config-ltvp.inmobi.com
@@ -3446,7 +3458,6 @@
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 ir.mail.163.com
 127.0.0.1 irpmt.mail.163.com
-127.0.0.1 irs01.com
 127.0.0.1 is.snssdk.com
 127.0.0.1 isdspeed.qq.com
 127.0.0.1 issuecdn.baidupcs.com
