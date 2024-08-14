@@ -727,7 +727,6 @@ ltssjy.qq.com^
 ||w1.kskwai.com^
 ||p1-lm.adkwai.com^
 ||sdk.taobao.com.ailbaba.me^
-||dd-static.jd.com^
 ||aadservice.sigmob.cn^
 ||pgdt.ugdtimg.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
