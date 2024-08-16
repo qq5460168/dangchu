@@ -3213,9 +3213,6 @@
 127.0.0.1 dl.client.baidu.com
 127.0.0.1 dl.g.youku.com
 127.0.0.1 dl.hdslb.com
-127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dldir1.qq.com
-127.0.0.1 dldir4.qq.com
 127.0.0.1 dload.qd.qingting.fm
 127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 dm-hl.toutiao.com
