@@ -1979,7 +1979,6 @@ ltssjy.qq.com^
 ##搜狗输入法
 ||cdn.yyb.gtimg.com^
 ||ime-store-cdn.gtimg.com^
-||skininfo-1258344701.file.myqcloud.com^
 ||indivi-cdn-v6.shouji.sogou.com^
 ||cms.myapp.com^
 ||indivdict.gtimg.com^
