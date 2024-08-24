@@ -1125,7 +1125,6 @@ www.itdog.cn##.rounded-lg
 ||bs-adaptive.pull.yximgs.com^
 ||ex.qq.com^
 ||api.kuaishouzt.com^
-||apimobile.meituan.com^
 ||zt-sup.kwd.inkuai.com^
 ||p3.adkwai.com^
 ||gdfp.ksapisrv.com^
