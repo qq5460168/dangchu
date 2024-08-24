@@ -2155,7 +2155,6 @@
 127.0.0.1 state.jpush.cn
 127.0.0.1 static-res.qq.com
 127.0.0.1 static-s.iqiyi.com
-127.0.0.1 static.122.gov.cn
 127.0.0.1 static.66mobi.com
 127.0.0.1 static.mob.com
 127.0.0.1 static.pay.baidu.com
