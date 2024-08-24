@@ -1247,7 +1247,6 @@ www.itdog.cn##.rounded-lg
 ||2409:8c20:8ab1:203:1::5^
 ||ad.12306.cn^
 ||sf*-amtos-cdn.bytesmanager.com^
-||*.360buyimg.com^
 ||bootrealtime.uve.weibo.com^
 ||duzhanread.cdn.bcebos.com^
 ||mbd.baidu.com/searchbox*action=feed&cmd=308*^
