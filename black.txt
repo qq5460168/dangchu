@@ -1151,11 +1151,7 @@ www.itdog.cn##.rounded-lg
 ||info.zb.qq.com^
 ||bk.info.zb.qq.com^
 ||astrategy.beacon.qq.com^
-||photovideo.photo.qq.com^
 ||rmonitor.qq.com^
-||photonj.photo.store.qq.com^
-||phototj.photo.store.qq.com^
-||photogz.photo.store.qq.com^
 ||down.paperyy.com^
 ||stats.g.doubleclick.net^
 ||hm.baidu.com^
