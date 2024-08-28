@@ -172,7 +172,6 @@
 127.0.0.1 wa.appsflyer.com
 127.0.0.1 wbapp.uve.weibo.com
 127.0.0.1 websdk.appsflyer.com
-127.0.0.1 world.qpic.cn
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 www.appsflyer.com
 72.247.96.248 www.pinterest.com
