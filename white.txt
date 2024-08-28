@@ -3,6 +3,8 @@
 ## 放行
 
 
+#QQ小世界图片
+@@||world.qpic.cn^$important
 #快手评论图片
 @@||ali2.a.yximgs.com^$important
 #百家号图片
