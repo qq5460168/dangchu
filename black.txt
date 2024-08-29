@@ -1545,7 +1545,6 @@ ltssjy.qq.com^
 ||api-gw.wtzw.com^
 ||pangolin-sdk-toutiao1.com^
 ||fapi.xdrun.com^
-||audio-cdn.shuqireader.com^
 ||thirdwx.qlogo.cn^
 ||oss-asq-download.11222.cn^
 ||log.umsns.com^
