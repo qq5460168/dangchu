@@ -3,6 +3,8 @@
 ## 放行
 
 
+#书旗听书
+@@||audio-cdn.shuqireader.com^$important
 #QQ小世界图片
 @@||world.qpic.cn^$important
 #快手评论图片
