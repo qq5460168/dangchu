@@ -498,7 +498,6 @@ www.itdog.cn##.rounded-lg
  #晴雅规则
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
-||disp-qryapi.3g.qq.com^
 ||masdkv6.3g.qq.com^
 ||lcsdk.3g.qq.com^
 ||masdk.3g.qq.com^
