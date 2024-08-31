@@ -2561,3 +2561,4 @@ ltssjy.qq.com^
 #安逸花
 ||vayh.msxf.com^$important
 ||anyihua.msxf.com^$important
+||msxf.com^$important
