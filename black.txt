@@ -2558,3 +2558,5 @@ ltssjy.qq.com^
 ||ads*.api.leiniao.com^
 ##7723游戏盒
 ||adsense.7723.com^
+#安逸花
+||vayh.msxf.com^$important
