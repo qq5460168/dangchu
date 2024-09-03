@@ -2,15 +2,12 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
-<<<<<<< Updated upstream
 #极光推送
 @@||tsis.jpush.cn^$important
 #科利达WiFi
 @@||portal.ik.weiyunjian.com^$important
-=======
 #米游社
 @@||upload-bbs.miyoushe.com^$important
->>>>>>> Stashed changes
 #腾讯视频
 @@||disp-qryapi.3g.qq.com^$important
 #书旗听书
