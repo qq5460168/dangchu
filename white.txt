@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#科利达WiFi
+@@||portal.ik.weiyunjian.com^$important
 #腾讯视频
 @@||disp-qryapi.3g.qq.com^$important
 #书旗听书
