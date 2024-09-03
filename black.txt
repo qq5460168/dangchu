@@ -1305,7 +1305,6 @@ www.itdog.cn##.rounded-lg
 ||wn.pos.baidu.com^
 ||*-*.ad*kwai.com^
 ||p11-sign.douyinpic.com^
-||upload-bbs.miyoushe.com^
 ||webcast.amemv.com^
 ||v95-bjb.douyinvod.com^
 ||v3-novelapp.fqnovelvod.com^
