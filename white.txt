@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#百度
+@@||suggestion.baidu.com^$important
 #极光推送
 @@||tsis.jpush.cn^$important
 #科利达WiFi
