@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#腾讯视频搜索
+@@||pbaccess.video.qq.com^$important
 #百度
 @@||suggestion.baidu.com^$important
 #极光推送
