@@ -1188,7 +1188,6 @@ www.itdog.cn##.rounded-lg
 ||ipv4.gdt.qq.com^
 ||aegis.qq.com^
 ||monitor.l.qq.com^
-||pbaccess.video.qq.com^
 ||canary-acc.video.qq.com^
 ||video-mobile-tech-*.shiply-cdn.qq.com^
 ||snowflake.qq.com^
