@@ -1183,7 +1183,6 @@ www.itdog.cn##.rounded-lg
 ||p 1-lm.adkwai.com^
 ||dldir1v6.qq.com^
 ||111.45.69.21^
-||dldir1.qq.com^
 ||2409:8702:4860:10::62^
 ||ipv4.gdt.qq.com^
 ||aegis.qq.com^
