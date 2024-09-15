@@ -2542,7 +2542,6 @@
 127.0.0.1 yt.mmstat.com
 127.0.0.1 yt1.mmstat.com
 127.0.0.1 yun.tuitiger.com
-127.0.0.1 yybadaccess.3g.qq.com
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 z.5th.zone
