@@ -2,7 +2,9 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
-#方向DNS查找
+#应用宝
+@@||yybadaccess.3g.qq.com^$important
+#万向DNS查找
 @@||in-addr.arpa^$important
 #腾讯视频搜索
 @@||pbaccess.video.qq.com^$important
