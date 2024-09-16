@@ -865,7 +865,6 @@ www.itdog.cn##.rounded-lg
 ||api.qttunion.com^
 ||upload-z0.qiniup.com^
 ||2vjtskggs3agibm0o7cc9d28ubvk0cmgd9j87nv7uchurn61a50vvtef.weilayun.com^
-||v26-novelapp.fqnovelvod.com^$app=com.dragon.read
 ||*.vegslb.com^
 ||p3-ad-sign.byteimg.com/web.business.image^
 ||api3-normal-lf.fqnovel.com^
