@@ -694,7 +694,6 @@ similarweb.com^
 @@||haohuo.jinritemai.com^ 
 @@||tnc11-bjlgy.zijieapi.com^
 ! 今日头条相关
-@@||snssdk.com^
 @@||p3-sign.toutiaoimg.com^
 @@||mcs.snssdk.com^
 #中国移动
