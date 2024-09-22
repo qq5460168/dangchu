@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#百度地图街景
+@@||api.tuisong.baidu.com^$important
+#抖音极速版
+@@||push-rtmp-spe-l1.douyincdn.com^$important
 #应用宝
 @@||yybadaccess.3g.qq.com^$important
 #反向DNS查找
