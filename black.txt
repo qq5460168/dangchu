@@ -165,7 +165,6 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
-
 #贴吧弹窗
 ||arm.z74d.cn^$important
 ||mine.z74d.com^$important
@@ -176,7 +175,6 @@
 ||arm.z74d.com^$important
 ||www.z74d.com^$important
 ||q.z74d.com^$important
-
 #Block Ads
 ||alogus.umeng.com^
 ||alogs.umengcloud.com^
@@ -265,7 +263,6 @@
 ||dns1.dimassa.net^
 ||httpdns.tantanapp.com^
 ||dotserver.douyucdn.cn^
-
 ##https://www.itdog.cn/
 www.itdog.cn##.lantern_right
 www.itdog.cn##.lantern_left
@@ -273,10 +270,8 @@ www.itdog.cn##.pointer
 www.itdog.cn##.mb-3
 www.nite07.com##.hope-c-PJLV-ikSuVsl-css
 www.itdog.cn##.rounded-lg
-
 #美团dns
 ||httpdns.meituan.com^
-
 #酷安
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
@@ -288,7 +283,6 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-
 #18+不良网站
 ||21511.ua96.com
 ||inews.gtimg.com
@@ -500,7 +494,6 @@ www.itdog.cn##.rounded-lg
 ||www.7x8qwer.top^$important
 ||di9tms72wgbs.zpoejv.top^$important
 ||mizism07.com^$important
-
  #晴雅规则
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -1362,6 +1355,90 @@ www.itdog.cn##.rounded-lg
 ||xpgw-xcdn.youku.com^
 ||36.102.218.149:4482/image.uczzd.cn^
 ||*commercial_api*^
+||www.zhihu.com/api/v4/answers/*/recommendations?omni=*&amp;amp;load_new_ad=*&amp;amp;page_index=*^
+||*.cmgadx.com^
+||v26-novelapp.fqnovelvod.com^$app=com.dragon.read
+||api.comm.miui.com/*&ad_status=
+||vv.video.qq.com/checktime?randnum=*&otype=json&
+||api.zhihu.com/commercial_api/launch_v2?app=*&size=*&non_full_size=*&vf=*^
+||ipinfo.io^
+||aeventlog.beacon.qq.com^
+||pow.wandx5.cn^
+||qw.wandx5.cn^
+||jibh.zhangxy2.cn^
+||picgg.idti.cn^
+||www.googletagmanager.com^
+||app.bilibili.com/*/splash/list
+||*/effect_ad/splash*^
+||app.bilibili.com/x/v2/splash/list
+||ad-sdk-config.youdao.com^
+||ad.cyapi.cn^
+||pitaya.bytedance.com^
+||lv-api.ulikecam.com^
+||ads*-normal.zijieapi.com^
+||gecko*-lq.zijieapi.com^
+||polaris*-normal-lf.zijieapi^
+||gecko*-lf.zijieapi.com^
+||frontier100-toutiao-lf.fqnovel.com^
+||abtest*-misc-lf.zijieapi.com^
+||lf*-ad-union-sdk.pglstatp-toutiao*.com^
+||log-api.pangolin-sdk-toutiao*.com^
+||p*-*.adkwai.com^
+||bsync3-normal-lq.zijieapi.com^
+||imapi5-oth-lq.zijieapi.com^
+||log3-applog-lq.fqnovel.com^
+||v5-novelapp.fqnovelvod.com^
+||p*-pack.byteimg.com/ad-app-package*
+||p3-ad-sign.byteimg.com^
+||d.url.cn/myapp/qq_desk/pre_res/official/*.plist?mType=ConfigCheck^
+||polaris.zijieapi.com^
+||ads5-normal.zijieapi.com^
+||ads3-normal.zijieapi.com^
+||ads*.zijieapi.com^
+||tobapplog.ctobsnssdk.com^
+||polaris5-normal-lq.zijieapi.com^
+||cache.wuji.qq.com^
+||pd.ads.cn.miaozhen.com^
+||ards.iqiyi.com^
+||v26-reading.qznovelvod.com^
+||v3-reading.qznovelvod.com^
+||push.m.youku.com^
+||audid-api.taobao.com^
+||tr.byteurl.cn^
+||match.adsrvr.cn^
+||t.dentsuchina.cn^
+||px.ucweb.com^
+||volctrack.com^
+||diagnosis.ad.xiaomi.com^
+||api3-normal-c.amemv.com^
+||abot.pos.baidu.com^
+||public.gdtimg.com^
+||trpc.qianbao.qq.com^
+||pangolin.snssdk.com/api/ad/*^
+||pan.baidu.com/buy/ad/*^
+||sf1-amtos-cdn.bytesmanager.com^
+||ug-data.mihoyo.com/ads-track/*^
+||lv-api-sinfonlinea.ulikecam.com/lv/v1/ad/*^
+||lv-api-sinfonlinea.ulikecam.com^
+||m.v.qq.com/activity/qqvideo/interact/gift.html^
+||lives.l.qq.com/livemsg?&ad_type=*^
+||tab.video.qq.com/tab/GetTabRemoteConfig*^
+||iface2.iqiyi.com/views_pop/3.0/component/reward_ad_guide*^
+||iface2.iqiyi.com/views_pop/3.0/component/perception*^
+||iface2.iqiyi.com/views_pop/3.0/component/vip_expire_save_emotion*^
+||iface2.iqiyi.com/carrier/2.0/init*^
+||act.vip.iqiyi.com/interact/api/v2/show?P00001=*^
+||iface2.iqiyi.com/control/3.0/init_login?app_vm=*^
+||iface2.iqiyi.com/views_pop/3.0/pop_control?req_sn=*^
+||api.iqiyi.com/3f4/iface2.iqiyi.com/control/3.0/init_proxy*^
+||sns-paopao.iqiyi.com/v2/init/query_circle_star_reachlayer.action*^
+||reading.snssdk.com/cloudpush/update_sender*^
+||reading.snssdk.com/api/ad/*^
+||i.snssdk.com/api/ad/*^
+||ichannel.snssdk.com/check_version*
+||reading.snssdk.com/reading/bookapi/sstimor/entry_type*^
+||api.kurobbs.com/config/getOpenScreen*^
+||webcast.amemv.com/webcast/gamecp/*^
 #晴雅！！
 
 ! 某些系统日志log上传
@@ -1384,7 +1461,6 @@ www.itdog.cn##.rounded-lg
 ||bigdatacloud.net^
 #字节系 AD API SDK 屏蔽
 ||saveu5-normal-lf.zijieapi.com^
-||p3-ad-sign.byteimg.com^
 ||lf6-orange.byteorge.com^
 ||lf9-orange.byteorge.com^
 ||lf3-orange.byteorge.com^
@@ -1398,7 +1474,6 @@ www.itdog.cn##.rounded-lg
 ||js-ad.a.yximgs.com^$important
 ||api.map.baidu.com^$app=com.baidu.map.location
 ||appdist.360os.com^
-||tobapplog.ctobsnssdk.com^
 ||tx-ad.a.yximgs.com^
 ||v1-lm.adbkwai.com^
 ||toblog.ctobsnssdk.com^$app=com.pcncn.jj
@@ -1466,12 +1541,10 @@ www.itdog.cn##.rounded-lg
 ||aibreeno.com^
 ||xiaobool.com^
 ||nearme.com.cn^
-
 #18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
-
 #酷友APPea 分享
 ||p3-webcast.douyinpic.com^
 ||p9-developer-sign.bytemaimg.com^
@@ -1615,7 +1688,6 @@ www.itdog.cn##.rounded-lg
 ||open.kwaizt.com^^
 ||pangolin-dsp-toutiao.com^
 ||pangolin16.sgsnssdk.com^
-||public.gdtimg.com^
 ||cmshow.gtimg.cn^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||proxy-mob-cld.alicdn.com^
@@ -1629,7 +1701,6 @@ www.itdog.cn##.rounded-lg
 ||dsp.simba.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||umdc.aliapp.org^
-
 ##酷安 是DD  分享
 ||volcsirius.com
 ||ads-marketing-vivofs.vivo.com.cn
@@ -1694,7 +1765,6 @@ www.itdog.cn##.rounded-lg
 ||uapi-ads.vivo.com.cn^
 ||uploads1.gifshow.com^
 ||adsfilebssdlbig.ali.kugou.com^
-||ad.cyapi.cn^
 ||ad.tianmu.mobi^
 ||ad.qingcigame.com^
 ||ads.linkedin.com^
@@ -1754,7 +1824,6 @@ www.itdog.cn##.rounded-lg
 ||v6-adashx.ut.amap.com^
 ||ad-audit-provider.soulapp.cn^
 ||o2o-ad-log-gateway.alibaba.com^
-||ad-sdk-config.youdao.com^
 ||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||secgw-default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||m1.ad.10010.com.w.cdngslb.com^
@@ -1796,7 +1865,6 @@ www.itdog.cn##.rounded-lg
 ||imp.ads.rgyun.com^
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
-
 #浅笑
 #日志上传和dns自查询
 ||trtc-sdk-log-
@@ -1836,7 +1904,6 @@ www.itdog.cn##.rounded-lg
 ! Bytedance | 字节统计&广告
 ||*-ad-sign.byteimg.com^
 ||ads*-normal*.zijieapi.com^
-||ads*.zijieapi.com^
 ||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||vcl-brain.snssdk.com^
@@ -2494,7 +2561,6 @@ www.itdog.cn##.rounded-lg
 ||p3-static-img.toutiaoimg.com^
 ||sf1-hscdn-tos.pstatp.com^
 ||tosv.boe.byted.org^
-||sf1-amtos-cdn.bytesmanager.com^
 ##盒马
 ||mini-app-packages-cdn.taobao.com^
 ||hybrid.miniapp.taobao.com^
