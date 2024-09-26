@@ -2625,7 +2625,6 @@ www.itdog.cn##.rounded-lg
 ||st.tencent-cloud.com^
 ||static.res.qq.com^
 ##得物
-||s.95fenapp.com^
 ||*ad-tracking.dewu.com^
 ||d*-m.dewu.net^
 ||t*-m.dewu.net^
