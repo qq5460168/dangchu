@@ -4449,4 +4449,10 @@
 216.239.32.40 translate.google.com
 216.239.32.40 translate.googleapis.com
 216.239.32.40 translate-pa.googleapis.com
+#Fake Fucker
+45.116.79.187 api.fakeloc.cc
+45.116.79.187 ads.api.fakeloc.cc
+45.116.79.187 fakeloc.cc
+45.116.79.187 fakelocation.api.lerist.dev
+45.116.79.187 av1.xdrig.com
 
