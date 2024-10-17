@@ -1046,7 +1046,6 @@ www.itdog.cn##.rounded-lg
 ||avlstatic.vivo.com.cn^
 ||vcode-or.vivo.com.cn^
 ||vnote.vivo.com.cn^
-||mcc.inf.miui.com^
 ||vcode-od.vivo.com.cn^
 ||guard-child-prd.vivo.com^
 ||ort-stsdk.vivo.com.cn^
