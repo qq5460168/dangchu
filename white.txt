@@ -6,8 +6,6 @@
 @@||icws.jb51.net^$important
 #爱奇艺
 @@||www.iqiyi.com^$important
-#抖音月付
-@@||f-cpay.snssdk.com^$important
 #百度地图街景
 @@||api.tuisong.baidu.com^$important
 #应用宝
