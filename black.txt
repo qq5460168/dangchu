@@ -2589,7 +2589,6 @@ www.itdog.cn##.rounded-lg
 ||vdn1.vzuu.com^
 ||amadeus--box-10909--www-zhihu-com.zpres.zhihu.com^
 ||ma.pupumall.com^
-||lf3-static.byt
 ##百度云盘
 ||devicemgr.lebo.cn^
 ||ida.webank.com^
