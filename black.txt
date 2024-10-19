@@ -2546,8 +2546,6 @@ www.itdog.cn##.rounded-lg
 ||ppg.viviv.com^
 ||push.gifshow.com^
 ||p1.adkwai.com^
-##运动世界校园
-||gxapp.iydsj.com^
 ##今日头条
 ||searchpstatp.com^
 ||lf-wkrs.wkbrowser.com^
