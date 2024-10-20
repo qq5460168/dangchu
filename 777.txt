@@ -1,5 +1,3 @@
-! Block Adscompany
-some sources: https://github.com/jdlingyu/ad-wars
 
 ||tt.cn^
 ||beizi.biz^
@@ -165,7 +163,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
-
 ! Tracking
 
 ||tpstelemetry.tencent.com^
@@ -214,14 +211,12 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
-
 ! Block Anti-Fraud Center Tracking
 
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
-
 
 ! Input
 
