@@ -1367,9 +1367,7 @@ www.itdog.cn##.rounded-lg
 ||jibh.zhangxy2.cn^
 ||picgg.idti.cn^
 ||www.googletagmanager.com^
-||app.bilibili.com/*/splash/list
 ||*/effect_ad/splash*^
-||app.bilibili.com/x/v2/splash/list
 ||ad-sdk-config.youdao.com^
 ||ad.cyapi.cn^
 ||pitaya.bytedance.com^
