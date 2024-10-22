@@ -135,10 +135,7 @@
 #咪咕图片
 @@||img.cmvideo.cn^$important
 #番茄小说
-@@|v*-novelapp.fqnovelvod.com^
 @@|tnc3-aliec2.snssdk.com^
-@@|api*-normal.fqnovel.com^
-@@|api*-normal-lf.fqnovel.com^
 @@|v*-fq-tts.fqnovelvod.com^
 @@|abtest3-misc-lf.zijieapi.com^
 @@|log5-applog-lf.fqnovel.com^
@@ -1033,7 +1030,6 @@ b站视频加载
 @@||qlogo.cn^$important
 @@||thirdwx.qlogo.cn^$important
 @@||imgcache.qq.com^$important
-@@||*.imtt.qq.com^$important
 @@||translator.qq.com^$important
 @@||appsupport.qq.com^$important
 #腾讯游戏
@@ -1051,7 +1047,6 @@ b站视频加载
 @@||c.pc.qq.com^$important
 @@||sqimg.qq.com^$important
 @@||pinghot.qq.com^$important
-@@||*.y.qq.com^$important
 @@||debugtbs.qq.com^$important
 @@||3gimg.qq.com^$important
 @@||tdid.m.qq.com^$important
