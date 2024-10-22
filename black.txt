@@ -165,6 +165,7 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
+
 #贴吧弹窗
 ||arm.z74d.cn^$important
 ||mine.z74d.com^$important
@@ -175,6 +176,7 @@
 ||arm.z74d.com^$important
 ||www.z74d.com^$important
 ||q.z74d.com^$important
+
 #Block Ads
 ||alogus.umeng.com^
 ||alogs.umengcloud.com^
@@ -270,8 +272,10 @@ www.itdog.cn##.pointer
 www.itdog.cn##.mb-3
 www.nite07.com##.hope-c-PJLV-ikSuVsl-css
 www.itdog.cn##.rounded-lg
+
 #美团dns
 ||httpdns.meituan.com^
+
 #酷安
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
@@ -283,6 +287,7 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+
 #18+不良网站
 ||21511.ua96.com
 ||inews.gtimg.com
@@ -494,6 +499,7 @@ www.itdog.cn##.rounded-lg
 ||www.7x8qwer.top^$important
 ||di9tms72wgbs.zpoejv.top^$important
 ||mizism07.com^$important
+
  #晴雅规则
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -1436,6 +1442,80 @@ www.itdog.cn##.rounded-lg
 ||reading.snssdk.com/reading/bookapi/sstimor/entry_type*^
 ||api.kurobbs.com/config/getOpenScreen*^
 ||webcast.amemv.com/webcast/gamecp/*^
+||deeplink.umeng.com^
+||ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com^
+||v2mi.gdt.qq.com^
+||tnc0-*.zijieapi.com^
+||timon.zijieapi.com^
+||gecko.zijieapi.com^
+||security.snssdk.com^
+||tnc3-aliec2.bytedance.com^
+||tnc3-bjlgy.bytedance.com^
+||vod-settings.bytedanceapi.com^
+||tnc0-bjlgy.zijieapi.com^
+||xiaoshuo.km.com^
+||www.bayread.com^
+||chengzijianzhan.com^
+||aweme.snssdk.com^
+||ad.toutiao.com^
+||dig.bdurl.net^
+||zlink.toutiao.com^
+||ib.snssdk.com^
+||adx-core.youku.com^
+||tmallequity.taobao.com^
+||bj.openstorage.cn^
+||ad.lovefree.cc^
+||hijack.baidu.com^
+||access.if.iqiyi.com^
+||qy.qchannel03.cn^
+||cards.iqiyi.com^
+||gz9cm.71edge.com^
+||120.232.202.6^
+||183.240.223.132^
+||120.232.210.153^
+||kyy-dl.dzhread.cn^
+||ads.game.iqiyi.com^
+||120.232.202.7^
+||120.232.210.151^
+||120.232.210.155^
+||kjp.cupid.iqiyi.com^
+||120.232.202.5^
+||meta.video.iqiyi.com^
+||tyaqy.m.cn.miaozhen.com^
+||10.130.208.223^
+||player-mob-lg.cp31.ott.cibntv.net^
+||adash.m.taobao.com^
+||ykad-data.cp31.ott.cibntv.net^
+||xpgw-mob-xcdn.cp31.ott.cibntv.net^
+||pl.cp31.ott.cibntv.net^
+||un-acs.cp31.ott.cibntv.net^
+||yk-ssp-ad.cp31.ott.cibntv.net^
+||sdk-e.play.aiseet.atianqi.com^
+||news-l.play.aiseet.atianqi.com^
+||111.51.128.172^
+||rpt-gdt.play.aiseet.atianqi.com^
+||v.smtcdns.com^
+||sv-video.play.aiseet.atianqi.com^
+||ltscsy.qq.com^
+||iyes.youku.com^
+||chn-feedback.adsrvr.cn^
+||120.232.207.80^
+||kde.qq.com^
+||data.ab.qq.com^
+||ug.qbimg.qq.com^
+||rmpad.imtt.qq.com^
+||report.nfa.qq.com^
+||zixun.imtt.qq.com^
+||oi.rb.qq.com^
+||trpcpb.imtt.qq.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||xsweb.gdt.qq.com^
+||ssp.1rtb.com^
+||metrics-collector.xaidc.com^
+||mediaad.tadu.com^
+||goblin.hupu.com^
+||advert.tadu.com^
+||luimg.baidu.com^
 #晴雅！！
 
 ! 某些系统日志log上传
@@ -1456,6 +1536,7 @@ www.itdog.cn##.rounded-lg
 ||ningbojisheng.cn^
 ＃去除丰巢新版取件码页面广告
 ||bigdatacloud.net^
+
 #字节系 AD API SDK 屏蔽
 ||saveu5-normal-lf.zijieapi.com^
 ||lf6-orange.byteorge.com^
@@ -1465,6 +1546,7 @@ www.itdog.cn##.rounded-lg
 ||sf6-ttcdn-tos.pstatp.com^
 ||sf1-ttcdn-tos.pstatp.com^
 ||sf3-ttcdn-tos.pstatp.com^
+
 ##作业精灵
 ||ali-ad.a.yximgs.com^
 ||comp.360os.com^
@@ -1474,17 +1556,18 @@ www.itdog.cn##.rounded-lg
 ||tx-ad.a.yximgs.com^
 ||v1-lm.adbkwai.com^
 ||toblog.ctobsnssdk.com^$app=com.pcncn.jj
+
 ##虎扑广告
 ||hermes-server.hupu.com^
 ||e-goblin.hupu.com^
 ||unpkg.com^
 ||vod-license-m.volccdn.com^
 ||open.toutiao.com^
-||goblin.hupu.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
+
 #七猫免费小说
 ||webcast5-open-hl.douyin.com^
 ||gecko.snssdk.com^
@@ -1492,12 +1575,15 @@ www.itdog.cn##.rounded-lg
 ||drs.wtzw.com^
 ||mssdk.volces.com^$
 ||open.kuaishouzt.com^$
+
 #得间
 ||aiclk.com^
 ||adx.ads.heytapmobi.com^
+
 #熊猫小说
 ||cdn-ad.wtzw.com^
 ||a-qmad.qimao.com^
+
 #笔趣阁网页广告
 ||hlryzsqo.icu^
 ||scenery.hk^
@@ -1505,11 +1591,13 @@ www.itdog.cn##.rounded-lg
 ||bcnsport.us^
 ||ncbtsdea.xyz^
 ||vjyaghdw.icu^
+
 #书旗
 ||api.th.wanzjhb.com^
 ||janapi.jd.com^
 ||mos.m.taobao.com^
 ||opehs.tanx.com^
+
 #OPPO
 ||cl-data.ads.heytapmobi.com^
 ## 信息流及评论区广告
@@ -1538,17 +1626,18 @@ www.itdog.cn##.rounded-lg
 ||aibreeno.com^
 ||xiaobool.com^
 ||nearme.com.cn^
+
 #18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
+
 #酷友APPea 分享
 ||p3-webcast.douyinpic.com^
 ||p9-developer-sign.bytemaimg.com^
 ||p3-webcast-sign.douyinpic.com^
 ||lf9-cdn-tos.bytegecko.com^
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^important
-||dig.bdurl.net^
 ||frontier-toutiao.snssdk.com^
 ||mon11-misc-lq.fqnovel.com^
 ||p9-novelfm-sign.novelfmpic.com^
@@ -1698,6 +1787,7 @@ www.itdog.cn##.rounded-lg
 ||dsp.simba.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||umdc.aliapp.org^
+
 ##酷安 是DD  分享
 ||volcsirius.com
 ||ads-marketing-vivofs.vivo.com.cn
@@ -1862,6 +1952,7 @@ www.itdog.cn##.rounded-lg
 ||imp.ads.rgyun.com^
 ||c.ads.rgyun.com^
 ||ads.adfox.ru^
+
 #浅笑
 #日志上传和dns自查询
 ||trtc-sdk-log-
@@ -2089,7 +2180,6 @@ www.itdog.cn##.rounded-lg
 !腾讯的广点通(优量汇)和字节跳动的穿山甲广告
 ||access*.tpns.tencent.com^
 ||access.pangolin-sdk-toutiao-*.com^
-||api-access.pangolin-sdk-toutiao-*.com^
 ||mssdk-bu.snssdk.com^
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
@@ -2114,7 +2204,6 @@ www.itdog.cn##.rounded-lg
 ||zhanzhang.toutiao.com^
 !字节
 ||analytics.snssdk.com^
-||ib.snssdk.com^
 ||ib.snssdk.com.edgekey.net^
 ||isub.snssdk.com^
 ||isub.snssdk.com.bytedns.net^
@@ -2595,7 +2684,6 @@ www.itdog.cn##.rounded-lg
 ||endpoint.zhuishushenqi.com^
 ##酷喵TV
 ||yk-ssp-ad.cp12.wasu.tv^
-||yk-ssp-ad.cp31.ott.cibntv.net^
 ||valfatm.cp12.wasu.tv^
 ||valf.atm.cp31.ott.cibntv.net^
 ||adx.op.cp18.ott.cibntv.net^
