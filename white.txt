@@ -1130,7 +1130,6 @@ b站视频加载
 @@||ykimg.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
 @@||yun.duiba.com.cn^$important
-@@||*.gtimg.cn^$important
 @@||baike.so.com^$important
 @@||p2p.huya.com^$important
 @@||www.jiaoyimao.com^$important
