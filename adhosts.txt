@@ -5112,4 +5112,6 @@ Block Anti-Fraud Center Tracking
 45.116.79.187 fakeloc.cc
 45.116.79.187 fakelocation.api.lerist.dev
 45.116.79.187 av1.xdrig.com
-
+#一加12屏蔽系统更新
+127.0.0.1 component-ota-cn.allawntech.com
+127.0.0.1 h5fs.coloros.com
