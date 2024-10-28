@@ -1111,7 +1111,6 @@ www.itdog.cn##.rounded-lg
 ||time.video.iqiyi.com^
 ||cs-feige.iqiyi.com^
 ||ifacelog.dns.iqiyi.com^
-||api.iqiyi.com^
 ||i.vip.iqiyi.com^
 ||apisix-test.iqiyi.com^
 ||data6.video.iqiyi.com^
