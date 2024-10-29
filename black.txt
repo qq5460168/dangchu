@@ -165,6 +165,12 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
+#B站
+||gaoneng.bilibili.com^
+||api.live.bilibili.com^
+||api.vc.bilibili.com^
+||club.bilibili.com^
+
 
 #贴吧弹窗
 ||arm.z74d.cn^$important
