@@ -19,7 +19,7 @@
 #应用宝
 @@||yybadaccess.3g.qq.com^$important
 #反向DNS查找
-@@||in-addr.arpa^$important
+@@||*.in-addr.arpa^$important
 #腾讯视频搜索
 @@||pbaccess.video.qq.com^$important
 #百度
