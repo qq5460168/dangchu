@@ -2142,8 +2142,6 @@ www.itdog.cn##.rounded-lg
 ! XiaoMi | 小米
 ||ad.mi.com^
 ||ad1.xiaomi.com^
-!屏蔽B站直播P2P上传
-.chat.bilibili.com
 !Amazon ADS
 ||affiliationjs.s3.amazonaws.com^
 ||amazonaax.com^
@@ -2787,7 +2785,6 @@ www.itdog.cn##.rounded-lg
 ||msxf.com^$important
 
 #8680
-*.chat.bilibili.com
 ||analyticsengine.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
 ||analytics.s3.amazonaws.com^
