@@ -265,6 +265,7 @@
 ||dns1.dimassa.net^
 ||httpdns.tantanapp.com^
 ||dotserver.douyucdn.cn^
+
 ##https://www.itdog.cn/
 www.itdog.cn##.lantern_right
 www.itdog.cn##.lantern_left
