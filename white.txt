@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#番茄小说听书
+@@||v3-novelapp.fqnovelvod.com^$important
 #dropbox
 @@||www-env.dropbox-dns.com^$important
 #B站APP关注列表
