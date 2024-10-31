@@ -1337,7 +1337,6 @@ www.itdog.cn##.rounded-lg
 ||p11-sign.douyinpic.com^
 ||webcast.amemv.com^
 ||v95-bjb.douyinvod.com^
-||v3-novelapp.fqnovelvod.com^
 ||p9-sign.douyinpic.com^
 ||p11.douyinpic.com^
 ||p11-webcast-sign.douyinpic.com^
