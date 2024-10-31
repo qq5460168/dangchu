@@ -282,6 +282,9 @@ www.itdog.cn##.rounded-lg
 
 #美团dns
 ||httpdns.meituan.com^
+#拷贝漫画
+||adx-data.yfanads.com^
+||abe.ymmiyun.com^
 
 #酷安
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
