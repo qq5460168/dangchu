@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#dropbox
+@@||www-env.dropbox-dns.com^$important
 #B站APP关注列表
 @@||space.bilibili.com^$important
 #123网盘app
