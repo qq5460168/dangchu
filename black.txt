@@ -165,9 +165,16 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
-#B站
+
+##哔哩哔哩
+||httpdns.bilivideo.com^
+||dataflow.biliapi.com^
+||cm.bilibili.com^
+||grpc.biliapi.net^
+||impression.biligame.com^
+||jzts.cmpassport.com^
+||ug-data.mihoyo.com^
 ||gaoneng.bilibili.com^
-||api.live.bilibili.com^
 ||api.vc.bilibili.com^
 ||club.bilibili.com^
 
@@ -2535,15 +2542,7 @@ www.itdog.cn##.rounded-lg
 ||maps.testing.amap.com^
 ||page.amap.com^
 ||cache.gaode.com^
-##哔哩哔哩
-||httpdns.bilivideo.com^
-||dataflow.biliapi.com^
-||cm.bilibili.com^
-||grpc.biliapi.net^
-||impression.biligame.com^
-||jzts.cmpassport.com^
-||miniapp.bilibili.com^
-||ug-data.mihoyo.com^
+
 ##飞鸟听书
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||hw-ot-ad.a.yximgs.com^
