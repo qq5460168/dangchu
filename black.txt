@@ -1345,7 +1345,6 @@ www.itdog.cn##.rounded-lg
 ||webcast.amemv.com^
 ||v95-bjb.douyinvod.com^
 ||p9-sign.douyinpic.com^
-||p11.douyinpic.com^
 ||p11-webcast-sign.douyinpic.com^
 ||api.kuaishouzt.com^
 ||zt-sup.kwd.inkuai.com^
