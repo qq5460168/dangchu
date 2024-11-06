@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#百度地图街景
+@@||sv.map.baidu.com^$important
 #番茄小说听书
 @@||v3-novelapp.fqnovelvod.com^$important
 #dropbox
