@@ -3866,7 +3866,6 @@ Block Anti-Fraud Center Tracking
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 127.0.0.1 dl.client.baidu.com
 127.0.0.1 dl.g.youku.com
-127.0.0.1 dl.hdslb.com
 127.0.0.1 dload.qd.qingting.fm
 127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 dm-hl.toutiao.com
