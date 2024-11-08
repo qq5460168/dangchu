@@ -175,7 +175,6 @@
 ||jzts.cmpassport.com^
 ||ug-data.mihoyo.com^
 ||gaoneng.bilibili.com^
-||api.vc.bilibili.com^
 ||club.bilibili.com^
 
 

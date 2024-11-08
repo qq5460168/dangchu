@@ -224,7 +224,6 @@
 
 ! Block PCDN
 
-||*.mcdn.bilivideo.cn^
 ||punch.p2p.qq.com^
 ||musicps.p2p.qq.com^
 ||musicstun.p2p.qq.com^
