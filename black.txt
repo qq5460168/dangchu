@@ -523,6 +523,7 @@ www.itdog.cn##.rounded-lg
 ||mizism07.com^$important
 
  #晴雅规则
+ ||api.juliangcili.com^
 ||mcc.inf.miui.com^
 ||api1.kwaixiaodian.com^
 ||apihb6.ksapisrv.com^
