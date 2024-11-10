@@ -294,9 +294,7 @@ Tracking
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
-bilibili
 127.0.0.1 grpc.biliapi.net
-127.0.0.1 *.mcdn.bilivideo.cn
 友盟平台
 127.0.0.1 g1.tagtic.cn 
 127.0.0.1 img.adnyg.com 
