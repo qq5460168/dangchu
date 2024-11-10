@@ -3,7 +3,6 @@
 
 ##部分规则来自DD大佬
 ##个人拦截规则
-||api.xiangkanwang.com^
 ||cdn.xiangkanwang.com^
 ||cn.xiaochuankeji.tieba^
 ||in.appcenter.ms^
@@ -176,6 +175,9 @@
 ||ug-data.mihoyo.com^
 ||gaoneng.bilibili.com^
 ||club.bilibili.com^
+||data.bilibili.cn^
+||broadcast.chat.bilibili.com^
+
 
 
 #贴吧弹窗
@@ -207,7 +209,6 @@
 ||uop.umeng.com^
 ||track.xiachufang.com^
 ||trackbeat.xiachufang.com^
-||data.bilibili.cn^
 ||track.ucdns.uc.cn^
 ||gjtrack.uc.cn^
 ||track.easeus.com^
@@ -305,22 +306,22 @@ www.itdog.cn##.rounded-lg
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 
 #18+不良网站
-||21511.ua96.com
-||inews.gtimg.com
+||21511.ua96.com^$important
+||inews.gtimg.com^$important
 ||cbu01.alicdn.com/img/ibank/*
 ||tyc20202.com^$important
-||tu2.jinpaigz.com
+||tu2.jinpaigz.com^$important
 ||o.fwmdafm.cn^$important
 ||www.b0fe2304c355.com^$important
-||sdk.nouzhu.cn
-||l.infwd.xyz
+||sdk.nouzhu.cn^$important
+||l.infwd.xyz^$important
 ||mo.umlzk.xyz^$important
 ||eo.umlzk.xyz^$important
 ||f.gxrwc.xyz^$important
 ||d.rzskdw.cn^$important
 ||l.pnsblw.cn^$important
 ||diyibanzhu^$important
-||l.pnsblw.cn
+||l.pnsblw.cn^$important
 ||ll.axyim.cn^$important
 ||kr.axyqd.cn^$important
 ||open.lalanuz.cn^$important
@@ -735,7 +736,6 @@ www.itdog.cn##.rounded-lg
 ||*igd.xml*^
 ||*/pgc/app/preload*^
 ||*ads-track*^
-||broadcast.chat.bilibili.com^
 ||*/game/abtest/*^
 ||*/auto_download/game_pkg_list/*^
 ||upos-*-static.bilivideo.com^
