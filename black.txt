@@ -1229,7 +1229,6 @@ www.itdog.cn##.rounded-lg
 ||c.tobidad.cn^
 ||39.96.184.178^
 ||39.96.185.90^
-||page-acc.video.qq.com^
 ||nc.gdt.qq.com^
 ||112.60.14.98^
 ||111.45.69.159^
