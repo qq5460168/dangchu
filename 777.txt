@@ -112,7 +112,7 @@
 ||fw.qq.com^
 ||mdt.qq.com^
 
-! # Ads - Google
+## Ads - Google
 
 ||media.mobpartner.mobi^
 ||ads2.mediaarmor.com^
@@ -130,7 +130,7 @@
 ||googletagmanager-cn.com^
 ||googletagservices-cn.com^
 
-! # Ads - Baidu
+## Ads - Baidu
 
 ||wanba.baidu.com^
 ||iwan.baidu.com^
@@ -138,7 +138,7 @@
 ||youxi.baidu.com^
 ||adm.baidu.com^
 
-! # Ads - Coolapk
+## Ads - Coolapk
 
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
@@ -152,18 +152,18 @@
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 
-! # Ads - Leigod
+## Ads - Leigod
 
 ||p*-ad.adukwai.com^
 ||ad*.sigmob.cn^
 
-! # Ads - Xiaomi
+## Ads - Xiaomi
 
 ||ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
-! Tracking
+#Tracking
 
 ||tpstelemetry.tencent.com^
 ||track.xiachufang.com^
@@ -211,18 +211,18 @@
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
-! Block Anti-Fraud Center Tracking
+#Block Anti-Fraud Center Tracking
 
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
 
-! Input
+#Input
 
 ||ping.pinyin.sogou.com^
 
-! Block PCDN
+#Block PCDN
 
 ||punch.p2p.qq.com^
 ||musicps.p2p.qq.com^
@@ -232,7 +232,7 @@
 ||twns.p2ptun.qq.com^
 
 
-! BAT Built-in DNS
+#BAT Built-in DNS
 
 ||dns.qq.com^
 ||httpdns.pro^
@@ -249,7 +249,7 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 
 
-! Block Built-in DNS
+#Block Built-in DNS
 
 ||doh.dns.apple.com^
 ||dns.jd.com^
