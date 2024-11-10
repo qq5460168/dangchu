@@ -1077,7 +1077,6 @@ www.itdog.cn##.rounded-lg
 ||qosp.iqiyi.com^
 ||tracker-sns.iqiyi.com^
 ||subscription.iqiyi.com^
-||meta-cdn.video.iqiyi.com^
 ||filter.appstore.vivo.com.cn^
 ||appstoreort-stsdk.vivo.com.cn^
 ||artpp-vivofs.vivo.com.cn^
@@ -1099,7 +1098,6 @@ www.itdog.cn##.rounded-lg
 ||opportunarch.iqiyi.com^
 ||msga.cupid.iqiyi.com^
 ||cook.iqiyi.com^
-||cdn-data6.video.iqiyi.com^
 ||passport.iqiyi.com^
 ||policy.video.iqiyi.com^
 ||ip-geo.iqiyi.com^
@@ -1130,7 +1128,6 @@ www.itdog.cn##.rounded-lg
 ||i.vip.iqiyi.com^
 ||apisix-test.iqiyi.com^
 ||data6.video.iqiyi.com^
-||cdndata.video.iqiyi.com^
 ||static-d.iqiyi.com^
 ||iqid.iqiyi.com^
 ||vertical-play.iqiyi.com^
