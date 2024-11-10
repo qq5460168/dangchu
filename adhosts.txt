@@ -154,7 +154,7 @@
 127.0.0.1 tongji.baidu.com
 127.0.0.1 img14.360buyimg.com
 127.0.0.1 pp.myapp.com
-Tracking
+# Tracking
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 track.xiachufang.com
 127.0.0.1 trackbeat.xiachufang.com
@@ -183,7 +183,7 @@ Tracking
 127.0.0.1 *-inapps.appsflyersdk.com
 127.0.0.1 fp-it*.fengkongcloud.com
 127.0.0.1 *-launches.appsflyersdk.com
-谷歌广告服务
+#谷歌广告服务
 127.0.0.1 ads.traffichunt.com
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 tracking.klickthru.com
@@ -295,7 +295,7 @@ Tracking
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 grpc.biliapi.net
-友盟平台
+#友盟平台
 127.0.0.1 g1.tagtic.cn 
 127.0.0.1 img.adnyg.com 
 127.0.0.1 img.adnyg.com.w.kunlungr.com 
@@ -303,10 +303,10 @@ Tracking
 127.0.0.1 pgdt.ugdtimg.com 
 127.0.0.1 sdownload.stargame.com 
 127.0.0.1 alogsus.umengcloud.com
-腾讯广告服务
+#腾讯广告服务
 127.0.0.1 cfg.flurry.com
 127.0.0.1 raddus.bayescom.com
-快手平台
+#快手平台
 127.0.0.1 103.107.217.2
 127.0.0.1 103.107.217.65
 127.0.0.1 114.118.4.4
@@ -349,7 +349,7 @@ Tracking
 127.0.0.1 corp.kuaishou.com
 127.0.0.1 kwaizt.com
 127.0.0.1 chinanetcenter.com
-阿里广告服务
+#阿里广告服务
 127.0.0.1 www.uyunad.com
 127.0.0.1 amdc.m.taobao.com
 127.0.0.1 c.mse.360.cn
@@ -411,7 +411,7 @@ Tracking
 127.0.0.1 app.movie.dianping.com
 127.0.0.1 app.movie.51ping.com
 127.0.0.1 admob-gmats.uc.r.appspot.com
-Block Anti-Fraud Center Tracking
+#Block Anti-Fraud Center Tracking
 127.0.0.1 1010pic.com
 127.0.0.1 182.254.116.116
 127.0.0.1 203.205.137.89
