@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#山姆
+@@||pro.bugly.qq.com^$important
 #CDN相关
 @@||npm.cdn-go.cn^
 #B直播
