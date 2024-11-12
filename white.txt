@@ -3,6 +3,8 @@
 ## 放行
 
 #QQ相关
+@@||npm.cdn-go.cn^
+@@||pub.idqqimg.com^
 @@||qq-web.cdn-go.cn^
 @@||qqvip-web.cdn-go.cn^
 #山姆
