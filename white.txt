@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#QQ相关
+@@||qq-web.cdn-go.cn^
+@@||qqvip-web.cdn-go.cn^
 #山姆
 @@||pro.bugly.qq.com^$important
 #B直播
