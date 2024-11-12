@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#CDN相关
+@@||npm.cdn-go.cn^
 #B直播
 @@||api.live.bilibili.com^$app=tv.danmaku.bili,important
 #喜马拉雅音频下载
