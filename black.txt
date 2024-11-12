@@ -523,7 +523,7 @@ www.itdog.cn##.rounded-lg
 ||mizism07.com^$important
 
  #晴雅规则
- ||api.juliangcili.com^
+||api.juliangcili.com^
 ||mcc.inf.miui.com^
 ||api1.kwaixiaodian.com^
 ||apihb6.ksapisrv.com^
@@ -836,7 +836,6 @@ www.itdog.cn##.rounded-lg
 ||hugelog.fcbox.com^
 ||*.beizi.biz^
 ||v.adx.hubcloud.com.cn^
-||*.hpplay.cn^
 ||iad.*.163.com^
 ||*admobile.top^
 ||*tianmu.mobi^
