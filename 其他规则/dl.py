@@ -38,7 +38,7 @@ adblock = [
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
     "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-    "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt",
+    "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt",
     "https://raw.hellogithub.com/hosts",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
@@ -46,8 +46,7 @@ adblock = [
     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt",
     "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt"
-	"https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts"
-	"https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt"
+    "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts"
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
     "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt"
 ]
@@ -57,11 +56,10 @@ allow = [
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
     "https://file-git.trli.club/file-hosts/allow/Domains",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/user001235/112/main/white.txt"
-	"https://gitee.com/zjqz/ad-guard-home-dns/raw/master/white-list"
-	"https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
-	"https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt"
-	"https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt"
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/user001235/112/main/white.txt",
+    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
+    "https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt",
+    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt"
 ]
 
 # 下载
