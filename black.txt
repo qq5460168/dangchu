@@ -1432,7 +1432,6 @@ www.itdog.cn##.rounded-lg
 ||p*-pack.byteimg.com/ad-app-package*
 ||p3-ad-sign.byteimg.com^
 ||d.url.cn/myapp/qq_desk/pre_res/official/*.plist?mType=ConfigCheck^
-||polaris.zijieapi.com^
 ||ads5-normal.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads*.zijieapi.com^
@@ -1483,14 +1482,9 @@ www.itdog.cn##.rounded-lg
 ||deeplink.umeng.com^
 ||ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com^
 ||v2mi.gdt.qq.com^
-||tnc0-*.zijieapi.com^
 ||timon.zijieapi.com^
 ||gecko.zijieapi.com^
 ||security.snssdk.com^
-||tnc3-aliec2.bytedance.com^
-||tnc3-bjlgy.bytedance.com^
-||vod-settings.bytedanceapi.com^
-||tnc0-bjlgy.zijieapi.com^
 ||xiaoshuo.km.com^
 ||www.bayread.com^
 ||chengzijianzhan.com^
