@@ -3576,7 +3576,6 @@
 127.0.0.1 api9.tuisong.baidu.com
 127.0.0.1 apidns.kwd.inkuai.com
 127.0.0.1 apollo.caixin.com
-127.0.0.1 app-api.smzdm.com
 127.0.0.1 app-monitor.ele.me
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
