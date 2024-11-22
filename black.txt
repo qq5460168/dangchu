@@ -648,7 +648,6 @@ www.itdog.cn##.rounded-lg
 ||dspsdk.pinduoduo.com^
 ||z6.cnzz.com^
 ||s1.hapying.com^
-||jingfen.jd.com^
 ||www.sugarle.com^
 ||assets.zhutile.com^
 ||api.yfanads.com^
