@@ -636,7 +636,6 @@ www.itdog.cn##.rounded-lg
 ||download*.vzuu.com^
 ||acs.m.taobao.com^
 ||androiddownload.damai.cn^
-||guide-acs.m.taobao.com^
 ||xpis-xcdn.youku.com^
 ||xpis-mob-xcdn.youku.com^
 ||optimus-ads-ykx.amap.com^
