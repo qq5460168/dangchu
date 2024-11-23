@@ -12,6 +12,10 @@
 @@||consumerapp-1251779293.image.myqcloud.com^$important
 #菜鸟包裹侠
 @@||h5api.m.taobao.com^$important
+##影视仓小雅误杀
+@@||fs-im-kefu.7moor-fs1.com^$important
+##瑞幸
+@@||dualstack-a.apilocate.amap.com^$important
 #什么值得买浏览记录
 @@||app-api.smzdm.com^$important
 #京东优惠券
