@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+
+#丰巢app图片
+@@||consumerapp-1251779293.image.myqcloud.com^$important
+#菜鸟包裹侠
+@@||h5api.m.taobao.com^$important
 #什么值得买浏览记录
 @@||app-api.smzdm.com^$important
 #京东优惠券
