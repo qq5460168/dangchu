@@ -778,7 +778,6 @@ www.itdog.cn##.rounded-lg
 ||w1.gskwai.com^
 ||w2.gskwai.com^
 ||zt.gifshow.com^
-||consumerapp*.image.myqcloud.com^
 ||*snscosdownload*^
 ||*getappmsgad*^
 ||badjs.weixinbridge.com^
