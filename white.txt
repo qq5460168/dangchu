@@ -2,7 +2,12 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
-
+#小哥工作台
+@@||api-pda.jdl.com^$important
+@@||pda.jd.com^$important
+@@||api.jdl.com^$important
+@@||lop-proxy.jd.com^$important
+@@||erp.jd.com^$important
 #丰巢app图片
 @@||consumerapp-1251779293.image.myqcloud.com^$important
 #菜鸟包裹侠
