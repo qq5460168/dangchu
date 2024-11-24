@@ -296,7 +296,6 @@
 ||dns.loveimgmoe.com^
 ||v6-data.video.dns.iqiyi.com^
 ||httpdns.bilivideo.com^
-||dns.icoa.cn^
 ||httpdns.baidubce.com^
 ||now-dns.org^
 ||dns-test.research.a10protects.com^
