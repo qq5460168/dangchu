@@ -3,6 +3,8 @@
 ## 放行
 
 #小哥工作台
+
+@@||api.amemv.com^$important
 @@||api.jdl.cn^$important
 @@||api.m.jd.com^$important
 @@||api-pda.jdl.com^$important
