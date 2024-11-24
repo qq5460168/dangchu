@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#免费公共 DNS 服务器大全
+@@||dns.icoa.cn^$important
+#抖音短剧接口
+@@||webcast-open.douyin.com^$important
 #小哥工作台
 @@||waapdg.jd.com^$important
 @@||api.amemv.com^$important
