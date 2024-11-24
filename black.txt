@@ -1457,7 +1457,6 @@ www.itdog.cn##.rounded-lg
 ||sdkoptedge.chinanetcenter.com^
 ||techain.baidu.com^
 ||walle.bayescom.com^
-||webcast-open.douyin.com^
 ||zpm-platform.cdnjtzy.com^
 ||lf9-webcastcdn-tos-sign.douyinstatic.com^
 ||open.kuaishouzt.com^
