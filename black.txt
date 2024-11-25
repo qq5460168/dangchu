@@ -1779,7 +1779,6 @@ www.itdog.cn##.rounded-lg
 #oppo
 ||andes.tech^
 ||keke.cn^
-||oppomobile.com^
 ||ibreeno.com^
 ||oppopay.com^
 ||wanyol.com^
