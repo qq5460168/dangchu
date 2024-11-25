@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#OPPO开放平台
+@@||open.oppomobile.com^$important
 #免费公共 DNS 服务器大全
 @@||dns.icoa.cn^$important
 #抖音短剧接口
