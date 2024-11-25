@@ -523,7 +523,13 @@ www.itdog.cn##.rounded-lg
 ||mizism07.com^$important
 
  #晴雅规则
- ||sss.umeng.com^
+||sss.umeng.com^
+||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
+||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
+||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
+|| default.cn.sz.wagbridge.ad.alibabacorp.com^
+|| default.cn.wagbridge.ad.alibabacorp.com^
+||appupgrade.vivo.com.cn^
 ||audid.umeng.com^
 ||az4-upload.ksapisrv.com^
 ||p2-lm.adkwai.com^
