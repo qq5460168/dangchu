@@ -28,6 +28,14 @@
 @@||app-api.smzdm.com^$important
 #京东优惠券
 @@||jingfen.jd.com^$important
+#针对转转App
+@@||app.zhuanzhuan.com^$important
+@@||h5offline.zhuanzhuan.com^$important
+@@||m.zhuanzhuan.com^$important
+@@||feconf.zhuanzhuan.com^$important
+@@||feentry.zhuanzhuan.com^$important
+@@||sentry.zhuanzhuan.com^$important
+@@||act.zhuanzhuan.com^$important
 #QQ相关
 @@||npm.cdn-go.cn^
 @@||pub.idqqimg.com^
