@@ -3171,7 +3171,6 @@ www.itdog.cn##.rounded-lg
 ||mcgi.v.qq.com^
 ||mdevstat.qqlive.qq.com^
 ||mdt.qq.com^
-||minorshort.weixin.qq.com^
 ||misc.wcd.qq.com^
 ||monitor.qq.com^
 ||mqqad.cs0309.html5.qq.com^
