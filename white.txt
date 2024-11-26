@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#移动app登录
+@@||client.app.coc.10086.cn^$important
 #OPPO开放平台
 @@||open.oppomobile.com^$important
 #免费公共 DNS 服务器大全
