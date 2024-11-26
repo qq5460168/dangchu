@@ -3334,7 +3334,6 @@ www.itdog.cn##.rounded-lg
 #针对中国移动
 ||jiguang.coc.10086.cn^
 ||apm.app.coc.10086.cn^
-||client.app.coc.10086.cn^
 ||third.app.coc.10086.cn^
 #针对喜马拉雅
 ||open.ximalaya.com^
