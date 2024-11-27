@@ -226,7 +226,6 @@
 127.0.0.1 tongji.baidu.com
 127.0.0.1 img14.360buyimg.com
 127.0.0.1 pp.myapp.com
-# Tracking
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 track.xiachufang.com
 127.0.0.1 trackbeat.xiachufang.com
@@ -684,7 +683,6 @@
 127.0.0.1 sensors-log.dongqiudi.com
 127.0.0.1 service.changhong.upgrade2.huan.tv
 127.0.0.1 service.vmos.cn
-127.0.0.1 shouji.sogou.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 sms.ads.oppomobile.com
