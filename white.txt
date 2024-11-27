@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#QQ空间精选照片
+@@||qzone-web-v2.cdn-go.cn^$important
 #移动app登录
 @@||client.app.coc.10086.cn^$important
 #OPPO开放平台
