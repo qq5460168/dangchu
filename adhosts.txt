@@ -4945,7 +4945,6 @@
 127.0.0.1 vt.ipinyou.com
 127.0.0.1 vulcan1.branch.io
 127.0.0.1 vulcan5.branch.io
-127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 w.inews.qq.com
 127.0.0.1 w.inmobi.com
 127.0.0.1 w.l.qq.com
