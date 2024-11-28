@@ -3450,10 +3450,6 @@ www.itdog.cn##.rounded-lg
 ||sd-gl.xycdn.com^
 ||sdk1xyajs.data.kuiniuca.com^
 ||iadmat.nosdn.127.net^
-||d1.music.126.net^
-||d2.music.126.net^
-||d3.music.126.net^
-||d6.music.126.net^
 ||iadmusicmat.music.126.net^
 ||nstool.netease.com^
 #酷安残留广告拦截，勿删
