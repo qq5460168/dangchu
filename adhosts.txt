@@ -44,8 +44,6 @@
 47.246.37.220 hugeota.d.miui.com
 127.0.0.1 img01.51y5.net
 127.0.0.1 increase-openapi.soulapp.cn
-127.0.0.1 interface.music.163.com
-127.0.0.1 interface3.music.163.com
 127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 movies.ttwifi.net
 127.0.0.1 p3.dcarimg.com
