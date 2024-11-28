@@ -1312,7 +1312,6 @@ www.itdog.cn##.rounded-lg
 ||moni-onrt-stsdk.vivo.com.cn^
 ||game.weixin.qq.com^
 ||wxsmw.wxs.qq.com^
-||vweixinthumb.tc.qq.com^
 ||finderydy.video.qq.com^
 ||rmonitor.qq.com^
 ||down.paperyy.com^
