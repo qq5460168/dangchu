@@ -3451,6 +3451,8 @@ www.itdog.cn##.rounded-lg
 ||iadmat.nosdn.127.net^
 ||iadmusicmat.music.126.net^
 ||nstool.netease.com^
+||browser.sentry-cdn.com^$important^
+||*.anythinktech.com^$important^
 #酷安残留广告拦截，勿删
 ||main.m.taobao.com^
 ||umdc.taobao.com^
