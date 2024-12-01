@@ -1522,7 +1522,6 @@ www.itdog.cn##.rounded-lg
 # [小说]
 ||midas.gtimg.cn^
 ||bqq.gtimg.com^
-||downv6.qq.com^
 ||content-autofill.googleapis.com^
 ||vfiles.gtimg.cn^
 ||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
