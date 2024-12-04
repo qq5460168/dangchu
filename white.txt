@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#手机淘宝网页端
+@@||main.m.taobao.com^$important
 #IP 地址查询
 @@||ipxx.pro^$important
 #QQ互动标识图
