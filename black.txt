@@ -1526,7 +1526,6 @@ www.itdog.cn##.rounded-lg
 ||vfiles.gtimg.cn^
 ||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
 ||mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com^
-||c.*.qq.com^
 ||analytics.map.qq.com^
 ||log.tbs.qq.com^
 ||ulogs.umengcloud.com^
