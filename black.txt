@@ -3452,7 +3452,6 @@ www.itdog.cn##.rounded-lg
 ||browser.sentry-cdn.com^$important^
 ||*.anythinktech.com^$important^
 #酷安残留广告拦截，勿删
-||main.m.taobao.com^
 ||umdc.taobao.com^
 ||ugcdn.taobao.com^
 ||topdalao.lanzoui.com^
