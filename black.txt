@@ -174,7 +174,6 @@
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
 ||cm.bilibili.com^
-||grpc.biliapi.net^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||ug-data.mihoyo.com^
