@@ -182,6 +182,8 @@
 ||data.bilibili.cn^
 ||broadcast.chat.bilibili.com^
 
+#X8沙箱
+||api.x8zs.com^$important
 
 
 #贴吧弹窗
