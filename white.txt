@@ -1011,7 +1011,7 @@ b站视频加载
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||resolver.msg.xiaomi.net^$important
 @@||sfsapi.micloud.xiaomi.net^$important
-@@||update.miui.com^$important
+#@@||update.miui.com^$important
 @@||ssl-cdn.static.browser.mi-img.com^$important
 @@||ts.market.mi-img.com^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
