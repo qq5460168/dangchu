@@ -721,7 +721,6 @@ similarweb.com^
 @@||drive.quark.cn^$important
 ##夸克首页
 @@||myquark.cn^$important
-#小米推送(mipush)
 ##个推
 @@||sdk.open.talk.gepush.com^$important
 ##公共CDN
@@ -762,7 +761,6 @@ similarweb.com^
 @@||connectivitycheck.platform.hicloud.com^$important
 !vivo
 @@||wifi.vivo.com.cn^$important
-!小米
 !抖音网页
 @@||lf3-cdn-tos.bytegoofy.com^$important
 @@||lf6-cdn-tos.bytegoofy.com^$important
@@ -788,7 +786,6 @@ similarweb.com^
 @@||hmrz.wo.cn^$important
 @@||nishub1.10010.com^$important
 @@||enrichgw.10010.com^$important
-# 小米主题无法打开，小米推送失效
 # 淘宝
 @@||m.intl.taobao.com^$important
 # 微信红包
@@ -1002,8 +999,8 @@ b站视频加载
 @@||bigota.d.miui.com^$important
 @@||data.mistat.intl.xiaomi.com^$important
 @@||f8.market.xiaomi.com^$important
-@@||file.market.xiaomi.com^$importantcdn.ark.qq.com
-@@nileapi.market.xiaomi.com
+@@||file.market.xiaomi.com^$import
+@@||nileapi.market.xiaomi.com^$import
 @@||cn.app.chat.xiaomi.net^$important
 @@||connect.rom.miui.com/generate_204^$important
 @@||m.video.xiaomi.com^$important
