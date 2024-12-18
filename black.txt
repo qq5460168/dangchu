@@ -3478,4 +3478,15 @@ www.itdog.cn##.rounded-lg
 ||app.duxiaomanfintech.com^
 ||xindai.duxiaoman.com^
 ||app.duxiaoman.com^
+#
+||tk.d.mi.com^
+#针对小爱音箱的拦截规则
+||actfile.cdn.pandora.xiaomi.com^
+||info.mina.xiaoaisound.com^
+||h5.tv.mi.com^
+#针对上汽大众的拦截规则
+||stm-collect.cn.miaozhen.com^
+#针对OPPO商城的拦截规则
+||sfn.opposhop.cn^
+||msec.opposhop.cn^
 #↑酷安春梦无痕↑
