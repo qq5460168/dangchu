@@ -22,7 +22,6 @@
 127.0.0.1 cm.adgrx.com
 127.0.0.1 code.bdstatic.com
 127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dldir1.qq.com
 127.0.0.1 dldir4.qq.com
 127.0.0.1 dns.weixin.qq.com
 127.0.0.1 down.lltskb.com
