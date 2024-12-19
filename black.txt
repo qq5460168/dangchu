@@ -525,11 +525,8 @@ www.itdog.cn##.rounded-lg
 
  #晴雅规则
 ||sss.umeng.com^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
-||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-|| default.cn.sz.wagbridge.ad.alibabacorp.com^
-|| default.cn.wagbridge.ad.alibabacorp.com^
+||default.cn.sz.wagbridge.ad.alibabacorp.com^
+||default.cn.wagbridge.ad.alibabacorp.com^
 ||appupgrade.vivo.com.cn^
 ||audid.umeng.com^
 ||az4-upload.ksapisrv.com^
@@ -631,12 +628,6 @@ www.itdog.cn##.rounded-lg
 ||uploads2.ksapisrv.com^
 ||zhcm.gocdna.cn^
 ||106.11.23.107^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
-||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-|| default.cn.sz.wagbridge.ad.alibabacorp.com^
-|| default.cn.wagbridge.ad.alibabacorp.com^
 ||df.tanx.com^
 ||ef-dongfeng.tanx.com^
 ||ossgw.alicdn.com^
@@ -658,7 +649,6 @@ www.itdog.cn##.rounded-lg
 ||assets.zhutile.com^
 ||api.yfanads.com^
 ||nd-api.chuangjing.com^
-||public-bjy-rs-kce-node1466.idchb1az2.hb1.kwaidc.com^
 ||miniapp-ad.cdn.bcebos.com^
 ||adcdn6.tencentmusic.com^
 ||rapi.cmgadx.com^
@@ -1742,7 +1732,8 @@ www.itdog.cn##.rounded-lg
 ||a-remad.qm989.com^
 ||drs.wtzw.com^
 ||mssdk.volces.com^$
-||open.kuaishouzt.com^$
+||open.kuaishouzt.com^
+||ssp.vivo.com.cn^$important
 
 #得间
 ||aiclk.com^
