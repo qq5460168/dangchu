@@ -1731,7 +1731,7 @@ www.itdog.cn##.rounded-lg
 ||gecko.snssdk.com^
 ||a-remad.qm989.com^
 ||drs.wtzw.com^
-||mssdk.volces.com^$
+||mssdk.volces.com^
 ||open.kuaishouzt.com^
 ||ssp.vivo.com.cn^$important
 
