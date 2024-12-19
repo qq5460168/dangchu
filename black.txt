@@ -3361,7 +3361,6 @@ www.itdog.cn##.rounded-lg
 ||tmfmazuhttp-wangka.m.qq.com^
 #针对百度
 ||wjz-cdn.baidu.com^
-||ascdn.baidu.com^
 ||pcdn-tracker.baidu.com^
 ||puncher.dcdn.baidu.com^
 ||collector.dcdn.baidu.com^
