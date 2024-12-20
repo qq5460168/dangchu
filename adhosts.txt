@@ -2,6 +2,38 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 
+127.0.0.1 abtest3-misc-lf.zijieapi.com
+127.0.0.1 ads-drcn.platform.hihonorcloud.com
+127.0.0.1 ads-log.huolala.cn
+127.0.0.1 aiad-aisuda.cdn.bcebos.com
+127.0.0.1 app.duxiaomanfintech.com
+127.0.0.1 bi-sensors.duxiaoman.com
+127.0.0.1 c.etoolads.cn
+127.0.0.1 datasink.paydxm.com
+127.0.0.1 frontier100-toutiao-lf.fqnovel.com
+127.0.0.1 installer-drcn.hispace.hihonorcloud.com
+127.0.0.1 iqiyim.adtrack.enlightent.cn
+127.0.0.1 lf3-orange.byteorge.com
+127.0.0.1 lf6-orange.byteorge.com
+127.0.0.1 lf9-orange.byteorge.com
+127.0.0.1 log5-applog-lf.fqnovel.com
+127.0.0.1 metrics-ad-drcn.dt.hihonorcloud.com
+127.0.0.1 mon11-misc-lf.fqnovel.com
+127.0.0.1 oneid.gepush.com
+127.0.0.1 polaris5-normal-lf.zijieapi.com
+127.0.0.1 promotion-partner.kuaishou.com
+127.0.0.1 qd-update.qq.com
+127.0.0.1 reading.snssdk.com
+127.0.0.1 rtlog5-applog-lf.fqnovel.com
+127.0.0.1 saveu5-normal-lf.zijieapi.com
+127.0.0.1 sv.adintl.cn
+127.0.0.1 tnc0-aliec2.zijieapi.com
+127.0.0.1 wap.duxiaoman.com
+127.0.0.1 webcast5-open-lf.douyin.com
+127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 www-ads.huolala.co
+127.0.0.1 www.paydxm.com
+127.0.0.1 youxi.gamecenter.qq.com
 127.0.0.1 a.wkanx.com
 127.0.0.1 ad-channel.diwodiwo.xyz
 127.0.0.1 ad-display.diwodiwo.xyz
@@ -20,23 +52,12 @@
 127.0.0.1 bsync3-normal-lf.zijieapi.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.adgrx.com
-127.0.0.1 code.bdstatic.com
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 dldir4.qq.com
 127.0.0.1 dns.weixin.qq.com
 127.0.0.1 down.lltskb.com
 127.0.0.1 dsp-cookie.adfarm1.adition.com
 127.0.0.1 erebor.douban.com
-127.0.0.1 f1.market.mi-img.com
-127.0.0.1 f1.market.xiaomi.com
-127.0.0.1 f2.market.mi-img.com
-127.0.0.1 f2.market.xiaomi.com
-127.0.0.1 f3.market.mi-img.com
-127.0.0.1 f3.market.xiaomi.com
-127.0.0.1 f4.market.mi-img.com
-127.0.0.1 f4.market.xiaomi.com
-127.0.0.1 f5.market.mi-img.com
-127.0.0.1 f5.market.xiaomi.com
 127.0.0.1 frodo.douban.com
 127.0.0.1 gecko5-lf.zijieapi.com
 127.0.0.1 hotsoon.snssdk.com
@@ -999,10 +1020,6 @@
 127.0.0.1 static.g.pptv.com
 127.0.0.1 syrs.z74d.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
-127.0.0.1 t1.a.market.xiaomi.com
-127.0.0.1 t1.market.mi-img.com
-127.0.0.1 t2.a.market.xiaomi.com
-127.0.0.1 t2.market.mi-img.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 test.ark.letv.com
 127.0.0.1 tj.g.pptv.com
@@ -1119,7 +1136,6 @@
 127.0.0.1 a.ads.cn.miaozhen.com
 127.0.0.1 a.alimama.cn
 127.0.0.1 a.game.qidian.com
-127.0.0.1 a.hl.mi.com
 127.0.0.1 a.hpg.cn.miaozhen.com
 127.0.0.1 a.irs01.com
 127.0.0.1 a.qchannel01.cn
@@ -1419,7 +1435,6 @@
 127.0.0.1 api.poll.video.qq.com
 127.0.0.1 api.push.mob.com
 127.0.0.1 api.sdk.admobile.top
-127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.shuzilm.cn
 127.0.0.1 api.sms.jpush.cn
@@ -1427,7 +1442,6 @@
 127.0.0.1 api.ssp.admobile.top
 127.0.0.1 api.th.wanzjhb.com
 127.0.0.1 api.toponadss.com
-127.0.0.1 api.toutiaoapi.com
 127.0.0.1 api.tradplusad.com
 127.0.0.1 api.u.mob.com
 127.0.0.1 api.umeng.com
@@ -1789,7 +1803,6 @@
 127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 data.mob.com
 127.0.0.1 data.sec.intl.miui.com
-127.0.0.1 data.sec.miui.com
 127.0.0.1 data.vaas.jiguang.cn
 127.0.0.1 data.video.iqiyi.com
 127.0.0.1 data.video.ptqy.gitv.tv
@@ -1924,7 +1937,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 ext.mediav.com
 127.0.0.1 f-cashloan.snssdk.com
-127.0.0.1 f-cpay.snssdk.com
 127.0.0.1 f.moblink.mob.com
 127.0.0.1 f1.webshare.mob.com
 127.0.0.1 f2.mob.com
@@ -2068,7 +2080,6 @@
 127.0.0.1 heads-fac.spotify.com
 127.0.0.1 hisense-mipdx.cn.miaozhen.com
 127.0.0.1 homefront.qunar.com
-127.0.0.1 hot.browser.miui.com
 127.0.0.1 hotapi-va.isnssdk.com
 127.0.0.1 httpdns.baidubce.com
 127.0.0.1 httpdns.kg.qq.com
@@ -4062,7 +4073,6 @@
 127.0.0.1 h.trace.qq.com
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 hao.uc.cn
-127.0.0.1 haohuo.snssdk.com
 127.0.0.1 hbx.media.net
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 hd.hupu.com
@@ -4550,7 +4560,6 @@
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 res1.applovin.com
 127.0.0.1 rescn.u3.ucweb.com
-127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resources.taboola.com
 127.0.0.1 rest.irs01.com
 127.0.0.1 rigel.baidustatic.com
@@ -5097,9 +5106,6 @@
 127.0.0.1 stat.xiaomi.com
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
 127.0.0.1 t.track.ad.xiaomi.com
-127.0.0.1 t3.a.market.xiaomi.com
-127.0.0.1 t4.a.market.xiaomi.com
-127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 tr.news.mi-oferta.es
