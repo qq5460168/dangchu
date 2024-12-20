@@ -1543,7 +1543,6 @@
 127.0.0.1 b-gy.getui.net
 127.0.0.1 b-phonev6.gepush.com
 127.0.0.1 b-phonev6.getui.net
-127.0.0.1 b.bdstatic.com
 127.0.0.1 b.mob.com
 127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
 127.0.0.1 b.qchannel01.cn
@@ -2717,7 +2716,6 @@
 127.0.0.1 s-mic-oss.mob.com
 127.0.0.1 s-w.applk.cn
 127.0.0.1 s.alitui.weibo.com
-127.0.0.1 s.bdstatic.com
 127.0.0.1 s.gdt.qq.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 s.isdspeed.qq.com
