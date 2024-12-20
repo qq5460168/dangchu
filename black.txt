@@ -12,8 +12,7 @@
 ||cn.xiaochuankeji.tieba^
 ||in.appcenter.ms^
 ||api-access.pangolin-sdk-toutiao*.com^
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
+||static.doubleclick.net^
 ||youtube.com/get_midroll_
 ||tr.byteurl.cn^$important
 ||dsp-x.jd.com.gslb.qianxun.com^$important
@@ -43,9 +42,6 @@
 ||salutationcheerlessdemote.com^
 ||buildingdoodlesquare.com^
 ||colonistnobilityheroic.com^
-||api.bianxian.haodanku.com^$app=com.xtuone.android.syllabus
-||a.super.cn^$app=com.xtuone.android.syllabus
-||apis.dongtu.com^$app=com.xtuone.android.syllabus
 ||adstats.tencentmusic.com^
 ||ad.tencentmusic.com^
 ||adcdn.tencentmusic.com^
@@ -185,7 +181,6 @@
 #X8沙箱
 ||api.x8zs.com^$important
 
-
 #贴吧弹窗
 ||arm.z74d.cn^$important
 ||mine.z74d.com^$important
@@ -226,7 +221,7 @@
 ||loggw.alipay.com.cn^
 ||up-hl.3g.qq.com^
 ||tracker.didistatic.com^
-||api.installer.xiaomi.com^$important
+||api.installer.xiaomi.com^
 ||dns.qq.com^
 ||httpsdns.baidu.com^
 ||dns.alidns.com^
@@ -535,7 +530,6 @@ www.itdog.cn##.rounded-lg
 ||c3.gdt.qq.com^
 ||d.url.cn^
 ||tangram-config.gdt.qq.com^
-||*/snscosdownload/*/reserved/*$app=com.tencent.mm
 ||ad.wx.com:12638^
 ||union.gdtimg.com^
 ||access1.tpns.tencent.com^
@@ -637,7 +631,6 @@ www.itdog.cn##.rounded-lg
 ||xpis-xcdn.youku.com^
 ||xpis-mob-xcdn.youku.com^
 ||optimus-ads-ykx.amap.com^
-||119.28.83.28:8099^
 ||tianshu.qq.com^
 ||services.xiangji.qq.com^
 ||baichuan-sdk.alicdn.com^
@@ -679,8 +672,6 @@ www.itdog.cn##.rounded-lg
 ||p5-ad.adkwai.com^
 ||tencent-dtv.m.cn.miaozhen.com^
 ||uploads1.ksapisrv.com^
-||mapi.appvipshop.com/vips-mobile/rest/activity/advertisement/get^
-||p4-ad.adukwai.comaz4-api.ksapisrv.com/rest/n/ad/splash*^
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||lcsdk.3g.qq.com^
@@ -795,7 +786,6 @@ www.itdog.cn##.rounded-lg
 ||adcaffe-bard.atcloudbox.com^
 ||vas-hl-x.snssdk.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
-||[240e:ff:f100:1009::10f]:443^
 ||api.iegadp.qq.com^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||msg.qy.net^
@@ -819,7 +809,6 @@ www.itdog.cn##.rounded-lg
 ||*adsdk_splash*^
 ||*adsdk_roll*^
 ||*MobadsSdk*^
-||*mobads.baidu.com&amp;quot;
 ||*/ads/index.htm*^
 ||*mobads://*^
 ||*bqt_logo_tag*^
@@ -836,9 +825,7 @@ www.itdog.cn##.rounded-lg
 ||ads*kugou.com^
 ||fxservice1.kugou.com^
 ||api.zhihu.com/ab/*^
-||m-cloud.zhihu.com/api/cloud/zhihu/config/all*^
 ||otheve.beacon.qq.com^
-||api.zhihu.com/commercial_api/launch_v2^
 ||toblog.volceapplog.com^
 ||sugar.zhihu.com^
 ||duga.zhihu.com^
@@ -846,8 +833,6 @@ www.itdog.cn##.rounded-lg
 ||auni.telecome.cn^
 ||zeus-api.vemarsdev.com^
 ||m-cloud.zhihu.com^
-||*load_new_ad=*^
-||*commercial_api/real_time*^
 ||*ad-pattern*^
 ||*ad_unit_id*^
 ||p2-lm.adukwai.com^
@@ -951,7 +936,6 @@ www.itdog.cn##.rounded-lg
 ||youku-jmacs.m.taobao.com^
 ||mobilelog.upqzfile.com^
 ||tpstelemetry.tencent.com^
-||*.e.qq.com^
 ||mus-nettech.youku.com^
 ||pss.alicdn.com^
 ||id6.me^
@@ -1031,7 +1015,6 @@ www.itdog.cn##.rounded-lg
 ||sdkcfg.adintl.cn^
 ||api-p*.yksdks.com^
 ||sdk.push.mob.com^
-||compus.xiaofubao.com/compus/advertising/getStartupAdvertising^
 ||api-share.mob.com^
 ||sv.adintl.cn^
 ||mi.gdt.qq.com^
@@ -1118,14 +1101,6 @@ www.itdog.cn##.rounded-lg
 ||stg-data.ads.heytapmobi.com^
 ||resolve.umeng.com^
 ||ucc.umeng.com^
-||220.243.190.6^
-||220.243.190.8^
-||220.243.190.7^
-||122.14.229.147
-||122.14.229.147^
-||122.14.229.149^
-||122.14.229.148^
-||220.243.190.7
 ||ads*-normal-*.zijieapi.com^
 ||p*-ad-sign.byteimg.com^
 ||uapi.ads.heytapmobi.com^
@@ -1351,8 +1326,6 @@ www.itdog.cn##.rounded-lg
 ||*.weilayun.com^
 ||p 1-lm.adkwai.com^
 ||dldir1v6.qq.com^
-||111.45.69.21^
-||2409:8702:4860:10::62^
 ||ipv4.gdt.qq.com^
 ||aegis.qq.com^
 ||monitor.l.qq.com^
@@ -1361,11 +1334,7 @@ www.itdog.cn##.rounded-lg
 ||snowflake.qq.com^
 ||appsupport.qq.com^
 ||c.tobidad.cn^
-||39.96.184.178^
-||39.96.185.90^
 ||nc.gdt.qq.com^
-||112.60.14.98^
-||111.45.69.159^
 ||*miaozhen.com^
 ||tytx.m.cn.miaozhen.com^
 ||omgid.qq.com^
@@ -1388,7 +1357,6 @@ www.itdog.cn##.rounded-lg
 ||sf*-amtos-cdn.bytesmanager.com^
 ||bootrealtime.uve.weibo.com^
 ||duzhanread.cdn.bcebos.com^
-||mbd.baidu.com/searchbox*action=feed&cmd=308*^
 ||pmp-ad.cdn.bcebos.com^
 ||zhihu.com/plutus_adreaper?ar=*^
 ||api.zhihu.com/commercial_api/answer/*/bottom*^
@@ -1466,7 +1434,6 @@ www.itdog.cn##.rounded-lg
 ||*vmind.qqvideo.tc.qq.com^
 ||pub.idqqimg.com^
 ||lhp.map.qq.com^
-||185.172.2.183.in-addr.arpa^
 ||wn.pos.baidu.com^
 ||*-*.ad*kwai.com^
 ||p11-sign.douyinpic.com^
@@ -1484,8 +1451,6 @@ www.itdog.cn##.rounded-lg
 ||api.e.kuaishou.com^
 ||2409:8c54:1040:9::149^
 ||apd-vlive.apdcdn.tc.qq.com^
-||120.238.119.113^
-||2409:8c20:8ab1:203:1::5^
 ||q.yunduanzi365.cn^  
 ||yzgdc.cc^  
 ||taoguaji.com^  
@@ -1628,19 +1593,11 @@ www.itdog.cn##.rounded-lg
 ||qy.qchannel03.cn^
 ||cards.iqiyi.com^
 ||gz9cm.71edge.com^
-||120.232.202.6^
-||183.240.223.132^
-||120.232.210.153^
 ||kyy-dl.dzhread.cn^
 ||ads.game.iqiyi.com^
-||120.232.202.7^
-||120.232.210.151^
-||120.232.210.155^
 ||kjp.cupid.iqiyi.com^
-||120.232.202.5^
 ||meta.video.iqiyi.com^
 ||tyaqy.m.cn.miaozhen.com^
-||10.130.208.223^
 ||player-mob-lg.cp31.ott.cibntv.net^
 ||adash.m.taobao.com^
 ||ykad-data.cp31.ott.cibntv.net^
@@ -1650,14 +1607,12 @@ www.itdog.cn##.rounded-lg
 ||yk-ssp-ad.cp31.ott.cibntv.net^
 ||sdk-e.play.aiseet.atianqi.com^
 ||news-l.play.aiseet.atianqi.com^
-||111.51.128.172^
 ||rpt-gdt.play.aiseet.atianqi.com^
 ||v.smtcdns.com^
 ||sv-video.play.aiseet.atianqi.com^
 ||ltscsy.qq.com^
 ||iyes.youku.com^
 ||chn-feedback.adsrvr.cn^
-||120.232.207.80^
 ||kde.qq.com^
 ||data.ab.qq.com^
 ||ug.qbimg.qq.com^
@@ -3012,26 +2967,10 @@ www.itdog.cn##.rounded-lg
 ||stat.m.jd.com^
 ||u-x.jd.com^
 ||x.jd.com^
-!酷安"提到的好物"
-||coolapk.com/v6/page/dataList?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_entities//
-||coolapk.com/v6/main/indexV?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_title//
-||coolapk.com/v6/feed/detail?$replace=/include_goods//
-!去除"什么值得买"
-||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
-!去除热搜
-||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
-||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
-!去除随机应用推荐
-||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
-!去除评论区下某广告
-||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||ug.snssdk.com^
 ||extlog.snssdk.com^
 ||bds.snssdk.com^
 ||in-addr.arpa^
-!快手AD
 !抖音
 ||d.toutiao.com^
 ||dm-hl.toutiao.com^
