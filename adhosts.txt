@@ -1014,7 +1014,6 @@
 127.0.0.1 s6.irs03.com
 127.0.0.1 sbkh5.z74d.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 sharechain.qq.com
 127.0.0.1 stat.funshion.net
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 static.g.pptv.com
