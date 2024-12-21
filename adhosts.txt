@@ -1884,7 +1884,6 @@
 127.0.0.1 dos-track.domob.cn
 127.0.0.1 douyu.grey.voiceads.cn
 127.0.0.1 downdload.shuzilm.cn
-127.0.0.1 download.alicdn.com
 127.0.0.1 download.sdk.mob.com
 127.0.0.1 download.sharesdk.mob.com
 127.0.0.1 download.shuzilm.cn
