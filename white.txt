@@ -4,7 +4,7 @@
 
 #阿里系软件下载
 @@||download.alicdn.com^$important
-#微云分享
+#QQ收藏
 @@||sharechain.qq.com^$important
 #百度手机助手网页版
 @@||ascdn.baidu.com^$important
