@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#抖音极速版表情
+@@||apischedule.ksyungslb.com^$important
 #阿里系软件下载
 @@||download.alicdn.com^$important
 #QQ收藏
