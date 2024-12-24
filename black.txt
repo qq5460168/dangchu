@@ -870,7 +870,6 @@ www.itdog.cn##.rounded-lg
 ||dm.toutiao.com^
 ||store.log.ksyun.com^
 ||p9-pack.byteimg.com^
-||*.ksyungslb.com^
 ||pds.pinduoduo.com^
 ||feed-image.baidu.com^
 ||afd.baidu.com^
