@@ -178,9 +178,6 @@
 ||data.bilibili.cn^
 ||broadcast.chat.bilibili.com^
 
-#X8沙箱
-||api.x8zs.com^$important
-
 #贴吧弹窗
 ||arm.z74d.cn^$important
 ||mine.z74d.com^$important
@@ -2914,6 +2911,14 @@ www.itdog.cn##.rounded-lg
 ||vayh.msxf.com^$important
 ||anyihua.msxf.com^$important
 ||msxf.com^$important
+#度小满
+||w1.dxmstatic.com^
+||umoney.dxmstatic.com^
+||bi-sensors.duxiaoman.com^
+||www.dxmpay.com^
+||app.duxiaomanfintech.com^
+||xindai.duxiaoman.com^
+||app.duxiaoman.com^
 
 #8680
 ||analyticsengine.s3.amazonaws.com^
