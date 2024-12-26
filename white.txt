@@ -2,11 +2,16 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+<<<<<<< HEAD
 #微信爱奇艺
 @@||m.iqiyi.com^$important
+=======
+#抖音极速版表情
+@@||apischedule.ksyungslb.com^$important
+>>>>>>> 1df2b9c2a14304b53827a56f1bb3f035215ef5ea
 #阿里系软件下载
 @@||download.alicdn.com^$important
-#微云分享
+#QQ收藏
 @@||sharechain.qq.com^$important
 #百度手机助手网页版
 @@||ascdn.baidu.com^$important
