@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#微信爱奇艺
+@@||m.iqiyi.com^$important
 #阿里系软件下载
 @@||download.alicdn.com^$important
 #微云分享
