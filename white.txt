@@ -2,13 +2,23 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
-<<<<<<< HEAD
+#微信相关↓
+#登陆域名
+@@||long.weixin.qq.com^$important
+@@||short.weixin.qq.com^$important
+#朋友圈图片
+@@||szmmsns.qpic.cn^$important
+@@||mmsns.qpic.cn^$important
+@@||shmmsns.qpic.cn^$important
+#表情消息
+@@||emoji.qpic.cn^$important
+#头像
+@@||wx.qlogo.cn^$important
+#微信相关↑
 #微信爱奇艺
 @@||m.iqiyi.com^$important
-=======
 #抖音极速版表情
 @@||apischedule.ksyungslb.com^$important
->>>>>>> 1df2b9c2a14304b53827a56f1bb3f035215ef5ea
 #阿里系软件下载
 @@||download.alicdn.com^$important
 #QQ收藏
