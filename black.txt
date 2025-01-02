@@ -1960,7 +1960,6 @@
 #18+不良网站
 ||21511.ua96.com^$important
 ||inews.gtimg.com^$important
-||cbu01.alicdn.com/img/ibank/*
 ||tyc20202.com^$important
 ||tu2.jinpaigz.com^$important
 ||o.fwmdafm.cn^$important
