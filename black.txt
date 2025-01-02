@@ -1275,7 +1275,6 @@
 ||httpdns.*.yy.com^
 ||*dns*.adobe.com
 ||httpsdns.baidu.com^
-||dns.alidns.com^
 ||doh.dns.apple.com^
 ||httpdns.danuoyi.tbcache.com^
 ||music.httpdns.c.163.com^
