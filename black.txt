@@ -1958,6 +1958,7 @@
 ||api.sa.hismarttv.com^
 
 #18+不良网站
+||奥门广场.com^
 ||21511.ua96.com^$important
 ||inews.gtimg.com^$important
 ||tyc20202.com^$important
