@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#1688网页版图片
+@@||cbu01.alicdn.com^$important
 #腾讯视频
 @@llpbaccess.video.qq.com^$important
 @@||a.video.qq.com^$important
