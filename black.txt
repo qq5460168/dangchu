@@ -2148,7 +2148,6 @@
 ||84652.net^$important
 ||t91772.xyz^$important
 ||api.cgyx.tv^$important
-||cbu01.alicdn.com^$important
 ||qianfan104.swesz.cn^$important
 ||c13.xn--gor54rzzhjt7b.xn--fiqs8s^$important
 ||ts1703360599.xn--gor54rzzhjt7b.xn--fiqs8s^$important
