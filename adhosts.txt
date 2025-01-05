@@ -1552,7 +1552,6 @@
 127.0.0.1 baobao.getui.com
 127.0.0.1 base-growth.soulapp.cn
 127.0.0.1 bazhua.igexin.com
-127.0.0.1 bbs-static.miyoushe.com
 127.0.0.1 bbs.mob.com
 127.0.0.1 bbu.umeng.com
 127.0.0.1 bc-ad-vod.zdmimg.com
@@ -2573,11 +2572,6 @@
 127.0.0.1 phone.getui.com
 127.0.0.1 phone.igexin.com
 127.0.0.1 pic-ad-ld.tupian1234.com
-127.0.0.1 pic.fastapi.net
-127.0.0.1 pic.feedsads.cn
-127.0.0.1 pic.rmb.bdstatic.com
-127.0.0.1 pic6.ajkimg.com
-127.0.0.1 pic640.weishi.qq.com
 127.0.0.1 pigeon.umeng.com
 127.0.0.1 pinghot.qq.com
 127.0.0.1 pitaya.bytedance.com
