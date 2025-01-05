@@ -2357,7 +2357,6 @@
 127.0.0.1 masterconn.qq.com
 127.0.0.1 maven.admobile.top
 127.0.0.1 mazu.3g.qq.com
-127.0.0.1 mbdp02.bdstatic.com
 127.0.0.1 mcd-mkt-prod31-lb.campaign.adobe.com
 127.0.0.1 me.bz.mgtv.com
 127.0.0.1 media-service-source.soulapp.cn
