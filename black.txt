@@ -1543,7 +1543,6 @@
 ||wan.baidu.com^
 ||youxi.baidu.com^
 ||adm.baidu.com^
-||hectorstatic.baidu.com^
 ||nadvideo2.baidu.com^
 ||techain.baidu.com^
 ||tcbox.baidu.com^
