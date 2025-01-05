@@ -6,6 +6,7 @@
 @@||bbs-static.miyoushe.com^$important
 #小米部件
 @@||store.assistant.miui.com^$important
+@@||cdn-f1.assistant.miui.com^$important
 #脚本之家
 @@||common.jbzj.com^$important
 #百度知道头像
