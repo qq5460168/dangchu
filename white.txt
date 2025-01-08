@@ -5,6 +5,7 @@
 #小米预警中心-地震预警
 @@||srv.sec.miui.com^$important
 #百度相关
+@@||himg.bdimg.com^$important
 @@||hectorstatic.baidu.com^$important
 @@||mbdp02.bdstatic.com^$important
 #米游社图标
