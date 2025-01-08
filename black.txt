@@ -1554,7 +1554,6 @@
 ||luimg.baidu.com^
 ||leads.baidu.com^
 ||r6.mo.baidu.com^
-||himg.bdimg.com^
 ||ossapi.baidu.com^
 ||res.mi.baidu.com^
 ||devicemgr.lebo.cn^
