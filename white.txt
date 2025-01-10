@@ -3,6 +3,7 @@
 ## 放行
 
 #微信公众号视频
+@@||apd-vlive.apdcdn.tc.qq.com^$important
 @@||apd-ugcvlive.apdcdn.tc.qq.com^$important
 #小米预警中心-地震预警
 @@||srv.sec.miui.com^$important
