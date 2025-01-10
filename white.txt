@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#微信公众号视频
+@@||apd-ugcvlive.apdcdn.tc.qq.com^$important
 #小米预警中心-地震预警
 @@||srv.sec.miui.com^$important
 #百度相关
