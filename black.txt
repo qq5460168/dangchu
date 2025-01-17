@@ -823,7 +823,6 @@
 ||info.zb.qq.com^
 ||bk.info.zb.qq.com^
 ||astrategy.beacon.qq.com^
-||apd-vlive.apdcdn.tc.qq.com^
 ||analytics.map.qq.com^
 ||log.tbs.qq.com^
 ||aeventlog.beacon.qq.com^
