@@ -2,6 +2,48 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 
+127.0.0.1 9ibbcq2d.sina.cn
+127.0.0.1 ad-reward.play.aiseet.atianqi.com
+127.0.0.1 ad.daztoutiao.com
+127.0.0.1 admonitor-feedback.cn-hangzhou.log.aliyuncs.com
+127.0.0.1 ads.api.fakeloc.cc
+127.0.0.1 ads.cup.com.cn
+127.0.0.1 adtrack.quark.cn
+127.0.0.1 adx-open-service.youku.com
+127.0.0.1 apiv4-iyes.youku.com
+127.0.0.1 ares.guazi.com
+127.0.0.1 beacon.cdn.qq.com
+127.0.0.1 c-oneid.gepush.com
+127.0.0.1 c.tobidad.cn
+127.0.0.1 ca.zol.com.cn
+127.0.0.1 cad.youku.com
+127.0.0.1 coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 datacollection.uve.weibo.com
+127.0.0.1 fastimage.uve.weibo.com
+127.0.0.1 growth-tracker.guazi.com
+127.0.0.1 h5-oneid.gepush.com
+127.0.0.1 l6urqh27.sina.cn
+127.0.0.1 m-vali.cp31.ott.cibntv.net
+127.0.0.1 mc.atm.youku.com
+127.0.0.1 minislugger.qunar.com
+127.0.0.1 mixer.sina.cn
+127.0.0.1 mmjs.adutp.com
+127.0.0.1 odin.sohu.com
+127.0.0.1 open-cms-api.quark.cn
+127.0.0.1 pigeon.alicdn.com
+127.0.0.1 pre-acs.youku.com
+127.0.0.1 puds.quark.cn
+127.0.0.1 qgnu18wo.sina.cn
+127.0.0.1 shuzilm-android-uni.guazi.com
+127.0.0.1 spider-tracker.xiaohongshu.com
+127.0.0.1 splash-online-decision.xiaohongshu.com
+127.0.0.1 tbexpand.alicdn.com
+127.0.0.1 track.lc.quark.cn
+127.0.0.1 track.sohu.com
+127.0.0.1 tracker.yfanads.com
+127.0.0.1 vv6.video.qq.com
+127.0.0.1 ykad-data.youku.com
+127.0.0.1 ymjs.adutp.com
 127.0.0.1 abtest3-misc-lf.zijieapi.com
 127.0.0.1 ads-drcn.platform.hihonorcloud.com
 127.0.0.1 ads-log.huolala.cn
@@ -30,7 +72,6 @@
 127.0.0.1 tnc0-aliec2.zijieapi.com
 127.0.0.1 wap.duxiaoman.com
 127.0.0.1 webcast5-open-lf.douyin.com
-127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 www-ads.huolala.co
 127.0.0.1 www.paydxm.com
 127.0.0.1 youxi.gamecenter.qq.com
@@ -1652,7 +1693,6 @@
 127.0.0.1 cdn.cn.miaozhen.com
 127.0.0.1 cdn.read.html5.qq.com
 127.0.0.1 cdn.unityads.unity3d.com
-127.0.0.1 cdn.yinxiang.com
 127.0.0.1 cdp.jiguang.cn
 127.0.0.1 cds.wifi188.com
 127.0.0.1 ce10aa.d2api.shuzilm.cn
@@ -2481,7 +2521,6 @@
 127.0.0.1 ocpx.adwangmai.com
 127.0.0.1 ocx.umeng.com
 127.0.0.1 og.mmstat.com
-127.0.0.1 oimagec4.ydstatic.com
 127.0.0.1 oimsgad.qq.com
 127.0.0.1 onrt-stsdk.vivoglobal.com
 127.0.0.1 onrt.stsdk.vivoglobal.com
@@ -4605,7 +4644,6 @@
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 sdk-ab-config.aiclk.com
 127.0.0.1 sdk-api-v1.singular.net
-127.0.0.1 sdk-api.beizi.biz
 127.0.0.1 sdk-event.beizi.biz
 127.0.0.1 sdk-infra.inmobi.cn
 127.0.0.1 sdk-ipv6.beizi.biz
