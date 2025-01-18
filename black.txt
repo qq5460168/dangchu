@@ -32,7 +32,6 @@
 ||snssdk.com^
 ||security.snssdk.com^
 ||aweme.snssdk.com^
-||ib.snssdk.com^
 ||toblog.ctobsnssdk.com^$app=com.pcncn.jj
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
@@ -55,7 +54,6 @@
 ||abtest-ch.snssdk.com^
 ||tv.snssdk.com^
 ||toblog.ctobsnssdk.com^
-||is.snssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||pangolin.snssdk.com/api/ad/*^
 ||reading.snssdk.com/cloudpush/update_sender*^
@@ -80,7 +78,6 @@
 ||extlog.snssdk.com^
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
-||haohuo.snssdk.com^
 ||ic.snssdk.com^
 ||ug.snssdk.com^
 ||extlog.snssdk.com^
@@ -143,7 +140,6 @@
 ||polaris3-normal-lq.zijieapi.com^
 ||ad.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
-||minigame.zijieapi.com^
 ||mcs.zijieapi.com^
 ||mssdk3-normal-lq.zijieapi.com^
 ||feedback-c.zijieapi.com^
@@ -189,7 +185,6 @@
 ||audid.umeng.com^
 ||cnlogs.umeng.com^
 ||*umeng.com^
-||umengacs.m.taobao.com^
 ||aaid.umeng.com^
 ||ulogs.umengcloud.com.gds.alibabadns.com^
 ||alog-default.umeng.com^
@@ -226,7 +221,6 @@
 ||uop.umeng.com^
 
 # 头条相关
-||d.toutiao.com^
 ||dm-hl.toutiao.com^
 ||dsp.toutiao.com^
 ||nativeapp.toutiao.com^
@@ -361,7 +355,6 @@
 ||info.mina.xiaoaisound.com^
 ||h5.tv.mi.com^
 ||o2o.api.xiaomi.com^
-||tracker.ai.xiaomi.com^
 ||api.installer.xiaomi.com^$important
 ||www.yunzhanxinxi.com^
 ||www.sufeinet.com^
@@ -373,7 +366,6 @@
 ||api.miui.security.xiaomi.com^
 ||api.installer.xiaomi.com^
 ||api.ad.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||diagnosis.ad.xiaomi.com^
 ||api.installer.xiaomi.com^
 ||a0.app.xiaomi.com^
@@ -572,7 +564,6 @@
 ||static-s.iqiyi.com^
 ||ards.iqiyi.com^
 ||access.if.iqiyi.com^
-||cards.iqiyi.com^
 ||ads.game.iqiyi.com^
 ||kjp.cupid.iqiyi.com^
 ||meta.video.iqiyi.com^
@@ -649,7 +640,6 @@
 #淘宝
 ||tmallequity.taobao.com^
 ||adash.m.taobao.com^
-||mos.m.taobao.com^
 ||adashbc.m.taobao.com^
 ||c-adash.m.taobao.com^
 ||m-adash.m.taobao.com^
@@ -663,7 +653,6 @@
 ||trade.taobao.com^
 ||taobao.qq.com^
 ||amdcopen.m.taobao.com^
-||acs.m.taobao.com^
 ||sjarvis.taobao.com^
 ||h-adashx.ut.taobao.com^
 ||adashx.m.taobao.com^
@@ -721,7 +710,6 @@
 ||tianshu.qq.com^
 ||services.xiangji.qq.com^
 ||xscdn.gdt.qq.com^
-||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||lcsdk.3g.qq.com^
 ||pmir.3g.qq.com^
@@ -740,10 +728,7 @@
 ||c.isdspeed.qq.com^
 ||logsdk.qq.com^
 ||omgmta.qq.com^
-||pingfore.qq.com^
-||pingjs.qq.com^
 ||pingma.qq.com^
-||pingtcss.qq.com^
 ||api.playlet.qq.com^
 ||api.tencentmusic.com^
 ||pgdt.gtimg.cn^
@@ -802,7 +787,6 @@
 ||canary-acc.video.qq.com^
 ||video-mobile-tech-*.shiply-cdn.qq.com^
 ||snowflake.qq.com^
-||appsupport.qq.com^
 ||omgid.qq.com^
 ||acc.qq.com^
 ||richmedia.video.qq.com^
@@ -867,7 +851,6 @@
 ||boss.qzone.qq.com^
 ||c.gdt.qq.com^
 ||c.gj.qq.com^
-||c.pc.qq.com^
 ||c.ssp.qq.com^
 ||c2.gdt.qq.com^
 ||caclick.qq.com^
@@ -1133,7 +1116,6 @@
 ||p2.l.qq.com^
 ||p3.l.qq.com^
 ||pcbrowser.dd.qq.com^
-||pinghot.qq.com^
 ||pingmid.qq.com^
 ||pingtas.qq.com^
 ||push.pgl.qq.com^
@@ -1208,7 +1190,6 @@
 ||access*.tpns.tencent.com^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
 ||report.tencentmusic.com^
-||adstats.tencentmusic.com^
 ||ad.tencentmusic.com^
 ||adcdn.tencentmusic.com^
 ||adexpo.tencentmusic.com adclick.tencentmusic.com^
@@ -2471,7 +2452,6 @@ www.itdog.cn##.rounded-lg
 ||adstracking.shuwenkeji.cn^
 ||h5vv.play.aiseet.atianqi.com^
 ||uploads1.ksapisrv.com^
-||adsmind.gdtimg.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||render-server.cdn.bcebos.com^
 ||*.retail.n.weimob.com^
@@ -2660,7 +2640,6 @@ www.itdog.cn##.rounded-lg
 ||api-cn.open.heytapmobi.com^
 ||*.ads.heytapmobi.com^
 ||*/guest/statuses_extend*^
-||wbapp.mobile.sina.cn^
 ||adimg.uve.weibo.com^
 ||adstrategy.biz.weibo.com^
 ||bootpreload.uve.weibo.com^
@@ -2954,7 +2933,6 @@ www.itdog.cn##.rounded-lg
 ||touch-moblie.com^
 ||cn-fp.apitd.net^
 ||dutils.com^
-||sm.cn^
 ||irs03.com^
 ||shuzilm.cn^
 ||as.yyymvp.com^
@@ -3171,8 +3149,6 @@ www.itdog.cn##.rounded-lg
 ||uploads2.gifshow.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
 ||xmadsdk.cos.tx.xmcdn.com^
-||ads-video-1251524319.cos.ap-shanghai.myqcloud.com^
-||adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com^
 ||configv2.unityads.unitychina.cn^
 ||monitor.ads.8le8le.com^
 ||auth-uploads.dhcc.wang^
