@@ -1423,9 +1423,9 @@ b站视频加载
 #QQ安全中心
 @@||aq.qq.com^
 #QQ头像
-@@||#pgdt.gtimg.cn^
+@@||pgdt.gtimg.cn^
 #美团外卖
-@@||#pingma.qq.com^
+@@||pingma.qq.com^
 #MIUI手机管家
 @@||data.sec*.miui.com^
 @@||www.data.sec*.miui.com^
@@ -1453,7 +1453,6 @@ b站视频加载
 @@||register*mi.com^
 @@||resolver*mi.com^
 @@||app.chat.xiaomi.net^
-@@||*?.mistat.xiaomi.com^
 @@||abtest.mistat.xiaomi.com^
 @@||cn.register.xmpush.xiaomi.com^
 @@||idmb.register.xmpush.global.xiaomi.com^
@@ -1462,9 +1461,9 @@ b站视频加载
 @@||register.xmpush.global.xiaomi.com^
 #部分设备的小米云服务
 #小米云备份
-@@||#a0.app.xiaomi.com^
-@@||#api.ad.xiaomi.com^
-@@||#globalapi.ad.xiaomi.com^
+@@||a0.app.xiaomi.com^
+@@||api.ad.xiaomi.com^
+@@||globalapi.ad.xiaomi.com^
 #QQ浏览器插件误杀
 @@||tbsone.imtt.qq.com^
 #UC浏览器网盘
