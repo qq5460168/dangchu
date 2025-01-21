@@ -1818,20 +1818,6 @@
 ||kmwatsonc.events.data.microsoft.com^
 ||umwatsonc.events.data.microsoft.com^
 
-#安逸花
-||vayh.msxf.com^$important
-||anyihua.msxf.com^$important
-||msxf.com^$important
-
-#度小满
-||w1.dxmstatic.com^
-||umoney.dxmstatic.com^
-||bi-sensors.duxiaoman.com^
-||www.dxmpay.com^
-||app.duxiaomanfintech.com^
-||xindai.duxiaoman.com^
-||app.duxiaoman.com^
-
 ##酷喵TV
 ||yk-ssp-ad.cp12.wasu.tv^
 ||valfatm.cp12.wasu.tv^
@@ -1931,6 +1917,24 @@
 ||api.chcatv.hismarttv.com^
 ||api.eu.hismarttv.com^
 ||api.sa.hismarttv.com^
+
+#安逸花
+||vayh.msxf.com^$important
+||anyihua.msxf.com^$important
+||msxf.com^$important
+
+#度小满
+||w1.dxmstatic.com^
+||umoney.dxmstatic.com^
+||bi-sensors.duxiaoman.com^
+||www.dxmpay.com^
+||app.duxiaomanfintech.com^
+||xindai.duxiaoman.com^
+||app.duxiaoman.com^
+||duxiaoman.com^
+
+
+#
 
 #18+不良网站
 ||奥门广场.com^
