@@ -1952,6 +1952,13 @@
 #360借贷
 ||xjietiao.com^$important
 ||360shuke.com^$important
+#分期乐
+||www.fenqile.com^$important
+||opengw.xiaoying.com^$important
+#小赢
+||cardloan.xiaoying.com^$important
+#快贷
+||www.cdkuaidai.com^$important
 
 #18+不良网站
 ||奥门广场.com^
