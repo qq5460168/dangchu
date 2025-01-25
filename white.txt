@@ -1291,7 +1291,6 @@ b站视频加载
 @@||img.zuoyebang.cc^$important
 @@||t5.a.market.xiaomi.com^$important
 @@||mb.yidianzixun.com^$important
-@@||githubusercontent.com^$important
 @@||activity.tuiapple.com^$important
 @@||m.manhuabei.com^$important
 @@||www.manhuabei.com^$important
