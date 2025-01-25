@@ -108,7 +108,6 @@
 127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 movies.ttwifi.net
 127.0.0.1 p3.dcarimg.com
-127.0.0.1 p3.douyinpic.com
 127.0.0.1 p6-webcast.douyinpic.com
 127.0.0.1 qadx.qinlinad.com
 127.0.0.1 rapi.cmgadx.com
