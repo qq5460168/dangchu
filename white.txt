@@ -6,6 +6,7 @@
 @@||brand.heytap.com^$important
 #欢太软件商店
 @@||storedl1.nearme.com.cn^$important
+@@||api-cn.cdo.heytapmobi.com^$important
 #直播吧
 @@||m.zhibo8.com^$important
 #喜番短剧
