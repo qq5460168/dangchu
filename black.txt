@@ -1775,7 +1775,6 @@
 ||oppo.mobi^
 ||aibreeno.com^
 ||xiaobool.com^
-||nearme.com.cn^
 
 #米哈游
 ||ad-log-upload-os.hoyoverse.com^
