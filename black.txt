@@ -1766,7 +1766,6 @@
 ||wanyol.com^
 ||oplustrust.com^
 ||vayol.com^
-||heytap.com^
 ||familyincloud.com^
 ||breenomeet.cc^
 ||heytapugc.com^
