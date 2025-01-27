@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#日历网
+@@||gl.zle.com^$important
 #百度支付接口
 @@||www.dxmpay.com^$important
 #欢太官网
