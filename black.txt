@@ -1924,7 +1924,6 @@
 ||w1.dxmstatic.com^
 ||umoney.dxmstatic.com^
 ||bi-sensors.duxiaoman.com^
-||www.dxmpay.com^
 ||app.duxiaomanfintech.com^
 ||xindai.duxiaoman.com^
 ||app.duxiaoman.com^
