@@ -1941,8 +1941,6 @@
 ||s.webank.com^$important
 #携程金融
 ||t.ctrip.cn^$important
-#京东金融
-||3.cn^$important
 #天星金融
 ||help.jr.mi.com^$important
 ||f.airstar.com^$important
