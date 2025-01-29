@@ -636,6 +636,8 @@
 ||xpgw-xcdn.youku.com^
 ||adx-core.youku.com^
 ||iyes.youku.com^
+||ipm.atm.youku.com^
+||ems.youku.com^
 
 #淘宝
 ||tmallequity.taobao.com^
@@ -1472,6 +1474,7 @@
 ||qm-data.wtzw.com^
 ||api-sc.wtzw.com^
 ||api-gw.wtzw.com^
+||sm.cn^
 
 #Migu | 咪咕
 ||ggx01.miguvideo.com^
@@ -2436,6 +2439,9 @@ www.itdog.cn##.rounded-lg
 ||loggw.alipay.com.cn^
 ||tracker.didistatic.com^
 ||dotserver.douyucdn.cn^
+#讯飞输入法
+||s*voicecloud.cn^
+||wcp.taobao.com^
 #拷贝漫画
 ||adx-data.yfanads.com^
 ||abe.ymmiyun.com^
