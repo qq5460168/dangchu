@@ -1424,7 +1424,6 @@
 ||adservice.google.com^
 ||ads.google.com^
 ||doubleclick.net^
-||jnn-pa.googleapis.com^
 ||googlesyndication.com^
 ||click.googleanalytics.com^
 ||ssl.google-analytics.com^
