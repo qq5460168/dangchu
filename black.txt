@@ -3551,4 +3551,45 @@ www.itdog.cn##.rounded-lg
 
 #X8沙箱
 ||api.x8zs.com^$important
-
+#福利网站去广告
+#https://qa666.xyz?tg=1959655
+||www.govchengdu.cn^
+||aig.aigzg.com^
+||pv.dakawm.cc^
+||www.govxian.cn^
+#Logolabn去广告
+||kksdk.tapque.com^
+||omsdkapi.tapque.com^
+||sdk.kkpromotion.tapque.com^
+#appcake去广告
+||sdk.adtiming.com^
+#网络播放去广告
+||googleads.g.doubleclick-cn.net^
+||ap.91adv.com.cn^
+#快活
+||search1.kuaihuoapi.com^
+#阅友去广告
+||ads.reader.yueyouxs.com^
+#人人视频
+||mdapi.opsvwa.xyz^
+||mdapi.lyvsas.fun^
+||mdapi.mdlzyx.me^
+||avapp.calvapib.me^
+||avapp.calvapic.me^
+||avapp.calvapid.me^
+||eleven.bayescom.cn^
+||cloudconf.fengkongcloud.com^
+||adashxgc.ut.taobao.com^
+||www.qchannel01.cn^
+||av1.xdrig.com^
+#小小影视去广告
+||acf.huaerdadi.com^
+||p.juxuyun.com^
+# 绕过企业证书过期
+||ocsp.apple.com^
+#YouTube 去底部广告
+||ehg-youtube.hitbox.com^
+# 避免迅雷版权问题
+||hub5idx.v6.shub.sandai.net^
+||hub5emu.v6.shub.sandai.net^
+||hub5btmain.v6.shub.sandai.net^
