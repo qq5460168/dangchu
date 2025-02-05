@@ -788,7 +788,6 @@
 ||monitor.l.qq.com^
 ||canary-acc.video.qq.com^
 ||video-mobile-tech-*.shiply-cdn.qq.com^
-||snowflake.qq.com^
 ||omgid.qq.com^
 ||acc.qq.com^
 ||richmedia.video.qq.com^
