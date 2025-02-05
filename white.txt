@@ -1194,7 +1194,6 @@ b站视频加载
 @@||qun.qzone.qq.com^$important
 !qq音乐畅听广告
 @@||adstats.tencentmusic.com^$important
-@@||adsmind.gdtimg.com^$important
 @@||v.gdt.qq.com^$important
 !网易系
 @@||passport.youdao.com^$important
