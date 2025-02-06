@@ -1,4 +1,7 @@
-﻿! Title: 去广告规则，反馈🐧群请点击主页
+﻿[个人维护]
+! Title: 去广告规则，反馈🐧群请点击主页
+! Homepage: https://github.com/qq5460168/666
+! Expires: 12 Hours
 ! Homepage: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WmWX4G6Sk1-J1GwHX3qA13i_1gxIazOK&authKey=5DlhX4GFrjJI%2BHWs4odOSwQL%2F9Kr0yKLOH50a1oQJkKwl0GU88C%2BhvtUoG636WOi&noverify=0&group_code=930869948
 
 ##哔哩哔哩
@@ -445,7 +448,6 @@
 ||p3.adkwai.com^
 ||p1-lm.adkwai.com^
 ||open.kwaizt.com^
-||api.kwaizt.com^
 ||*-*.ad*kwai.com^
 ||p*-*.adkwai.com^
 ||ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com^
@@ -467,10 +469,8 @@
 ||ad.v6.kuaishou.cn^
 ||open.kuaishouzt.com^
 ||api.kuaishouzt.com^
-||api.e.kuaishou.com^
 ||sentry.kuaishou.com^
 ||ad.e.kuaishou.com^
-||api.e.kuaishou.cn^
 ||game.e.kuaishou.com^
 
 # Kugou | 酷狗音乐
