@@ -559,7 +559,6 @@
 ||iqid.iqiyi.com^
 ||vertical-play.iqiyi.com^
 ||muses-ugc.iqiyi.com^
-||static-s.iqiyi.com^
 ||ards.iqiyi.com^
 ||access.if.iqiyi.com^
 ||ads.game.iqiyi.com^
@@ -2515,9 +2514,7 @@ www.itdog.cn##.rounded-lg
 ||p3-stone-tv.byteimg.com^
 ||fp-upload.dun.163.com^
 ||bid-adx.vlion.cn^
-||dss0.bdstatic.com^
 ||spcsz.cdn.bcebos.com^
-||113-116-50-196-yf81c2bb.nodeedge.cn:9512^
 ||api.afdback.ppsimg.com^
 ||nj.cschannel.anticheatexpert.com^
 ||az2-api-js.gifshow.com^
