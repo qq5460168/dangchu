@@ -368,10 +368,8 @@
 ||cn.register.xmpush.xiaomi.com
 ||api.miui.security.xiaomi.com^
 ||api.installer.xiaomi.com^
-||api.ad.xiaomi.com^
 ||diagnosis.ad.xiaomi.com^
 ||api.installer.xiaomi.com^
-||a0.app.xiaomi.com^
 ||ad.mi.com^
 ||ad1.xiaomi.com^
 ||ad.xiaomi.com^
@@ -625,7 +623,6 @@
 ||yk-ssp.ad.youku.com^
 ||cad.youku.com^
 ||ykad-data.youku.com^
-||activity.youku.com^
 ||youku-jmacs.m.taobao.com^
 ||mus-nettech.youku.com^
 ||h-adashx.ut.youku.com^
@@ -1461,7 +1458,6 @@
 ||castatic.fengkongcloud.com^
 ||a-qmad.qm989.com^
 ||t-qmad.qimao.com^
-||static.yximgs.com^
 ||ssp.maplehaze.cn^
 ||update.wtzw.com^
 ||tracelog-debug.aiclk.com^
@@ -1503,7 +1499,6 @@
 ||bdlog.tanx.com^
 ||lcs.baidu.com^
 ||sptest.baidu.com^
-||f7.baidu.com^
 ||api7.tuisong.baidu.com^
 ||sofire.baidu.com^
 ||sofire-dr.baidu.com^
@@ -3163,7 +3158,6 @@ www.itdog.cn##.rounded-lg
 ||a6-remad.qm989.com^
 ||apmplus.volces.com^
 ||fapi.xdrun.com^
-||thirdwx.qlogo.cn^
 ||oss-asq-download.11222.cn^
 ||log.umsns.com^
 ||render-resource.11222.cn^
