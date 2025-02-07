@@ -2,7 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
-
+#百度天气图标
+@@||dss0.bdstatic.com^$important
 #快手图标
 @@||ali.static.yximgs.com^$important
 #快手头像
@@ -74,6 +75,7 @@
 @@||wx.qlogo.cn^$important
 #微信相关↑
 #微信爱奇艺
+@@||static-s.iqiyi.com^$important
 @@||m.iqiyi.com^$important
 #抖音极速版表情
 @@||apischedule.ksyungslb.com^$important
@@ -157,6 +159,7 @@
 #123网盘app
 @@||sdk-api.beizi.biz^$important
 #B站
+@@||broadcastlv.chat.bilibili.com^
 @@||app.bilibili.com^$important
 #盒子定位
 @@||restapi.amap.com^$important
@@ -382,12 +385,17 @@
 @@||stats.gc.apple.com^
 ! > 小米
 @@||resolver.msg.xiaomi.net^
+!小米隐私政策撤回同意
+@@||data.sec.miui.com^
 ! > 腾讯
 @@||l.qq.com^
 @@||yunjiasu.com^
 ! > > 应用宝
 @@||sqdd.myapp.com^
 ! > > 微信
+@@||shminorshort.weixin.qq.com^
+@@||support.weixin.qq.com^
+@@||minorshort.weixin.qq.com^
 @@||szlong.weixin.qq.com^
 ! > > 手机QQ
 ! 查找好友加载页面
@@ -437,6 +445,7 @@
 @@||orbit.jd.com^
 @@||wl.jd.com^
 ! > 网易
+@@||webzjcaptcha.reg.163.com^
 @@||api.iplay.163.com^
 ! > > 网易云音乐
 ! 云贝签到
@@ -530,7 +539,13 @@ similarweb.com^
 ! > 同盾
 @@||fp.tongdun.net^
 @@||fraudmetrix.cn^
-
+!ofiii
+@@||cdi.ofiii.com^
+@@||fino.svc.litv.tv^
+!携程移动端主页
+@@||m.ctrip.com^
+!华为账号登录
+@@||oauth-login-drcn.platform.dbankcloud.com^
 # 小米社区
 @@||web.vip.miui.com^$important
 # twitter
@@ -1334,12 +1349,7 @@ b站视频加载
 @@||ip.rtbasia.com^
 @@||c.pc.qq.com^
 
-# _  ___   ___ _____ 
-#/ |/ _ \ / _ \___  |
-#| | | | | | | | / / 
-#| | |_| | |_| |/ /  
-#|_|\___/ \___//_/   
-#                    
+                   
 #手机搜狗输入法
 @@||shouji.sougou.com^
 #MIUI 流量中心
