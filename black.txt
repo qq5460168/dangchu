@@ -3204,6 +3204,10 @@ www.itdog.cn##.rounded-lg
 ||ad-r.soulapp.cn^
 ||v*-ad.video.yximgs.com^
 ||soul-ad.soulapp.cn^
+||ads.soulapp.cn^
+||tracker.soulapp.cn^
+||s0n9app.com^
+||ad.duapps.com^
 ||mkt-advertisement.tuhu.cn^
 ||advert.swiftpass.cn^
 ||mktadsodr.ppdai.com^
