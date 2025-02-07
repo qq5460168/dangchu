@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#喵酷扫描登录
+@@||qr.cp31.ott.cibntv.net^$important
+@@||heyi-acs.cp31.ott.cibntv.net^$important
+
 #金铲铲之战登录
 @@||ios.crashsight.qq.com^$important
 @@||szminorshort.weixin.qq.com^$important
