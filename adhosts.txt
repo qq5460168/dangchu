@@ -1004,7 +1004,6 @@
 127.0.0.1 fmg.aty.sohu.com
 127.0.0.1 g.jssdk.net
 127.0.0.1 gas.data.pplive.com
-127.0.0.1 heyi-acs.cp31.ott.cibntv.net
 127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 image.9xsecndns.cn
 127.0.0.1 img.toponad.com
