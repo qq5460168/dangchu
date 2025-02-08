@@ -1981,6 +1981,21 @@
 ||longshangxiaodai.cn^$important
 #钱多多
 ||d.com.cn^$important
+#分期乐
+||action.fenqile.com^$important
+||cres.fenqile.cn^$important
+||cresauth.fenqile.cn^$important
+||cresauth2.fenqile.cn^$important
+||dc.fenqile.com^$important
+||coss-shark-down.fenqile.com^$important
+#乐享借
+||xcwl.tech^$important
+||web.xurongwl.com^$important
+||apk.xurongwl.com^$important
+||upload.xurongwl.com^$important
+#微银信用
+||yxth5.wuzhouali.top^$important
+||yxtapi.wuzhouali.top^$important
 
 #18+不良网站
 ||奥门广场.com^
