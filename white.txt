@@ -341,6 +341,10 @@
 @@||ichnaea-web.netflix.com^$important
 #大师兄
 @@||sdk.alibaba.com.ailbaba.me^$important
+##Omofun
+@@||pic2.zhimg.com^
+@@||lf6-imcloud-file-sign.bytetos.com^
+@@||lf3-imcloud-file-sign.bytetos.com^
 #视频app
 @@||fs-im-kefu.7moor-fs1.com^$important
 #领红包封面
@@ -1009,7 +1013,14 @@ b站视频加载
 @@||tbm-auth.alicdn.com^$important
 #皮皮虾评论区发图
 @@||z.weixin.qq.com^$important
-#懂车帝一些图片加载
+#懂车帝
+@@||p1-dcd.byteimg.com^
+@@||p3-dcd.byteimg.com^
+@@||p9-dcd.byteimg.com^
+@@||p3-dcd-sign.byteimg.com^
+@@||p6-dcd-sign.byteimg.com^
+@@||p9-dcd-sign.byteimg.com^
+@@||open.bytedanceapi.com^
 @@||p3.dcarimg.com^$important
 #淘宝的一个主要域名
 @@||trade-acs.m.taobao.com^$important
