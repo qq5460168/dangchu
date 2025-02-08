@@ -1982,6 +1982,7 @@
 #钱多多
 ||d.com.cn^$important
 #分期乐
+||cresauth1.fenqile.cn^$important
 ||action.fenqile.com^$important
 ||cres.fenqile.cn^$important
 ||cresauth.fenqile.cn^$important
@@ -1996,6 +1997,10 @@
 #微银信用
 ||yxth5.wuzhouali.top^$important
 ||yxtapi.wuzhouali.top^$important
+#借钱呗
+||jqbapiweb.wzyzxedkgs.com^$important
+||jqb.wzyzxedkgs.com^$important
+
 
 #18+不良网站
 ||奥门广场.com^
