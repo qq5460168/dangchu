@@ -18,6 +18,7 @@
 #金铲铲之战登录
 @@||ios.crashsight.qq.com^$important
 @@||szminorshort.weixin.qq.com^$important
+@@||snowflake.qq.com^$important
 #油管缓存
 @@||jnn-pa.googleapis.com^$important
 #日历网
