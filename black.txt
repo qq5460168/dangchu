@@ -2531,7 +2531,6 @@ www.itdog.cn##.rounded-lg
 ||bid-adx.vlion.cn^
 ||spcsz.cdn.bcebos.com^
 ||api.afdback.ppsimg.com^
-||nj.cschannel.anticheatexpert.com^
 ||az2-api-js.gifshow.com^
 ||az2-upload-js.gifshow.com^
 ||beta2-ad-open-api.test.gifshow.com^
