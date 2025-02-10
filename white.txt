@@ -5,10 +5,8 @@
 <<<<<<< HEAD
 #微信公众号视频号
 @@||finderpdd.video.qq.com^$important
-=======
 #银河互联网网络电视
 @@||gitv.tv^$important
->>>>>>> 3c1f78ccc0a0d547cec36aeefb467e5ebb39ef5a
 #百度天气图标
 @@||dss0.bdstatic.com^$important
 #快手图标
