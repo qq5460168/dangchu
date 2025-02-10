@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#银河互联网网络电视
+@@||gitv.tv^$important
 #百度天气图标
 @@||dss0.bdstatic.com^$important
 #快手图标
