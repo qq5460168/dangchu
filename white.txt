@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/qq5460168/me
 ## 放行
 
+#微信公众号视频号
+@@||finderpdd.video.qq.com^$important
 #百度天气图标
 @@||dss0.bdstatic.com^$important
 #快手图标
