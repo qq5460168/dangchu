@@ -522,6 +522,8 @@
 @@||qappcenterv6.3g.qq.com^$important
 #腾讯游戏
 @@||msdk.qq.com^$important
+#微视视频封面
+@@||pic640.weishi.qq.com^$important
 #QQ群在线文档
 @@||pub.idqqimg.com^$important
 @@||docs.idqqimg.com^$important
