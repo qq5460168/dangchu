@@ -910,7 +910,6 @@
 ||p.ssp.qq.com^
 ||pacaio.match.qq.com^
 ||pagespeed.report.qq.com^
-||pic640.weishi.qq.com^
 ||pnewsapp.tc.qq.com^
 ||prom.b.qq.com^
 ||ps.browser.qq.com^
