@@ -1285,7 +1285,12 @@ b站视频加载
 @@||q3.jia.360.cn^$important
 @@||browser.360.cn^$important
 @@||dot.360.cn^$important
-
+#360小游戏图标
+@@||imgx.mediav.com^$important
+#360热点
+@@||www.360kuai.com^$important
+@@||360kuai.com^$important
+@@||img.360kuai.com^$important
 #360升级
 @@||update.360safe.com^
 @@|down.360safe.com^
