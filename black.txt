@@ -340,8 +340,6 @@
 ||p9-sign.douyinpic.com^
 ||p11-webcast-sign.douyinpic.com^
 ||webcast5-open-hl.douyin.com^
-||p3-webcast.douyinpic.com^
-||p3-webcast-sign.douyinpic.com^
 ||webcast5-open-lq.douyin.com^
 ||lf3-webcastcdn-tos-sign.douyinstatic.com^
 ||pull-flv-f13.douyincdn.com^
