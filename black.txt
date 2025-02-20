@@ -1922,6 +1922,8 @@
 ||duxiaoman.com^
 #众安金融
 ||wm4.cn^$important
+||tfrpapi.shanghaihagai.com^$important
+||n4q.cn^$important
 #马上消费
 ||u.msxf.com^$important
 #滴滴数科
