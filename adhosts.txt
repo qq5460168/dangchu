@@ -492,7 +492,6 @@
 127.0.0.1 v6-dcar-ad.dcarvod.com
 127.0.0.1 v9-dcar-ad.dcarvod.com
 127.0.0.1 world.qpic.cn
-127.0.0.1 wximg.wxs.qq.com
 127.0.0.1 wxsmw.wxs.qq.com
 127.0.0.1 yybadaccess.3g.qq.com
 127.0.0.1 gw.365you.com
@@ -1254,7 +1253,6 @@
 72.247.96.248 i.pinimg.com
 127.0.0.1 iab-imp-gateway.supersonicads.com
 127.0.0.1 imageads.codoon.com
-127.0.0.1 img.alicdn.com
 127.0.0.1 impression.appsflyer.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
