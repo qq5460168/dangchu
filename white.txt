@@ -1,6 +1,8 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
+# 放行青柠起始页
+@@||limestart.cn^
 #kimi智能助手
 @@||prod-chat-kimi-tos.moonshot.cn
 #adobe
@@ -55,6 +57,16 @@
 # 搜狗输入法
 @@||input.shouji.sogou.com^$important
 @@||worldwide.sogou.com^$important
+# 放行搜狗相关内容
+! 搜索引擎网页布局
+@@||search.sogoucdn.com^
+! 搜索结果图片加载＆搜狗百科图片加载
+@@||img.sogoucdn.com^
+@@||pic.baike.soso.com^
+@@||img01.sogoucdn.com^
+@@||img02.sogoucdn.com^
+@@||img03.sogoucdn.com^
+@@||img04.sogoucdn.com^
 #墨墨背单词
 @@||www.maimemo.com^$important
 #Blogger
@@ -159,6 +171,8 @@
 @@||duote.com^
 ! > >迅雷
 @@||api-shoulei-ssl.xunlei.com^
+# 放行迅雷下载加速
+@@||hub5btmain.v6.shub.sandai.net^
 ! > 查询
 @@||7x24s.com^
 @@||mac.bmcx.com^
@@ -176,6 +190,19 @@
 ! 谷歌
 @@||csi.gstatic.com^
 @@||googleadservices.com^
+# 放行Google play商店应用下载接口
+@@||*.xn--ngstr-lra8j.com^
+# 放行Google登录界面布局
+! 拦截后点击按钮无反应
+# 放行Google部分网页布局
+! Google搜索右上角头像菜单显示
+# 放行Google搜索移动端相关内容
+! 网页提示登录时的Logo
+! 搜索结果内容预览图片接口＆平台Logo加载
+@@||encrypted-tbn0.gstatic.com^
+@@||encrypted-tbn1.gstatic.com^
+@@||encrypted-tbn2.gstatic.com^
+@@||encrypted-tbn3.gstatic.com^
 ! > 蜗牛
 @@||woniu.com^
 ! > 千橡
@@ -350,6 +377,105 @@
 @@||gl.zle.com^$important
 #银河互联网网络电视
 @@||gitv.tv^$important
+# 放行Yep搜索引擎
+@@||yep.com^
+# 放行蓝奏云相关内容
+! 下载文件引擎
+@@||i72.lanzoug.com^
+@@||i82.lanzoug.com^
+! 第三方蓝奏云APP
+@@||appcenter.ms^
+! 图片加载
+@@||pic*.40017.cn^
+# 放行TapTap相关内容
+! AD推荐的游戏介绍加载
+@@||static-tapad.tapdb.net^
+! 游戏时间统计
+@@||report.taptapdada.com^
+# 放行小鸡词典官网加载
+@@||jikipedia.com^
+# 放行学信网APP内刷新
+@@||push.chsi.com.cn^
+# 放行酷安相关内容
+! 用户头像＆用户背景图
+@@||avatar.coolapk.com^
+! 某些APP图标加载
+@@||image.9game.cn^
+! 应用游戏界面视频加载
+@@||f.video.weibocdn.com^
+! 酷安模块头条重要通知加载
+! 316签名墙
+@@||316.coolapk1s.com^
+@@||api.coolapk1s.com^
+# 放行搜图引擎
+@@||saucenao.com^
+# 放行BOSS直聘页面加载
+@@||zhipin.com^
+# 放行豌豆荚相关内容
+! 普通下载文件地址
+@@||android-apps.pp.cn^
+! 应用图标
+@@||android-artworks.25pp.com^
+# 放行知乎相关内容
+! 主站
+@@||www.zhihu.com^
+! 网页排版
+@@||static.zhihu.com^
+! 视频加载
+@@||video.zhihu.com^
+! 文章图片
+! 移动端有些广告图也是此域名。
+@@||pic*.zhimg.com^
+! 跳转链接
+@@||link.zhihu.com^
+! 专栏加载
+@@||zhuanlan.zhihu.com^
+@@||vdn3.vzuu.com^
+@@||lens.zhihu.com^
+# 放行弹弹play磁力播放
+@@||hub5btmain.sandai.net^
+@@||hub5pn.wap.sandai.net^
+# 太平洋科技相关内容
+! 官网
+@@||www.pconline.com.cn^
+! 网页布局
+@@||js.3conline.com^
+! 移动端页面图片
+@@||www1.pconline.com.cn^
+! 移动端页面特殊按钮图标
+@@||www1.pcauto.com.cn^
+# 放行凤凰网科技相关内容
+! 作者头像＆二维码
+@@||x0.ifengimg.com^
+! 文章封面＆文章图片＆视频封面
+@@||d.ifengimg.com^
+# 放行磁力在线解析观看下载
+@@||webtor.io^
+@@||instant.io^
+# 放行steam APP图片加载
+@@||cdn.akamai.steamstatic.com^
+@@||community.akamai.steamstatic.com^
+# 放行IP地址查询
+! 900查询
+@@||ip.900cha.com^
+# 放行IP查询＆DNS查询
+@@||ipw.cn^
+# ip138相关内容
+! ip测试页电脑端
+@@||www.ip138.com^
+! ip测试页移动端
+@@||m.ip138.com^
+! 页面排版
+@@||cache.ip138.com^
+! 喜马拉雅音源加载
+@@||www.ximalaya.com^
+! 22听书网音频接口
+! 含喜马拉雅域名
+@@||aod.cos.tx.xmcdn.com^
+@@||fdfs.xmcdn.com^
+
+
+
 
 ！↓ 百度系 ↓
 #百度天气图标
@@ -360,8 +486,35 @@
 @@||himg.bdimg.com^$important
 @@||hectorstatic.baidu.com^$important
 @@||mbdp02.bdstatic.com^$important
+! 页面排版
+@@||bkssl.bdimg.com^
+# 放行百度搜索相关内容
+! 相关图片
+@@||t8.baidu.com^
+@@||t9.baidu.com^
+@@||t10.baidu.com^
+@@||t11.baidu.com^
+@@||t12.baidu.com^
+@@||mss0.bdstatic.com^
+! 热点内容相关封面
+@@||gips2.baidu.com^
+! 移动网页端网页布局
+! 拦截会导致搜出来的内容无法点击跳转
+@@||ms.bdstatic.com^
+! 搜索结果部分视频加载接口
+@@||psstatic.cdn.bcebos.com^
+! PC网页端搜索首页LOGO
+@@||pss.bdstatic.com^
+! PC网页端右上角天气图片
+@@||dss2.bdstatic.com^
+# 放行百度经验排版
+@@||exp-new.bdstatic.com^
 #百度知道头像
 @@||pic.rmb.bdstatic.com^$important
+! 官网
+@@||zhidao.baidu.com^
+! 用户回答图片
+@@||iknow-pic.cdn.bcebos.com^
 #百度手机助手网页版
 @@||ascdn.baidu.com^$important
 #百度地图街景
@@ -371,6 +524,10 @@
 @@||suggestion.baidu.com^$important
 #百度好看视频
 @@||haokan.baidu.com^$important
+# 百度相关网页提示App内阅读左侧Logo
+@@||b.bdstatic.com^
+# 放行百度图片首页顶部功能区图片
+@@||emoji.bj.bcebos.com^
 #百度翻译接口
 @@||fanyi.baidu.com^$important
 ! > 百度
@@ -868,6 +1025,36 @@
 
 ！  抖音系
 
+! App登录接口
+! 拦截后登录提示「系统繁忙」
+@@||log.snssdk.com^
+! 用户头像加载
+@@||p1.douyinpic.com^
+@@||p3.douyinpic.com^
+@@||p5.douyinpic.com^
+@@||p9.douyinpic.com^
+@@||p11.douyinpic.com^
+@@||p26.douyinpic.com^
+@@||p29.douyinpic.com^
+! 作品封面加载
+@@||p1-sign.douyinpic.com^
+@@||p3-sign.douyinpic.com^
+@@||p5-sign.douyinpic.com^
+@@||p6-sign.douyinpic.com^
+@@||p9-sign.douyinpic.com^
+@@||p26-sign.douyinpic.com^
+! 拦截后登录没反应
+@@||auth.zijieapi.com^
+! 拦截后显示「网络故障」
+@@||verify.zijieapi.com^
+! 拦截后验证图片无法加载
+@@||p3-catpcha.byteimg.com^
+@@||p6-catpcha.byteimg.com^
+@@||p9-catpcha.byteimg.com^
+! 短链接加载
+@@||v.douyin.com^
+! 内容双击点赞图标加载
+@@||p3-pc-weboff.byteimg.com^
 #抖音极速版表情
 @@||apischedule.ksyungslb.com^$important
 #抖音短剧接口
@@ -907,10 +1094,25 @@
 @@||zconfig.alibabausercontent.com^
 #手机淘宝网页端
 @@||main.m.taobao.com^$important
+! 官网
+@@||www.taobao.com^
+! 移动端官网
+! 登录接口
+@@||login.taobao.com^
+! 移动端登录接口
+@@||login.m.taobao.com^
+! 页面布局
+@@||o.alicdn.com^
+! 网页加载
+@@||h5api.m.tmall.com^
+! 商品页面
+@@||item.taobao.com^
 #1688网页版图片
 @@||cbu01.alicdn.com^$important
 #阿里系软件下载
 @@||download.alicdn.com^$important
+! 移动端商品详情页用户头像加载
+@@||sns.m.taobao.com^
 ! > 淘宝
 @@||click*.taobao.com^
 @@||accscdn.m.taobao.com^$important
@@ -942,6 +1144,8 @@
 @@||s.click.alimama.com^
 #淘宝菜鸟裹裹
 @@||appdownload.alicdn.com^
+! 账号与安全页面加载
+@@||my.cainiao.com^
 # 支付宝
 @@||mmstat.com^
 # 支付宝以及淘宝农场任务
@@ -1002,6 +1206,16 @@
 @@||p9-dcd-sign.byteimg.com^
 @@||open.bytedanceapi.com^
 @@||p3.dcarimg.com^$important
+! 内容图片加载，包括但不限于功能性按钮图标、栏目封面、用户头像、车型图片、直播封面。
+@@||p6-dcd.byteimg.com^
+@@||p5-auto.dcarimg.com^
+@@||p5-auto-sign.dcarimg.com^
+@@||p3-passport.byteacctimg.com^
+@@||p3-webcast-sign.douyinpic.com^
+@@||p6-webcast-sign.douyinpic.com^
+@@||p9-webcast-sign.douyinpic.com^
+! 二手车详情界面加载
+@@||lf6-cdn2-tos.bytegoofy.com^
 
 ##豆包
 @@||lf-c-flwb.bytetos.com^
@@ -1050,6 +1264,151 @@
 @@||mam.netease.com^$important
 @@||webzjcaptcha.reg.163.com^
 @@||api.iplay.163.com^
+# 放行网易云音乐相关内容
+! 页面端及资源加载
+@@||music.163.com^
+@@||*.music.126.net^
+! 客户端音乐加载
+@@||m701.music.126.net^
+@@||m801.music.126.net^
+@@||m8.music.126.net^
+@@||m7.music.126.net^
+! 客户端云村视频加载
+@@||vodkgeyttp9.vod.126.net^
+@@||vodkgeyttp8.vod.126.net^
+# 放行网易官网
+@@||www.163.com^
+@@||3g.163.com^
+! 页面排版
+@@||static.ws.126.net^
+! 文章图片
+@@||nimg.ws.126.net^
+# 放行网易游戏官网
+@@||game.163.com^
+# 放行网易游戏内容社区
+@@||play.163.com^
+! 网页图片
+@@||img3.cache.netease.com^
+@@||cms-bucket.ws.126.net^
+# 放行网易云游戏平台
+@@||cg.163.com^
+# 放行网易邮箱相关内容
+! 163邮箱官网
+@@||mail.163.com^
+! 126邮箱官网
+@@||www.126.com^
+! yeah邮箱官网
+@@||yeah.163.com^
+! 免费企业邮箱官网
+@@||ym.163.com^
+! 企业邮箱官网
+@@||qiye.163.com^
+! 企业邮箱登录入口
+@@||qy.163.com^
+! 进入网页版邮箱跳转
+! 下载页面跳转
+@@||u.163.com^
+! 下载接口跳转
+@@||res.126.net^
+! 拦截显示网络异常
+@@||cstaticdun-v6.126.net^
+# 放行网易靓号官网
+@@||haoma.163.com^
+# 放行网易CC直播相关内容
+! 官网
+@@||cc.163.com^
+! 移动端官网
+@@||h5.cc.163.com^
+! 移动网页端布局
+@@||h5static.cc.163.com^
+! 移动网页端内容加载
+! 拦截显示加载失败
+@@||api.cc.163.com^
+# 放行网易大神社区
+! PC首页
+@@||ds.163.com^
+! 移动端首页
+@@||m.ds.163.com^
+! API调用
+@@||api.ds.163.com^
+! App内视频加载
+! CC直播域名
+@@||vod.cc.163.com^
+! App内网易心小易界面游戏图标跳转链接
+@@||s.163.com^
+# 放行网易DNS检测工具
+# 放行网易易盾
+@@||dun.163.com^
+# 放行手机网易网
+@@||m.163.com^
+# 放行网易号官网
+@@||mp.163.com^
+# 放行网易新闻官网＆邮箱看世界窗口
+@@||news.163.com^
+# 放行网易云商相关内容
+! 七鱼官网
+@@||qi.163.com^
+! 云商官网
+@@||b.163.com^
+! 网页布局
+@@||res.qiyukf.net^
+! 官网Logo
+@@||ysf.qiyukf.net^
+# 放行网易云课堂相关内容
+! 官网
+@@||study.163.com^
+! 网页布局
+@@||swap.stu.126.net^
+# 放行网易数帆官网
+@@||sf.163.com^
+# 放行网易有数BI官网
+@@||youdata.163.com^
+# 放行网易伏羲官网
+@@||fuxi.163.com^
+# 放行网易雷火事业群官网
+@@||leihuo.163.com^
+# 放行网易家长关爱平台
+@@||jiazhang.gm.163.com^
+# 放行网易充值中心
+@@||ecard.163.com^
+# 放行网易游戏隐私政策接口
+! 《网易游戏隐私政策及儿童个人信息保护规则》
+@@||unisdk.update.netease.com^
+# 放行网易游戏客服中心相关内容
+! 官网
+@@||gm.163.com^
+! 网页布局
+@@||urswebzj.nosdn.127.net^
+# 放行网易藏宝阁相关内容
+! 官网
+@@||cbg.163.com^
+! 链接跳转
+@@||url.163.com^
+# 放行网易招聘相关内容
+! 校园招聘官网
+@@||campus.163.com^
+! 社会招聘官网
+@@||hr.163.com^
+# 放行网易开源镜像站
+@@||mirrors.163.com^
+# 放行网易发烧游戏平台相关内容
+! 官网
+@@||fever.163.com^
+! 页面布局
+! 拦截后打开官网会黑屏
+@@||mpay-web.g.mkey.163.com^
+! 客户端连接接口
+! 拦截后打开客户端显示「网络连接失败」
+@@||fcount-api.webapp.163.com^
+# 放行网易体育网
+@@||sports.163.com^
+# 放行网易MuMu模拟器官网
+@@||mumu.163.com^
+! 官网
+@@||id.163.com^
+! 跳转
+@@||reg.163.com^
+@@||mob.163.com^
 #网易云音乐 音效下载
 @@||d*.music.126.net^
 #网易图片
@@ -1067,9 +1426,32 @@
 @@||iask.cn^
 @@||iask.com.cn^
 @@||mix.sina.com.cn^
+! 更改头像＆更改封面
+@@||new.vip.weibo.cn^
+! 文章布局加载
+@@||js.t.sinajs.cn^
+! APP扫码后登陆页面加载
+@@||passport.weibo.cn^
+! 用户动态＆评论区表情加载
+@@||face.t.sinajs.cn^
+# 放行黑猫投诉相关内容
+! 官网
+@@||tousu.sina.com.cn^
+! 网页布局
+@@||n.sinaimg.cn^
+! 网页内容加载
+@@||news.sina.com.cn^
+! 右上角登录布局
+@@||i.sso.sina.com.cn^
+! 投诉内容详情域名
+@@||tousu.sina.cn^
 #新浪新闻网页误杀
 @@||cre.dp.sina.cn^
 @@||gk.sina.cn^
+! 新浪通行证注册页面
+@@||login.sina.com.cn^
+! 新浪通行证登录页面
+@@||passport.weibo.com^
 #网易年度总结
 @@||count.mail.163.com^
 #新浪新闻图片^
@@ -1162,6 +1544,8 @@ b站视频加载
 #夸克浏览器下载插件
 @@||pdds-c1-cdn.uc.cn^
 @@||pdds.ucweb.com^
+! 搜索结果列表
+@@||sugs.m.sm.cn^
 #UC浏览器网盘
 @@||uc.ucweb.com^
 @@||puds.ucweb.com^
@@ -1216,6 +1600,9 @@ b站视频加载
 @@||hmrz.wo.cn^$important
 @@||nishub1.10010.com^$important
 @@||enrichgw.10010.com^$important
+# 放行联通手机营业厅功能页面与图片显示
+@@||img.client.10010.com^
+@@||m1.img.10010.com^
 
 !   京东
 @@||gia.jd.com^$important
@@ -1305,6 +1692,40 @@ b站视频加载
 #360翻译
 @@||gw.shouji.360.cn^
 @@||msedown.360safe.com^
+网页总体布局
+@@||s*.ssl.qhimg.com^
+@@||s*.ssl.qhmsg.com^
+@@||s*.ssl.qhres2.com^
+! 网页图片
+@@||p*.qhimg.com^
+@@||se*.360simg.com^
+! 移动端官网
+@@||m.360.cn^
+! 360安全卫士官网
+@@||weishi.360.cn^
+! 360安全卫士下载接口
+@@||wsdl.360safe.com^
+! 360杀毒官网
+@@||sd.360.cn^
+! 360杀毒下载接口
+@@||sfdl.360safe.com^
+! 360安全浏览器官网
+! 360安全浏览器下载接口
+@@||down.360safe.com^
+! 360手机浏览器官网
+@@||mse.360.cn^
+! 360手机浏览器下载接口
+! 奇元图片资源官网
+@@||www.360simg.com^
+# 放行360搜索相关内容
+! 官网
+@@||www.so.com^
+! 移动端官网
+@@||m.so.com^
+! 验证码验证页面＆搜索参数错误页面
+@@||qcaptcha.so.com^
+! 搜索内容视频页面
+@@||m.360video.so.com^
 
 #系统判断联网
 !苹果
@@ -1366,6 +1787,12 @@ b站视频加载
 ##Flyme 游戏下载
 @@||api-game.meizu.com^$important
 @@||game.res.meizu.com^$important
+##官网
+@@||m.meizu.com^
+! 魅族商城
+@@||detail.meizu.com^
+! 服务支持
+@@||care.meizu.com^
 
 #OPPO 应用商店 主题 开屏广告
 @@||api-cn.store.heytapmobi.com^
