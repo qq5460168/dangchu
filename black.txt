@@ -2021,8 +2021,12 @@
 ||www.51hicard.com^$important
 ||datahub.haohuan.com^$important
 ||www.haohuan.com^$important
+||g5o.cn^$important
 
 #18+不良网站
+||insuranceapi.gzjunbo.net^$important
+||q7u.cn^$important
+||shfd.dfdd-toubiaole.com^$important
 ||奥门广场.com^
 ||21511.ua96.com^$important
 ||inews.gtimg.com^$important
