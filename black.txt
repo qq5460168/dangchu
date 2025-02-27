@@ -2018,10 +2018,14 @@
 ||event-tracking.xinfei.cn^$important
 #好分期
 ||w9t.cn^$important
+||g5o.cn^$important
 ||www.51hicard.com^$important
 ||datahub.haohuan.com^$important
 ||www.haohuan.com^$important
 ||g5o.cn^$important
+#吉用花
+||g94.cn^$important
+||jyhapp.za-xd.com^$important
 
 #18+不良网站
 ||insuranceapi.gzjunbo.net^$important
