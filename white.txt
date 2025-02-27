@@ -1,7 +1,8 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
-
+#云商城
+@@||cdn.staticfile.org^$important
 # 放行青柠起始页
 @@||limestart.cn^
 #kimi智能助手
@@ -94,8 +95,6 @@
 @@||ddys.pro^$important
 #nextdns
 @@||test.nextdns.io^$important
-#小红书分享链接
-@@||xhslink.com^$important
 #teams
 @@||teams.live.com^$important
 #ios毒奶
@@ -566,6 +565,9 @@
 @@||med-fe.cdn.bcebos.com^
 #百度贴吧表情误杀
 @@||static.tieba.baidu.com^
+! 网页版「吧」头像加载
+@@||imgsrc.baidu.com^
+@@||tb.himg.baidu.com^
 #百度网盘签到图片界面
 @@||staticsns.cdn.bcebos.com^
 # 百度贴吧
@@ -1008,6 +1010,8 @@
 @@||iface2.iqiyi.com^$important
 #爱奇艺vip
 @@||vip.iqiyi.com^$important
+! 视频封面
+@@||pic7.iqiyipic.com^
 #爱奇艺会员权益
 @@||passport.iqiyi.com^$important
 #爱奇艺会员成长体系
@@ -1093,6 +1097,8 @@
 @@||gm.mmstat.com^
 @@||wgo.mmstat.com^
 @@||zconfig.alibabausercontent.com^
+! PC页面端登陆验证接口
+@@||cf.aliyun.com^
 #手机淘宝网页端
 @@||main.m.taobao.com^$important
 ! 官网
@@ -1177,6 +1183,36 @@
 @@||img.alicdn.com^$important
 
 ！  番茄系
+! 网页排版
+@@||lf3-cdn-tos.bytescm.com^
+@@||lf3-short.bytegoofy.com^
+! 手机网页端顶部Logo加载＆作家福利轮播图加载
+! 手机网页端下载宣传轮播图加载
+@@||lf3-static.bytednsdoc.com^
+# 放行番茄小说APP相关内容
+! 小说封面
+@@||p6-novel.byteimg.com^
+! 听书智能朗读接口
+@@||v3-fq-tts.fqnovelvod.com^
+@@||v6-fq-tts.fqnovelvod.com^
+@@||v11-fq-tts.fqnovelvod.com^
+@@||v26-fq-tts.fqnovelvod.com^
+! 听书真人讲书接口
+! 倘若下方链接放行后，有个别音频无法播放，可使用通配符进行放行。
+! @@||v*-novelapp.fqnovelvod.com^
+@@||v5-novelapp.fqnovelvod.com^
+@@||v26-novelapp.fqnovelvod.com^
+# 放行番茄畅听相关内容
+! 官网
+@@||novelfm.changdunovel.com^
+! 音乐版官网
+@@||www.novelfm.com^
+! Android Apk下载页面
+@@||novelfm.zlink.toutiao.com^
+! 书籍封面接口＆用户头像接口
+@@||p3-novelfm-sign.novelfmpic.com^
+@@||p6-novelfm-sign.novelfmpic.com^
+@@||p9-novelfm-sign.novelfmpic.com^
 #番茄小说听书
 @@||v3-novelapp.fqnovelvod.com^$important
 #番茄小说
@@ -1232,6 +1268,64 @@
 @@||p6-flow-imagex-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||swimg1.hstdyf.com^$important
+
+# 放行小红书相关内容
+! 官网
+@@||www.xiaohongshu.com^
+#小红书分享链接
+@@||xhslink.com^$important
+! 网页布局
+@@||fe-static.xhscdn.com^
+! 用户头像加载
+@@||sns-avatar-qc.xhscdn.com^
+! 网页端表情加载
+@@||picasso-static.xiaohongshu.com^
+! 手机网页端左上角Logo加载
+@@||ci.xiaohongshu.com^
+! 英文介绍页宣传视频加载
+! PC网页端登录界面二维码加载＆评论显示接口
+@@||fe-video-qc.xhscdn.com^
+
+# 放行拼多多
+! 官网
+@@||www.pinduoduo.com^
+! 移动端官网
+@@||m.pinduoduo.com^
+! 移动端网页布局
+! 拦截后「打开网页白屏」
+@@||mcdn.pinduoduo.com^
+! 移动端顶部宣传图＆官网页面布局
+@@||cdn.pinduoduo.com^
+! 移动端顶部宣传图跳转接口
+@@||lp.pinduoduo.com^
+! 移动端精品分类图标
+@@||img.pddpic.com^
+@@||commimg.pddpic.com^
+@@||t*img.yangkeduo.com^
+! APP下载页面
+@@||download.pinduoduo.com^
+! APP下载页面布局
+@@||lpcdn.pinduoduo.com^
+! 商品分享链接加载
+! 同时也是助力扫码跳转链接
+! 页面端商品跳转网页布局
+@@||static.pddpic.com^
+! 页面端商品跳转网页图片
+@@||funimg.pddpic.com^
+! 批发官网
+@@||pifa.pinduoduo.com^
+! 批发移动端官网
+@@||mms.pinduoduo.com^
+! 批发网页布局
+! 拦截后「打开网页空白」
+@@||mms-static.pddpic.com^
+! 商家版官网
+@@||mai.pinduoduo.com^
+! 商家版网页布局
+@@||mms-static.pinduoduo.com^
+#拼多多视频封面
+@@||video3.pddpic.com^$important
+@@||video2.pddpic.com^$important
 
 !google系
 @@||facebook.com^$important
@@ -1488,6 +1582,7 @@
 !   哔哩哔哩
 
 #B站
+@@||cm.bilibili.com^$important
 @@||broadcastlv.chat.bilibili.com^
 @@||app.bilibili.com^$important
 @@||data.bilibili.com^
@@ -1501,6 +1596,73 @@
 @@||space.bilibili.com^$important
 b站视频加载
 @@||upos-sz-*.bilivideo.com^$important
+! 官网
+@@||www.bilibili.com^
+! 移动端官网
+@@||m.bilibili.com^
+! 网页端评论区未登录时左侧小头像
+@@||static.hdslb.com^
+! 网页端动态加载
+@@||api.vc.bilibili.com^
+! 首页个别图片加载
+@@||i0.hdslb.com^
+@@||i1.hdslb.com^
+@@||i2.hdslb.com^
+! 专栏加载页面
+@@||s1.hdslb.com^
+! CC字幕加载
+@@||aisubtitle.hdslb.com^
+! 系统通知页面及其活动加载组件
+@@||message.bilibili.com^
+@@||activity.hdslb.com^
+! 任务中心
+@@||member.bilibili.com^
+! 贝壳账户页面
+@@||pay.bilibili.com^
+! 荣誉周报加载排版
+@@||s2.hdslb.com^
+! 游戏条款加载
+@@||game.bilibili.com^
+@@||static.biligame.com^
+! 会员购商品页面加载
+@@||mall.bilibili.com^
+! 立即下载页面
+@@||d.bilibili.com^
+! 手机网页端浏览时，点击APP专属视频时跳转的哔哩哔哩apk下载接口
+@@||dl.hdslb.com^
+! PC端哔哩UWP进入视频时调用的官方接口
+@@||grpc.biliapi.net^
+! BWIKI首页
+@@||wiki.biligame.com^
+! BWIKI网页排版
+@@||staticwiki.biligame.com^
+! BWIKI网页图片
+@@||patchwiki.biligame.com^
+! 游戏中心游戏下载链接
+@@||pkg.biligame.com^
+! 账号安全页面
+! 新版本APP登录时验证账号安全
+@@||passport.bilibili.com^
+! 客户端下载中心
+! UP主主页商品页面加载
+@@||cm.bilibili.com^
+! 合集封面
+@@||archive.biliimg.com^
+! BiLiBiLi游戏官网
+@@||www.biligame.com^
+! BiLiBiLi游戏官网内容加载
+@@||line1-h5-pc-api.biligame.com^
+@@||line3-h5-pc-api.biligame.com^
+! BiLiBiLi移动游戏中心
+@@||app.biligame.com^
+! BiLiBiLi移动游戏中心网页布局
+@@||static-mobilegame-1.biligame.net^
+! BiLiBiLi移动游戏中心内容加载
+@@||line1-h5-mobile-api.biligame.com^
+@@||line3-h5-mobile-api.biligame.com^
+@@||line3-statics-h5-mobile-api.biligame.net^
+! 网页中输入此地址会跳转至页面端界面
+@@||big.bilibili.com^
 
 ！ 头条
 
@@ -1522,6 +1684,24 @@ b站视频加载
 @@||d.toutiao.com^$important
 #头条授权登陆
 @@||open.snssdk.com^
+! 官网
+@@||www.toutiao.com^
+! 手机页面端官网
+! 同时也是懂车帝手机页面端文章顶部内容推荐＆热门推荐＆精彩推荐接口
+@@||m.toutiao.com^
+! 文章作者头像加载
+@@||sf1-cdn-tos.toutiaostatic.com^
+@@||sf3-cdn-tos.toutiaostatic.com^
+@@||sf6-cdn-tos.toutiaostatic.com^
+! 文章封面接口＆文章内图片接口＆视频封面接口
+! 手机网页端作者主页加载
+! 拦截显示网络不给力
+@@||sf6-cdn-tos.douyinstatic.com^
+! 作者主页头像加载
+@@||sf3-cdn-tos.bdxiguastatic.com^
+! 下载App页面
+! 作者主页内点击文章跳转
+@@||article.zlink.toutiao.com^
 
 ##夸克网盘
 @@||drive.quark.cn^$important
@@ -1533,6 +1713,15 @@ b站视频加载
 @@||uop.quark.cn
 @@||api2-album.quark.cn^$important
 @@||pan.quark.cn^$important
+! 手机号码登陆接口＆网页端扫描登陆接口
+@@||uop.quark.cn^
+! 手机号码登录窗口布局(PC端＆手机端)
+! 网页端资源列表加载
+! 拦截后显示「网络异常，请稍后重试。」
+@@||drive-pc.quark.cn^
+@@||drive-h.quark.cn^
+! 网页端用户头像与文件图标
+@@||image.quark.cn^
 #夸克
 @@||quark.cn^
 @@||px.wpk.quark.cn^$important
@@ -1644,7 +1833,79 @@ b站视频加载
 @@||api.jdl.com^$important
 @@||lop-proxy.jd.com^$important
 @@||erp.jd.com^$important
+! 官网
+@@||www.jd.com^
+! 移动端官网
+! 同时也是官网的商品加载接口
+@@||m.jd.com^
+! 官网登录界面网页布局
+@@||storage.jd.com^
+! 网页版加载
+@@||wq.360buyimg.com^
+! 网页布局
+@@||storage.360buyimg.com^
+! 商品页面前的跳转
+@@||wk.idey.cn^
+! 拦截后「一直商品介绍加载中」
+@@||static.360buyimg.com^
+! 商品图片及其各种图
+! 参考：https://h5.jd.com/article/247.html
+@@||img10.360buyimg.com^
+@@||img12.360buyimg.com^
+@@||img13.360buyimg.com^
+@@||img30.360buyimg.com^
+! 奇妙应用App内容图片＆应用图标
+@@||kjimg10.360buyimg.com^
+! 京东联盟官网
+@@||union.jd.com^
+! 移动网页端顶部快捷入口图标
+@@||m15.360buyimg.com^
+! 移动网页端登录后的自动跳转
+@@||h5.360buyimg.com^
+! 视频评测＆评论区视频
+@@||jvod.300hu.com^
+! 京喜
+@@||st.jingxi.com^
 
+#   美团
+
+! 官网
+@@||www.meituan.com^
+! 网页布局
+! 美团网账号登录处背景图片接口
+@@||s3plus.meituan.net^
+! 官网图片接口
+@@||img.meituan.net^
+! 入驻美团网页布局
+@@||s3.meituan.net^
+! 拦截后「上述三处打开白屏」
+@@||s1.meituan.net^
+! 创业参考跳转接口
+@@||cube.meituan.com^
+! 创业参考网页布局
+@@||cube.meituan.net^
+! 创业参考相关推荐封面＆部分用户头像
+@@||s3plus-img.meituan.net^
+! 加盟榜部分品牌图片接口
+@@||p1.meituan.net^
+! 拦截显示「您的网络好像不太给力」
+@@||appsec-mobile.meituan.com^
+! 美团开店宝登录跳转接口
+! 拦截后「网页白屏」
+@@||awp-assets.meituan.net^
+! 美团外卖商家自入驻网页布局
+! 拦截后「网页白屏」
+@@||lx.meituan.net^
+! 客服反馈信息短链接平台
+! 客服反馈信息上传平台
+@@||h5.dianping.com^
+! APP设置页各选项内容布局加载
+@@||i.meituan.com^
+! APP消息列表加载
+! 含商家骑手聊天
+@@||api.neixin.cn^
+! APP聊天窗口内图片加载
+@@||file.neixin.cn^
 ！美团
 @@||dreport.meituan.net^$important
 #美团推送(大众点评)
@@ -2040,8 +2301,6 @@ b站视频加载
 @@||ap.6wz.co^$important
 @@||push1.91cloud.net^$important
 @@||pull2.91cloud.net^$important
-@@||video3.pddpic.com^$important
-@@||video2.pddpic.com^$important
 @@||static.qiyi.com^$important
 @@||ecmb.bdimg.com^$important
 @@||mobile.ximalaya.com^$important
