@@ -705,7 +705,6 @@
 ||cn.gdt.qq.com^
 ||v3.gdt.qq.com^
 ||vv6.video.qq.com^
-||tianshu.qq.com^
 ||services.xiangji.qq.com^
 ||xscdn.gdt.qq.com^
 ||yun-hl.3g.qq.com^
