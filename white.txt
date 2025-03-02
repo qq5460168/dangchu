@@ -1,6 +1,10 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
+#极限软件园
+@@||m.jxdown.com^$important
+@@||img.jxdown.com^$important
+@@||jxdown.com^$important
 #一加相册插件
 @@||fourier-videoclip-eu.allawnos.com^$important
 # 放行海信官网
