@@ -16,7 +16,7 @@
 # 放行青柠起始页
 @@||limestart.cn^
 #kimi智能助手
-@@||prod-chat-kimi-tos.moonshot.cn
+@@||prod-chat-kimi-tos.moonshot.cn^
 #adobe
 @@||na1r.services.adobe.com^
 @@||ereg.adobe.com^
