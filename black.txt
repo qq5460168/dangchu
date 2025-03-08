@@ -986,7 +986,6 @@
 ||creport.start.qq.com^
 ||test.tv.video.qq.com^
 ||htest.tdm.qq.com^
-||v.streaming.qq.com^
 ||ltssjy.qq.com^
 ||ltsbsy.qq.com^
 ||2052.flash2-http.qq.com^
