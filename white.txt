@@ -743,6 +743,8 @@
 
 ！ QQ系
 
+#应用宝模拟器登录接口
+@@||v.stream.qq.com^$important
 #腾讯健康系统
 @@||jiazhang.qq.com^
 #QQ收藏
