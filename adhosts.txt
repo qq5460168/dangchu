@@ -1350,7 +1350,6 @@
 127.0.0.1 dd.toponad.com
 127.0.0.1 dev.dc.letv.com
 127.0.0.1 devicemgr.hpplay.cn
-127.0.0.1 dldir1v6.qq.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 dspserver.ad.cmvideo.cn
