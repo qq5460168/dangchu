@@ -1,6 +1,25 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
+
+# 放行安居客
+#官网
+@@||www.anjuke.com^
+#地区官网
+@@||*.anjuke.com$important
+#移动端官网
+@@||m.anjuke.com^
+#分类图片接口
+@@||pic6.ajkimg.com^
+# 放行即梦AI
+#灵感封面加载
+@@||p3-heycan-hgt-sign.byteimg.com^
+@@||p6-heycan-hgt-sign.byteimg.com^
+@@||p9-heycan-hgt-sign.byteimg.com^
+#作者头像加载
+@@||p3-faceu-img-sign.byteimg.com^
+@@||p6-faceu-img-sign.byteimg.com^
+@@||p9-faceu-img-sign.byteimg.com^
 #极限软件园
 @@||m.jxdown.com^$important
 @@||img.jxdown.com^$important
@@ -91,6 +110,53 @@
 #转转
 @@||app.zhuanzhuan.com^$important
 @@||m.zhuanzhuan.com^$important
+# 放行阅文集团
+#阅文集团官网
+@@||www.yuewen.com^
+#起点小说网登陆注册接口
+@@||passport.qidian.com^
+#起点小说网登陆注册二维码接口与微信登陆注册接口
+@@||ptlogin.yuewen.com^
+#起点小说中文网
+@@||www.qidian.com^
+@@||m.qidian.com^
+#起点小说女生网
+@@||www.qdmm.com^
+@@||m.qdmm.com^
+#起点小说女生网顶部宣传图
+@@||img1.qidian.com^
+#起点小说网页排版
+@@||qdfepccdn.qidian.com^
+#起点小说PC网页端＆手机网页端首页轮播图接口
+@@||bossaudioandcomic-1252317822.image.myqcloud.com^
+#起点小说书籍封面图
+@@||bookcover.yuewen.com^
+#起点小说PC网页端书籍详情页
+#手机网页端书籍详情页跳转链接
+@@||book.qidian.com^
+#起点小说书籍详情页作者头像接口
+@@||ccportrait.yuewen.com^
+#起点小说作家说头像接口
+@@||facepic.qidian.com^
+#起点小说公示文章接口
+@@||acts.qidian.com^
+#起点小说公示文章页面布局
+@@||qidian.gtimg.com^
+#起点小说男生网手机网页端特殊功能按钮图片接口
+#起点小说女生网手机页面端书籍分区加载＆书籍封面接口
+@@||imgservices-1252317822.image.myqcloud.com^
+#阅文作家专区官网
+@@||write.qq.com^
+#阅文作家专区页面布局
+@@||stawritecdn.yuewen.com^
+#阅文作家专区登陆注册接口
+@@||passport.yuewen.com^
+#起点游戏首页
+@@||game.qidian.com^
+#起点游戏首页页面布局
+@@||img.qidian.com^
+#起点游戏封面
+@@||gameimg.qidian.com^
 #迅雷下载
 @@||down.sandai.net^
 #4399小游戏
@@ -330,6 +396,8 @@
 @@||*.in-addr.arpa^$important
 #123网盘app
 @@||sdk-api.beizi.biz^$important
+# 放行123云盘手机网页布局
+@@||statics.123pan.com^
 #盒子定位
 @@||restapi.amap.com^$important
 #脚本之家
@@ -2194,6 +2262,8 @@ b站视频加载
 @@||dig.zjurl.cn^
 @@||i.snssdk.com^
 @@||sf3-ttcdn-tos.pstatp.com^
+#页面布局＆图片加载
+@@||lf1-cdn-tos.bytescm.com^
 
 #放行一堆click
 @@||click-trk.com^
