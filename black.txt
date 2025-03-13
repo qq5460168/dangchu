@@ -777,7 +777,6 @@
 ||finderydy.video.qq.com^
 ||rmonitor.qq.com^
 ||ads.privacy.qq.com^
-||dldir1v6.qq.com^
 ||ipv4.gdt.qq.com^
 ||aegis.qq.com^
 ||monitor.l.qq.com^
