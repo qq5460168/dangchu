@@ -811,6 +811,20 @@
 
 ！ QQ系
 
+#QQ空间图片加载＆视频加载
+@@||qzs.qq.com^
+#QQ空间说说图片上传接口
+@@||v6.pic.upqzfile.com^
+#QQ链接跳转
+@@||qm.qq.com^
+#QQ日签卡图片加载
+@@||tianshu.gtimg.cn^
+#听歌时长记录
+@@||stat6.y.qq.com^
+#QQ音乐首页
+@@||y.qq.com^
+#推荐歌曲图片加载
+@@||y.gtimg.cn^
 #应用宝模拟器登录接口
 @@||v.stream.qq.com^$important
 #腾讯健康系统
