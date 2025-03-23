@@ -1642,7 +1642,6 @@
 ||lens.zhihu.com^
 ||api.zhihu.com/ab/*^
 ||sugar.zhihu.com^
-||duga.zhihu.com^
 ||datahub.zhihu.com^
 ||m-cloud.zhihu.com^
 ||klink.volceapplog.com^
