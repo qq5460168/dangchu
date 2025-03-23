@@ -510,6 +510,7 @@
 @@||zhuanlan.zhihu.com^
 @@||vdn3.vzuu.com^
 @@||lens.zhihu.com^
+@@||duga.zhihu.com^$important
 # 放行弹弹play磁力播放
 @@||hub5btmain.sandai.net^
 @@||hub5pn.wap.sandai.net^
