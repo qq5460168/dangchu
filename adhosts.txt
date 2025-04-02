@@ -2865,7 +2865,6 @@
 127.0.0.1 nj.baichuan.baidu.com
 127.0.0.1 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 127.0.0.1 novelapp.fqnovelvod.com
-127.0.0.1 nr-op.elemecdn.com
 127.0.0.1 nspt.bdstatic.com
 127.0.0.1 nzapi.getui.com
 127.0.0.1 nzrestapi.getui.com
