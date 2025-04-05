@@ -2017,6 +2017,8 @@ b站视频加载
 @@||im-x.jd.com^$important
 !京东一号店
 @@||yhd.com^$important
+#京东外卖
+@@||policy.jd.com^$important
 #一号店优惠券
 @@||vip-pro.m.yhd.com^$important
 @@||venus.yhd.com^$important
