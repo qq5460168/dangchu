@@ -1793,6 +1793,8 @@
 @@||g.msn.com^
 !B站弹幕
 @@broadcastlv.chat.bilibili.com^
+#pilipalax
+@@||mcdn.bilivideo.cn^$important
 #B直播
 @@||api.live.bilibili.com^
 #B站APP关注列表
