@@ -1376,16 +1376,6 @@
 ||adashx.ut.cainiao.com^
 ||h-adashx.ut.cainiao.com^
 
-#电影港跳转广告
-||*.searesource.top^$important
-||*.guanaibao.com^$important
-||*.xiangde.top^$important
-||*.zxscn.com^$important
-||hy040803.298754.cc^$important
-||*.taoroad.com.cn^$important
-||frt040803.341035.cc^$important
-
-
 # Google | 谷歌
 ||media.mobpartner.mobi^
 ||ads2.mediaarmor.com^
@@ -4074,8 +4064,6 @@ www.itdog.cn##.rounded-lg
 ||*.kwilmid.top^
 ||*.yinghua-*.cc^
 ||*.jjzemoc3ca.top^
-||*.aliyuncsslb.com^
-||*.aliyuncsslbintl.com^
 ||xa1jgfbdlwf2ncxq.*.com^
 ||*.jennylisnerphotography.com^
 ||*-*.ap-east-1.elb.amazonaws.com^
@@ -4222,3 +4210,20 @@ www.itdog.cn##.rounded-lg
 ||hub5idx.v6.shub.sandai.net^
 ||hub5emu.v6.shub.sandai.net^
 ||hub5btmain.v6.shub.sandai.net^
+
+#电影港
+||*.nswsu.com^$important
+||*.04kai.org^$important
+||*.rhjdc.com^$important
+||*.kbddftp.cn^$important
+||frt041202.045189.cc^$important
+||kowuie.sydneypass.info^$important
+||yu041202.982051.cc^$important
+||*.searesource.top^$important
+||*.guanaibao.com^$important
+||*.xiangde.top^$important
+||*.zxscn.com^$important
+||hy040803.298754.cc^$important
+||*.taoroad.com.cn^$important
+||frt040803.341035.cc^$important
+
