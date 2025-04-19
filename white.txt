@@ -1,6 +1,8 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
+#中国电信app
+@@||appgoad.189.cn^$important
 #爱回收
 @@||aihuishou.com^$important
 #雨课堂
