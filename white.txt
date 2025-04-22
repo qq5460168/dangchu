@@ -417,6 +417,7 @@
 #dropbox
 @@||www-env.dropbox-dns.com^$important
 #喜马拉雅音频下载
+@@||audiopaydl.pcdn.xmcdn.com^$important
 @@||ietheivaicai.com^$important
 #针对转转App
 @@||app.zhuanzhuan.com^$important
