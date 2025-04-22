@@ -21,7 +21,4 @@
 ```bash
 curl -o /etc/hosts https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/SMhosts.txt
 
-## 反馈: 
-🐧群: [AdGuard home小窝](https://qm.qq.com/q/bRFsKddXq0) 
- 
 
