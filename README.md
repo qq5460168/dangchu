@@ -22,6 +22,5 @@
 
 ### Hosts文件
 ```bash
-curl -o /etc/hosts https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/SMhosts.txt
-
+curl -o /etc/hosts https://raw.githubusercontent.com/qq5460168
 
