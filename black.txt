@@ -1692,7 +1692,6 @@
 
 ##翡翠影视
 ||guanggao-prod.cn-shanghai.log.aliyuncs.com^
-||js.a.kspkg.com^
 ||h35.ynodd.cn^
 ||etn.076lvo.xyz^
 ||errnotice.oss-cn-shenzhen.aliyuncs.com^
