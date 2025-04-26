@@ -759,6 +759,10 @@
 @@||api.kwaizt.com^
 #快手送礼物
 @@||w1.kskwai.com^
+! 快手小程序视频分享加载
+@@||wxmini-api.uyouqu.com^
+@@||txmov2.a.kwimgs.com^
+@@||*.a.yximgs.com^
 
 ！ 优酷系
 #优酷app 兑换vip
