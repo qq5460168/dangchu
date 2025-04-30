@@ -425,9 +425,7 @@
 ||w2.kskwai.com^
 ||w1.gskwai.com^
 ||w2.gskwai.com^
-||p2-lm.adukwai.com^
 ||p*-lm.adkwai.com^
-||p*-lm.adukwai.com^
 ||v2.oskwai.com^
 ||p1-lm.adkwai.com^
 ||p1-ad.adukwai.com^
@@ -436,9 +434,7 @@
 ||p4-ad.adukwai.com^
 ||p5-ad.adukwai.com^
 ||p6-ad.adukwai.com^
-||p1-lm.adukwai.com^
 ||p1-ff.adkwai.com^
-||v4-lm.adukwai.com^
 ||frontend-perf-service.e.kuaishou.com^
 ||p2.adkwai.com^
 ||w2.eckwai.com^
