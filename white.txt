@@ -1,7 +1,64 @@
 ﻿! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
 
-#喜番短路
+##火山引擎
+@@||portal.volccdn.com^
+##有柿
+@@||p3-iz-e-sign.byteimg.com^
+##淘小说
+@@||tybook.taoyuewenhua.net^
+##火山翻译
+@@||p3-scmimg.bytescm.com^
+@@||ipolyfill-origin.bytedance.com^
+##快影
+@@||ali-ky.static.yximgs.com^
+##剪映
+@@||p*-faceu-img-sign.byteimg.com^
+@@||p*-passport.byteacctimg.com^
+##Faceu激萌
+@@||effect.snssdk.com^
+##风行视频
+@@||cp2-cdn-play.funshion.com^
+@@||img.funshion.com^
+@@||img*.funshion.com^
+@@||puser.funshion.com^
+@@||pvip.funshion.com^
+@@||po.funshion.com^
+@@||pm.funshion.com^
+##酷我音乐
+@@||search.kuwo.cn^
+@@||mobilist.kuwo.cn^
+@@||ncomment.kuwo.cn^
+@@||vip1.kuwo.cn^
+##樱花动漫
+@@||v16m-default.akamaized.net^
+##菠菜
+@@||meiqia.com^
+##当鸟动漫
+@@||mooc-image.nosdn.127.net^
+##乐播投屏
+@@||tvapp.hpplay.cn^
+@@||h5.hpplay.com.cn^
+@@||sl.hpplay.cn^
+@@||conf.hpplay.cn^
+##咪咕视频
+@@||v.miguvideo.com^
+##Appshare
+@@||edu-image.nosdn.127.net^
+##快看视频
+@@||yanxuan.nosdn.127.net^
+##中国移动
+@@||qwhdcdn.cmcc-cs.cn^
+##巴哈姆特動畫瘋
+@@||data.flurry.com^
+##飞猪
+@@||cdn.ynuf.aliapp.org^
+##酷安
+@@||necaptcha.nosdn.127.net^
+##虎牙直播
+@@||ylog.huya.com^
+#喜番短剧
+@@||tube.e.kuaishou.com^$important
 @@||ali2-course.video.yximgs.com^$important
 @@||p1-lm.adbkwai.com^$important
 @@||p2-lm.adukwai.com^$important
@@ -439,8 +496,6 @@
 @@||api-cn.cdo.heytapmobi.com^$important
 #直播吧
 @@||m.zhibo8.com^$important
-#喜番短剧
-@@||tube.e.kuaishou.com^$important
 #脚本之家
 @@||common.jbzj.com^$important
 #gp助手
@@ -736,6 +791,9 @@
 @@||tb.himg.baidu.com^
 #百度网盘签到图片界面
 @@||staticsns.cdn.bcebos.com^
+##百度云盘
+@@||tcbox.baidu.com^
+@@||nsclick.baidu.com^
 # 百度贴吧
 @@||gsp1.baidu.com^
 @@||sp0.baidu.com^
@@ -768,6 +826,14 @@
 @@||wxmini-api.uyouqu.com^
 @@||txmov2.a.kwimgs.com^
 @@||*.a.yximgs.com^
+##快手
+@@||d*.static.yximgs.com^
+@@||d*-magic.static.yximgs.com^
+@@||bs-origin.pull.yximgs.com^
+@@||live*.static.yximgs.com^
+@@||*m.chenzhongtech.com^
+@@||js-gamezone.static.yximgs.com^
+@@||ali-gamezone.static.yximgs.com^
 
 ！ 优酷系
 #优酷app 兑换vip
@@ -1371,6 +1437,9 @@
 @@||s.click.alimama.com^
 #淘宝菜鸟裹裹
 @@||appdownload.alicdn.com^
+##菜鸟裹裹
+@@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
+@@||na61-na62.wagbridge.alibaba.tanx.com^
 #账号与安全页面加载
 @@||my.cainiao.com^
 # 支付宝
@@ -1591,6 +1660,15 @@
 #客户端云村视频加载
 @@||vodkgeyttp9.vod.126.net^
 @@||vodkgeyttp8.vod.126.net^
+##网易严选
+@@||yanxuan-dl.nosdn.127.net^
+@@||yanxuan-item.nosdn.127.net^
+##网易邮箱大师
+@@||onegoods.nosdn.127.net^
+##网易有道词典
+@@||ydlunacommon-cdn.nosdn.127.net^
+@@||luna-dict-community.nosdn.127.net^
+@@||foundation.youdao.com^
 # 放行网易官网
 @@||www.163.com^
 @@||3g.163.com^
@@ -1945,6 +2023,9 @@ b站视频加载
 #网页端用户头像与文件图标
 @@||image.quark.cn^
 #夸克
+@@||download.uc.cn^
+@@||soutiapi.quark.cn^
+@@||souti-ims.sm.cn^
 @@||quark.cn^
 @@||px.wpk.quark.cn^$important
 @@||dw-data-channel.quark.cn^$important
@@ -2212,6 +2293,24 @@ b站视频加载
 @@||qcaptcha.so.com^
 #搜索内容视频页面
 @@||m.360video.so.com^
+##360防骚扰大师
+@@||s.mvconf.f.360.cn^
+@@||scan.call.f.360.cn^
+@@||shouji.360.cn^
+##360摄像机
+@@||passport.360.cn^
+@@||report.passport.360.cn^
+@@||app.home.360.cn^
+@@||jia.360.cn^
+@@||fastconn-api.iot.360.cn^
+@@||speed.live.360.cn^
+@@||cloudcontrol.live.360.cn^
+@@||sdk.live.360.cn^
+@@||mdm.openapi.360.cn^
+@@||dp.push.dc.360.cn^
+@@||mall.360.cn^
+##360扫地机
+@@||smart.360.cn^
 
 #系统判断联网
 !苹果
