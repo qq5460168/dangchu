@@ -1289,6 +1289,8 @@
 @@||static-s.iqiyi.com^$important
 @@||m.iqiyi.com^$important
 #爱奇艺
+@@||cache.video.iqiyi.com^$important
+@@||abbott.iqiyi.com^$important
 @@||www.iqiyi.com^$important
 @@||t7z.cupid.iqiyi.com^
 @@||cmts.iqiyi.com^$important
