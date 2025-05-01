@@ -524,7 +524,6 @@
 ||opportunarch.iqiyi.com^
 ||msga.cupid.iqiyi.com^
 ||cook.iqiyi.com^
-||passport.iqiyi.com^
 ||policy.video.iqiyi.com^
 ||ip-geo.iqiyi.com^
 ||drml.video.iqiyi.com^
