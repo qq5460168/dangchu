@@ -529,7 +529,6 @@
 ||ip-geo.iqiyi.com^
 ||drml.video.iqiyi.com^
 ||flux.iqiyi.com^
-||cache.video.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
 ||puma-api.iqiyi.com^
 ||data.video.iqiyi.com^
@@ -1229,7 +1228,6 @@
 ||httpdns.ocloud.oppomobile.com^
 ||*.dns-detect.alicdn.com^
 ||now-dns.org^
-||ipv6-static.dns.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
 ||*.dns-detect.alicdn.com^
 ||dns*po.lzn376.com^
