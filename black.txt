@@ -558,7 +558,6 @@
 ||ads.game.iqiyi.com^
 ||kjp.cupid.iqiyi.com^
 ||meta.video.iqiyi.com^
-||passport..iqiyi.com^
 ||v6-data.video.dns.iqiyi.com^
 ||iface2.dns.iqiyi.com^
 ||bj.vip.waf.dns.iqiyi.com^
