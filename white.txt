@@ -62,6 +62,7 @@
 @@||ali2-course.video.yximgs.com^$important
 @@||p1-lm.adbkwai.com^$important
 @@||p2-lm.adukwai.com^$important
+@@||p2-lm.adbkwai.com^$important
 @@||p1-lm.adukwai.com^$important
 #中国电信app
 @@||appgoad.189.cn^$important
