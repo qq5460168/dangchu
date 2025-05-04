@@ -2100,6 +2100,7 @@ b站视频加载
 @@||m1.img.10010.com^
 
 #  京东
+@@||wq.jd.com^$important
 @@||gia.jd.com^$important
 @@||wl.jd.com^$important
 @@||mjrpay.jd.com^$important
