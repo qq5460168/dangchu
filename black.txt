@@ -639,7 +639,6 @@
 ||dsp.simba.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||h-adashx4bc.ut.taobao.com^
-||mini-app-packages-cdn.taobao.com^
 ||hybrid.miniapp.taobao.com^
 ||trade.taobao.com^
 ||taobao.qq.com^
